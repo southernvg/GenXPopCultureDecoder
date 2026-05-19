@@ -1,4 +1,4 @@
-# The Gen X Pop Culture Decoder
+# The Gen X Pop Culture Media (TV/Movie) Decoder
 
 ### A field guide to the movies and TV shows we will not stop quoting — translated for the people who weren't there
 
