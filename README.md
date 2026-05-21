@@ -6,7 +6,7 @@
 
 ## How to use this guide
 
-If you've ever been in a meeting where someone in their 40s or 50s said "I'm telling you, Cotton, they let the dogs out" or "you can't handle the truth" or just yelled "STELLA!" across an open-plan office for no apparent reason — congratulations, you've met Gen X in its natural habitat.
+If you've ever been in a meeting where someone in their 40s or 50s said "You're gonna need a bigger boat." or "you can't handle the truth" or just yelled "STELLA!" across an open-plan office for no apparent reason — congratulations, you've met Gen X in its natural habitat.
 
 We can't help it. Between roughly 1970 and 2005, a very specific batch of movies and TV shows wired themselves into our brains during the formative years of childhood and adolescence. The 70s movies are an interesting case — most of us were too young to see them in theaters, but they were *everywhere* on cable and VHS through the 80s, which is when they actually wired themselves into us. Cable was new. The video store was a destination. There were three or four broadcast networks, no streaming, no algorithm — which means we *all* watched the same stuff at roughly the same time, and watched it again and again on rented VHS tapes and on TBS during summer break. The result is a shared vocabulary that we deploy without warning.
 
