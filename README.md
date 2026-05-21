@@ -59,3 +59,9 @@ Most of these movies were watched on VHS, often rented from a store called Block
 If you really want to get the references in real time, start with the highest-density quote-bombs: Caddyshack, Ghostbusters, Princess Bride, Tommy Boy, Happy Gilmore, Big Lebowski, Office Space, Anchorman, Step Brothers, and pretty much any 90s Seinfeld episode. Six hours with those will let you decode roughly 80% of what Gen X says at dinner.
 
 Welcome to the party, pal.
+
+---
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
