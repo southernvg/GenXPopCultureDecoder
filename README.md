@@ -824,7 +824,22 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 53. So I Married an Axe Murderer (1993)
+## 53. Wind (1992)
+
+**Plot in plain language.** A young sailor (Matthew Modine) blows his shot at winning the America's Cup for the United States, and the boat goes to Australia. Disgraced, he goes off to the desert with his ex-girlfriend (Jennifer Grey) and a brilliant aerospace engineer (Stellan Skarsgård) to design a radical new boat, recruit a ragtag crew, and challenge the Australians to take the Cup back. Directed by Carroll Ballard (*The Black Stallion*, *Never Cry Wolf*), who knew how to shoot wind and water like no one else. The on-water cinematography is still some of the best ever filmed.
+
+**Why it stuck.** This is a deep cut, with a very specific fanbase. If your Gen X friend sails — or grew up around boats, or lived near a marina, or just had one uncle who watched it on cable until the tape wore out — they have seen *Wind* dozens of times and they will recite chunks of it at you on the dock. It is also a quietly perfect underdog/redemption sports movie that simply happens to be about sailing instead of football. Most younger people have never heard of it; everyone who's seen it remembers it.
+
+**Quotes you'll actually hear.**
+- "Why don't we just build a faster boat?" — Skarsgård's engineer, deadpan, reframing the entire problem. The all-purpose Gen X line for "stop optimizing the wrong thing and go fix the actual issue."
+- "It's just wind." — Modine's character on the way out to a race. Said by sailors when something is being made into a bigger deal than it needs to be.
+- "Sail the boat, son. Don't let the boat sail you." — The grizzled mentor line. Used as life advice by sailing dads everywhere.
+
+**Where it pops up now.** Every modern sailing documentary (the *Untold* America's Cup episodes, anything about Team New Zealand or Oracle) leans on the visual language Ballard set up here. If you ever hear a 50-year-old at a yacht club or lakeside bar say "we just need to build a faster boat," they're not being original — they're quoting *Wind*. The film also helped seed a generation of engineers and naval architects; ask any of them what got them into sailing and a surprising number will name this movie.
+
+---
+
+## 54. So I Married an Axe Murderer (1993)
 
 **Plot in plain language.** A San Francisco poet (Mike Myers) suspects his new wife (Nancy Travis) is a serial killer. Mike Myers also plays his own dad in a brilliant Scottish bit.
 
@@ -838,7 +853,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 54. Groundhog Day (1993)
+## 55. Groundhog Day (1993)
 
 **Plot in plain language.** Cynical TV weatherman Phil Connors (Bill Murray) gets stuck living the same February 2nd in Punxsutawney, PA, over and over until he becomes a better person. Directed by Harold Ramis.
 
@@ -854,7 +869,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 55. Jurassic Park (1993)
+## 56. Jurassic Park (1993)
 
 **Plot in plain language.** Spielberg adapts Michael Crichton. A rich guy clones dinosaurs for a theme park, things go wrong, Jeff Goldblum gets to deliver several great speeches about chaos theory.
 
@@ -870,7 +885,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 56. The Sandlot (1993)
+## 57. The Sandlot (1993)
 
 **Plot in plain language.** A bookish new kid in a 1960s suburban neighborhood gets adopted by a group of baseball-playing kids and they spend a summer trying to retrieve a Babe Ruth-signed ball from the giant dog ("The Beast") behind the field's fence.
 
@@ -886,7 +901,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 57. Dazed and Confused (1993)
+## 58. Dazed and Confused (1993)
 
 **Plot in plain language.** Richard Linklater's hangout movie set on the last day of high school in 1976 in Texas. Matthew McConaughey's launch pad.
 
@@ -900,7 +915,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 58. Forrest Gump (1994)
+## 59. Forrest Gump (1994)
 
 **Plot in plain language.** A slow-witted but extraordinarily kind man from Alabama (Tom Hanks) accidentally Zelig-style witnesses every major event in late-20th-century American history. Bubba Gump shrimp company. Lt. Dan. Jenny.
 
@@ -916,7 +931,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 59. Pulp Fiction (1994)
+## 60. Pulp Fiction (1994)
 
 **Plot in plain language.** Tarantino's interwoven crime stories in 1990s Los Angeles. Two hitmen (Samuel L. Jackson and John Travolta), a boxer (Bruce Willis), a gangster's wife (Uma Thurman), a diner robbery, and a briefcase full of mystery.
 
@@ -933,7 +948,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 60. Dumb and Dumber (1994)
+## 61. Dumb and Dumber (1994)
 
 **Plot in plain language.** Two extremely dumb best friends (Jim Carrey and Jeff Daniels) drive across the country to return a briefcase to a woman one of them has fallen for. They do not realize it's a ransom payment.
 
@@ -949,7 +964,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 61. Clerks (1994)
+## 62. Clerks (1994)
 
 **Plot in plain language.** Kevin Smith's black-and-white debut, shot in the convenience store he was working at. Two slacker clerks (Dante and Randal) spend a day arguing, dealing with terrible customers, and rambling about Star Wars.
 
@@ -964,7 +979,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 62. The Lion King (1994)
+## 63. The Lion King (1994)
 
 **Plot in plain language.** Disney animated Hamlet with lions. Simba's dad gets killed by his uncle, Simba runs away, meets a warthog and a meerkat, has to come back and reclaim the throne.
 
@@ -978,7 +993,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 63. Friday (1995)
+## 64. Friday (1995)
 
 **Plot in plain language.** Ice Cube and Chris Tucker hang out on a porch in South Central L.A. on a Friday and a lot of things happen — drug dealers, sketchy neighbors, a bully named Deebo.
 
@@ -993,7 +1008,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 64. Tommy Boy (1995)
+## 65. Tommy Boy (1995)
 
 **Plot in plain language.** Chris Farley plays the dim-witted heir to his late father's auto-parts company; he hits the road with a sarcastic accountant (David Spade) to save the family business from being bought out. Farley falls down a lot.
 
@@ -1010,7 +1025,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 65. Billy Madison (1995)
+## 66. Billy Madison (1995)
 
 **Plot in plain language.** Adam Sandler plays a grown man who has to repeat grades 1-12 in a single year to inherit his father's hotel chain. Idiotic. Wonderful.
 
@@ -1026,7 +1041,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 66. Apollo 13 (1995)
+## 67. Apollo 13 (1995)
 
 **Plot in plain language.** Ron Howard recreates the real 1970 mission where an oxygen tank exploded on the way to the moon and NASA had to figure out how to get the astronauts home. Tom Hanks, Kevin Bacon, Bill Paxton, Ed Harris.
 
@@ -1040,7 +1055,23 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 67. Toy Story (1995)
+## 68. Hackers (1995)
+
+**Plot in plain language.** A group of New York City teenage hackers — Jonny Lee Miller as "Zero Cool" / Crash Override, Angelina Jolie as Acid Burn, Matthew Lillard as Cereal Killer, and friends — get framed by a corporate security villain ("The Plague") who is running a real crime through the same systems they've been goofing around in. They have to clear their names by out-hacking him, mostly by rollerblading around Manhattan and typing very fast at brightly colored screens. The actual computer stuff in the movie is, generously, *aspirational*. The aesthetic is a 1995 club kid's idea of what cyberspace will look like.
+
+**Why it stuck.** *Hackers* failed in theaters and immediately became a cult movie on VHS, then a permanent fixture once the actual hacker community discovered it and adopted it ironically and then sincerely. It's the patron movie of computer-science-major dorm rooms. The soundtrack (Prodigy, Orbital, Underworld, Leftfield, Massive Attack) is also a perfect snapshot of 1995 electronica. And it's where most people first saw a teenage Angelina Jolie.
+
+**Quotes you'll actually hear.**
+- "Hack the planet!" — Cereal Killer's rallying cry, screamed at the camera. Has been printed on a thousand t-shirts. Said unironically at every DEF CON.
+- "Mess with the best, die like the rest." — The villain's smug calling card. Used as a trash-talk line in any competitive context, especially over a video game.
+- "RISC architecture is gonna change everything." — Cereal Killer at a computer store, said with maximum conviction. Used to mock anyone making a big confident prediction about tech.
+- "There is no right and wrong. There's only fun and boring." — Acid Burn explaining her ethics. Quoted whenever a Gen Xer wants to justify a questionable decision.
+
+**Where it pops up now.** Every "neon-soaked cyberpunk hacker kid" aesthetic — *Mr. Robot* (in its softer moments), the Cyberpunk 2077 marketing, half of TikTok's "hacker aesthetic" tag — descends from this movie. "Hack the planet" is now a real shorthand in cybersecurity for ambitious-but-naive ambition. Anyone who works in security under the age of 55 has the movie's poster, the soundtrack, or both.
+
+---
+
+## 69. Toy Story (1995)
 
 **Plot in plain language.** Pixar's first feature. Toys come alive when their owner isn't watching. Woody the cowboy and Buzz Lightyear the spaceman fight, then become friends.
 
@@ -1054,7 +1085,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 68. Happy Gilmore (1996)
+## 70. Happy Gilmore (1996)
 
 **Plot in plain language.** A failed hockey player (Adam Sandler) discovers he can hit a golf ball 400 yards with a hockey-style slap shot and joins the PGA tour to win money to save his grandma's house.
 
@@ -1071,7 +1102,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 69. Trainspotting (1996)
+## 71. Trainspotting (1996)
 
 **Plot in plain language.** Danny Boyle's grimy, kinetic adaptation of the Irvine Welsh novel about Edinburgh heroin addicts trying (or not) to get clean. Ewan McGregor's launch pad.
 
@@ -1084,7 +1115,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 70. Jerry Maguire (1996)
+## 72. Jerry Maguire (1996)
 
 **Plot in plain language.** Tom Cruise as a sports agent who has a moral crisis, writes a mission statement, gets fired, and tries to build a new agency with one client (Cuba Gooding Jr.) and one secretary (Renée Zellweger). Cameron Crowe, third appearance.
 
@@ -1099,7 +1130,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 71. Fargo (1996)
+## 73. Fargo (1996)
 
 **Plot in plain language.** Coen brothers' Minnesota crime story. A car salesman (William H. Macy) hires two thugs to kidnap his wife so his rich father-in-law will pay ransom; things go very wrong. Frances McDormand as the very pregnant, very polite police chief.
 
@@ -1114,7 +1145,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 72. Swingers (1996)
+## 74. Swingers (1996)
 
 **Plot in plain language.** A heartbroken aspiring actor (Jon Favreau) in mid-90s LA tries to get over his ex with the help of his motormouth friend Trent (Vince Vaughn). They drive to Vegas. They go to swing clubs.
 
@@ -1128,7 +1159,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 73. Austin Powers: International Man of Mystery (1997)
+## 75. Austin Powers: International Man of Mystery (1997)
 
 **Plot in plain language.** Mike Myers as a swinging-60s British secret agent thawed out in 1997 to fight Dr. Evil, also played by Myers. Spoof of every Bond convention.
 
@@ -1145,7 +1176,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 74. Boogie Nights (1997)
+## 76. Boogie Nights (1997)
 
 **Plot in plain language.** Paul Thomas Anderson's epic about the late-70s/early-80s San Fernando Valley adult-film industry, centered on a young man named Eddie Adams who becomes "Dirk Diggler." Mark Wahlberg, Burt Reynolds, Julianne Moore, John C. Reilly.
 
@@ -1156,7 +1187,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 75. Titanic (1997)
+## 77. Titanic (1997)
 
 **Plot in plain language.** James Cameron's three-hour blockbuster. A poor artist and a rich passenger fall in love aboard a doomed cruise liner.
 
@@ -1171,7 +1202,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 76. Good Will Hunting (1997)
+## 78. Good Will Hunting (1997)
 
 **Plot in plain language.** A genius MIT janitor (Matt Damon) gets recruited by a math professor and put in therapy with a townie therapist (Robin Williams) after a fight gets him in legal trouble. Damon and Ben Affleck wrote it; Williams won the Oscar.
 
@@ -1186,7 +1217,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 77. The Big Lebowski (1998)
+## 79. The Big Lebowski (1998)
 
 **Plot in plain language.** Coen brothers' shaggy Los Angeles noir. A bowling alley regular known as "The Dude" (Jeff Bridges) gets mistaken for a millionaire of the same name, his rug gets ruined, and a kidnapping plot pulls him deeper. John Goodman as Walter, an unhinged Vietnam vet. Steve Buscemi as Donny.
 
@@ -1204,7 +1235,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 78. There's Something About Mary (1998)
+## 80. There's Something About Mary (1998)
 
 **Plot in plain language.** A nerdy guy (Ben Stiller) hires a private investigator (Matt Dillon) to track down his high-school crush (Cameron Diaz); the investigator falls for her too. The Farrelly Brothers' gross-out classic.
 
@@ -1218,7 +1249,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 79. Half Baked (1998)
+## 81. Half Baked (1998)
 
 **Plot in plain language.** Dave Chappelle's first vehicle. A trio of stoner roommates have to sell weed to bail out their friend who accidentally killed a police horse by feeding it diabetic candy.
 
@@ -1234,7 +1265,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 80. The Waterboy (1998)
+## 82. The Waterboy (1998)
 
 **Plot in plain language.** Sandler as a sheltered, mama's-boy, water-delivery kid for a college football team who turns out to have an amazing tackling rage and becomes a linebacker.
 
@@ -1249,7 +1280,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 81. Rushmore (1998)
+## 83. Rushmore (1998)
 
 **Plot in plain language.** Wes Anderson's breakout. A pretentious 15-year-old prep-school student (Jason Schwartzman) befriends a depressed industrialist (Bill Murray) and they fall for the same teacher.
 
@@ -1261,7 +1292,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 82. Office Space (1999)
+## 84. Office Space (1999)
 
 **Plot in plain language.** A demoralized programmer at a tech company (Ron Livingston) gets hypnotized into a state of total disengagement, stops trying at work, becomes more successful as a result, and plots a small-scale embezzlement scheme with two coworkers. Mike Judge (Beavis and Butt-Head, King of the Hill) directs.
 
@@ -1278,7 +1309,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 83. The Matrix (1999)
+## 85. The Matrix (1999)
 
 **Plot in plain language.** A hacker named Neo (Keanu Reeves) discovers reality is a computer simulation and that humanity is enslaved by machines using us as batteries. Bullet-time fights. Sunglasses. Trench coats. The Wachowskis directing.
 
@@ -1294,7 +1325,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 84. Fight Club (1999)
+## 86. Fight Club (1999)
 
 **Plot in plain language.** A nameless insomniac office worker (Edward Norton) meets a soap salesman (Brad Pitt) and they start an underground fighting club that becomes a movement. Twist ending.
 
@@ -1308,7 +1339,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 85. American Pie (1999)
+## 87. American Pie (1999)
 
 **Plot in plain language.** Four high school senior boys make a pact to lose their virginity by prom night. Eugene Levy plays the dad who keeps giving inappropriately frank advice. Jason Biggs plays a character with a now-infamous pie-related scene.
 
@@ -1322,7 +1353,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 86. The Sixth Sense (1999)
+## 88. The Sixth Sense (1999)
 
 **Plot in plain language.** A child psychologist (Bruce Willis) treats a boy (Haley Joel Osment) who claims he can see dead people. M. Night Shyamalan's debut.
 
@@ -1339,7 +1370,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 Note: Gen X was in our late 20s and early 30s for most of this stretch — out of college, into our first jobs, watching these movies in groups in dorm rooms and apartments. They got memorized differently than the high school movies did, but no less thoroughly.
 
-## 87. Best in Show (2000)
+## 89. Best in Show (2000)
 
 **Plot in plain language.** Christopher Guest mockumentary about the lives of dog owners competing in a national dog show. The Spinal Tap formula applied to suburbia.
 
@@ -1352,7 +1383,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 88. Almost Famous (2000)
+## 90. Almost Famous (2000)
 
 **Plot in plain language.** Cameron Crowe's semi-autobiographical movie about a 15-year-old in 1973 who lands a Rolling Stone assignment to follow a band on tour. Kate Hudson as Penny Lane.
 
@@ -1367,7 +1398,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 89. Zoolander (2001)
+## 91. Zoolander (2001)
 
 **Plot in plain language.** Ben Stiller as a mind-numbingly dumb male model brainwashed to assassinate the prime minister of Malaysia. Owen Wilson as his rival, Will Ferrell as the villain Mugatu.
 
@@ -1383,7 +1414,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 90. Super Troopers (2001)
+## 92. Super Troopers (2001)
 
 **Plot in plain language.** A troupe of bored Vermont state troopers (Broken Lizard) play increasingly absurd pranks on motorists while competing with local town cops. Cult classic with a 2018 fan-funded sequel.
 
@@ -1399,7 +1430,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 91. The Royal Tenenbaums (2001)
+## 93. The Royal Tenenbaums (2001)
 
 **Plot in plain language.** Wes Anderson's symmetrical family drama-comedy. Three former child prodigies (Gwyneth Paltrow, Ben Stiller, Luke Wilson) reunite with their estranged con-man father (Gene Hackman). Owen Wilson, Bill Murray.
 
@@ -1410,7 +1441,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 92. Old School (2003)
+## 94. Old School (2003)
 
 **Plot in plain language.** Three thirtysomething men (Will Ferrell, Vince Vaughn, Luke Wilson) start an unofficial fraternity at the college near where they live, as a way to recapture their college years. Todd Phillips directs.
 
@@ -1426,7 +1457,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 93. Anchorman: The Legend of Ron Burgundy (2004)
+## 95. Anchorman: The Legend of Ron Burgundy (2004)
 
 **Plot in plain language.** Will Ferrell as the vain, idiotic top news anchor in 1970s San Diego who has his world upended when a woman (Christina Applegate) joins the newsroom. The Channel 4 news team includes Paul Rudd, Steve Carell, and David Koechner. Adam McKay directs.
 
@@ -1447,7 +1478,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 94. Mean Girls (2004)
+## 96. Mean Girls (2004)
 
 **Plot in plain language.** Tina Fey (writer/co-star) adapts a self-help book into a comedy about a homeschooled girl (Lindsay Lohan) who infiltrates the popular clique at a Chicago high school.
 
@@ -1464,7 +1495,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 95. Napoleon Dynamite (2004)
+## 97. Napoleon Dynamite (2004)
 
 **Plot in plain language.** Quirky low-budget Sundance hit about an awkward Idaho high schooler (Jon Heder) whose entire life is absurd. He has a llama named Tina, a pen-pal-bride-mailing brother, and a friend named Pedro running for class president.
 
@@ -1481,7 +1512,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 96. Dodgeball: A True Underdog Story (2004)
+## 98. Dodgeball: A True Underdog Story (2004)
 
 **Plot in plain language.** A scrappy gym (Vince Vaughn) takes on a global fitness chain (Ben Stiller's White Goodman) in a Las Vegas dodgeball tournament to save the gym.
 
@@ -1496,7 +1527,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 97. Wedding Crashers (2005)
+## 99. Wedding Crashers (2005)
 
 **Plot in plain language.** Two divorce mediators (Vince Vaughn and Owen Wilson) crash weddings to meet women. Then they crash a Kennedy-like family wedding and everything spirals. Christopher Walken, Will Ferrell, Rachel McAdams, Isla Fisher.
 
@@ -1511,7 +1542,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 98. The 40-Year-Old Virgin (2005)
+## 100. The 40-Year-Old Virgin (2005)
 
 **Plot in plain language.** Steve Carell as a sweet, awkward, virginal stockroom employee whose coworkers (Paul Rudd, Seth Rogen, Romany Malco) make it their mission to get him laid. Judd Apatow's directorial debut.
 
@@ -1525,7 +1556,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 99. Talladega Nights: The Ballad of Ricky Bobby (2006)
+## 101. Talladega Nights: The Ballad of Ricky Bobby (2006)
 
 **Plot in plain language.** Will Ferrell as a top NASCAR driver who loses his nerve, his career, and his wife after a crash, and has to rebuild against a French Formula One driver played by Sacha Baron Cohen. Adam McKay directs again.
 
@@ -1542,7 +1573,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 100. Step Brothers (2008)
+## 102. Step Brothers (2008)
 
 **Plot in plain language.** Two 40-year-old man-children (Will Ferrell and John C. Reilly) become stepbrothers when their respective single parents marry, and have to share a bedroom. The most childish movie ever made and somehow brilliant.
 
@@ -1559,7 +1590,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 101. Tropic Thunder (2008)
+## 103. Tropic Thunder (2008)
 
 **Plot in plain language.** A group of self-obsessed Hollywood actors making a Vietnam war movie end up in a real combat situation. Ben Stiller, Jack Black, Robert Downey Jr. (in a controversial blackface performance playing a method actor who would do that), Tom Cruise (unrecognizable as a foul-mouthed studio executive).
 
@@ -1573,7 +1604,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 102. The Hangover (2009)
+## 104. The Hangover (2009)
 
 **Plot in plain language.** Three friends (Bradley Cooper, Ed Helms, Zach Galifianakis) lose the groom during a Vegas bachelor party and have to retrace their drug-addled steps to find him. Mike Tyson cameo.
 
@@ -1591,7 +1622,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 Television in the era before streaming worked differently. New episodes aired once a week, at a specific time, on a network you got over the air or via basic cable. If you missed it, you missed it. So everyone watched the same thing at the same time, and at school or work the next morning everyone talked about it. That shared experience is part of why these quotes burrowed in so deep.
 
-## 103. Cheers (1982–1993)
+## 105. Cheers (1982–1993)
 
 **Plot in plain language.** Set entirely in a Boston bar where "everybody knows your name." A revolving cast of regulars and bartenders drink and bicker for 11 seasons. Ted Danson, Shelley Long, Kelsey Grammer, Woody Harrelson, John Ratzenberger, George Wendt.
 
@@ -1605,7 +1636,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 104. The A-Team (1983–1987)
+## 106. The A-Team (1983–1987)
 
 **Plot in plain language.** Four ex-Special Forces commandos (Hannibal, Face, B.A. Baracus, Howling Mad Murdock) framed for a crime they didn't commit travel the U.S. as soldiers of fortune, helping people while evading the military. Mr. T as B.A.
 
@@ -1619,7 +1650,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 105. Knight Rider (1982–1986)
+## 107. Knight Rider (1982–1986)
 
 **Plot in plain language.** David Hasselhoff drives a talking, self-driving black Pontiac Trans Am named KITT that fights crime.
 
@@ -1632,7 +1663,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 106. Family Ties (1982–1989)
+## 108. Family Ties (1982–1989)
 
 **Plot in plain language.** A pair of ex-hippie parents raise their kids in suburban Ohio. Michael J. Fox as Alex P. Keaton, the conservative-suit-wearing teenage stockbroker, is the breakout.
 
@@ -1643,7 +1674,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 107. The Cosby Show (1984–1992)
+## 109. The Cosby Show (1984–1992)
 
 **Plot in plain language.** A wealthy Black New York family — doctor dad, lawyer mom, five kids. Cosby. Defined the entire 80s sitcom landscape.
 
@@ -1651,7 +1682,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 108. The Twilight Zone (Rod Serling's anthologies)
+## 110. The Twilight Zone (Rod Serling's anthologies)
 
 **Plot in plain language.** Each episode is a standalone twist-ending story narrated by Rod Serling. The original ran 1959–1964 but reruns and the 1985 revival hit Gen X hard.
 
@@ -1665,7 +1696,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 109. MacGyver (1985–1992)
+## 111. MacGyver (1985–1992)
 
 **Plot in plain language.** A secret agent (Richard Dean Anderson) refuses to use guns and solves every problem with a Swiss army knife, duct tape, and whatever junk is in the room.
 
@@ -1678,7 +1709,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 110. Married… With Children (1987–1997)
+## 112. Married… With Children (1987–1997)
 
 **Plot in plain language.** Suburban shoe salesman Al Bundy (Ed O'Neill) has a terrible job, a terrible family, and absolutely zero affection for any of them. Fox network's first big hit, and built on being the anti-Cosby show.
 
@@ -1692,7 +1723,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 111. The Wonder Years (1988–1993)
+## 113. The Wonder Years (1988–1993)
 
 **Plot in plain language.** Fred Savage as a 12-year-old growing up in the late 60s/early 70s suburbia, narrated by his adult self (Daniel Stern) looking back.
 
@@ -1703,7 +1734,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 112. Saved by the Bell (1989–1993)
+## 114. Saved by the Bell (1989–1993)
 
 **Plot in plain language.** Six wildly different teenagers at Bayside High in Southern California navigate cliché after cliché. Zack Morris (the blonde scheming hero), Slater (the jock), Screech (the nerd), Kelly (the cheerleader), Jessie (the brain), Lisa (the fashionista). Saturday morning bubblegum.
 
@@ -1717,7 +1748,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 113. Seinfeld (1989–1998)
+## 115. Seinfeld (1989–1998)
 
 **Plot in plain language.** "A show about nothing." Jerry Seinfeld plays a stand-up comedian in Manhattan whose life is mostly hanging out with three friends: George (Jason Alexander, neurotic and short), Kramer (Michael Richards, hair-and-shins chaos), and Elaine (Julia Louis-Dreyfus, sharp). Episodes are about returning a sweater, waiting for a table, or losing a car in a parking garage. Funniest sitcom of the 90s, period.
 
@@ -1736,7 +1767,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 114. The Simpsons (1989–present)
+## 116. The Simpsons (1989–present)
 
 **Plot in plain language.** Animated family — incompetent dad Homer, patient mom Marge, troublemaking kid Bart, brainy kid Lisa, baby Maggie — in the town of Springfield. Originally a barbed satire of suburban America; now in its 36+ season run, still going.
 
@@ -1759,7 +1790,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 115. Twin Peaks (1990–1991, 2017)
+## 117. Twin Peaks (1990–1991, 2017)
 
 **Plot in plain language.** David Lynch's surreal drama about an FBI agent investigating the murder of a teenage girl in a small Pacific Northwest town. Cherry pie, damn fine coffee, a backwards-talking dream-dwarf.
 
@@ -1773,7 +1804,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 116. Beverly Hills, 90210 (1990–2000)
+## 118. Beverly Hills, 90210 (1990–2000)
 
 **Plot in plain language.** Aaron Spelling teen soap. Twins from Minneapolis move to Beverly Hills and attend West Beverly Hills High. Romance, drama, dramatic looking-out-windows. Defined teen TV in the early-mid 90s.
 
@@ -1784,7 +1815,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 117. Beavis and Butt-Head (1993–1997, revived 2011, 2022–present)
+## 119. Beavis and Butt-Head (1993–1997, revived 2011, 2022–present)
 
 **Plot in plain language.** MTV cartoon about two unbelievably dumb high school metalheads who watch music videos and laugh at things. Mike Judge created it.
 
@@ -1799,7 +1830,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 118. The X-Files (1993–2002, revived 2016)
+## 120. The X-Files (1993–2002, revived 2016)
 
 **Plot in plain language.** Two FBI agents — Fox Mulder (David Duchovny), a believer, and Dana Scully (Gillian Anderson), a skeptic — investigate paranormal cases. UFO conspiracies, monsters of the week.
 
@@ -1814,7 +1845,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 119. The Fresh Prince of Bel-Air (1990–1996)
+## 121. The Fresh Prince of Bel-Air (1990–1996)
 
 **Plot in plain language.** A West Philadelphia teen (Will Smith) is sent to live with his wealthy aunt and uncle in Bel-Air. Hijinks. Career-launching for Will Smith.
 
@@ -1829,7 +1860,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 120. Friends (1994–2004)
+## 122. Friends (1994–2004)
 
 **Plot in plain language.** Six 20-something friends (Rachel, Monica, Phoebe, Joey, Chandler, Ross) live in suspiciously affordable Manhattan apartments and hang out at a coffee shop called Central Perk.
 
@@ -1846,7 +1877,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 121. Saturday Night Live (1975–present, especially 1990s)
+## 123. Saturday Night Live (1975–present, especially 1990s)
 
 **Plot in plain language.** Live sketch comedy show. Multiple Gen X-defining casts: the early-90s era of Sandler, Farley, Spade, Schneider, Hartman, Carvey, Myers, Ferrell; the late-90s era with Will Ferrell, Cheri Oteri, Molly Shannon, Tracy Morgan, Jimmy Fallon, Tina Fey; and beyond.
 
@@ -1865,7 +1896,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 122. NewsRadio (1995–1999)
+## 124. NewsRadio (1995–1999)
 
 **Plot in plain language.** Ensemble sitcom set at an AM news station in NYC. Phil Hartman, Dave Foley, Andy Dick, Joe Rogan (yes, that Joe Rogan, before he was a podcast).
 
@@ -1876,7 +1907,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 123. Mystery Science Theater 3000 (1988–1999, revived 2017)
+## 125. Mystery Science Theater 3000 (1988–1999, revived 2017)
 
 **Plot in plain language.** A janitor and his two robot puppets watch terrible B-movies and make fun of them in real time. Their silhouettes appear at the bottom of the screen.
 
@@ -1887,7 +1918,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 124. South Park (1997–present)
+## 126. South Park (1997–present)
 
 **Plot in plain language.** Crudely-animated Colorado fourth-graders comment on every topical event with rapid turnaround episodes. Trey Parker and Matt Stone created it.
 
@@ -1902,7 +1933,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 125. The Sopranos (1999–2007)
+## 127. The Sopranos (1999–2007)
 
 **Plot in plain language.** Tony Soprano (James Gandolfini), a New Jersey mob boss, sees a therapist (Lorraine Bracco) about panic attacks and his complicated relationship with his mother. Considered the show that started "prestige TV."
 
@@ -1916,7 +1947,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 126. The West Wing (1999–2006)
+## 128. The West Wing (1999–2006)
 
 **Plot in plain language.** Aaron Sorkin's idealistic White House drama. Walk-and-talks down corridors, rapid-fire intelligent dialogue, an aspirational Democratic administration led by President Bartlet (Martin Sheen).
 
@@ -1930,7 +1961,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 127. The Office (US, 2005–2013)
+## 129. The Office (US, 2005–2013)
 
 **Plot in plain language.** Mockumentary about the employees of a fictional paper company's Scranton, PA, branch. Adapted from the British series. Michael Scott (Steve Carell), Jim, Pam, Dwight, and a vast supporting cast.
 
@@ -1947,7 +1978,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 128. Arrested Development (2003–2006, 2013, 2018)
+## 130. Arrested Development (2003–2006, 2013, 2018)
 
 **Plot in plain language.** A wealthy, terrible Orange County family loses everything after the patriarch is arrested for fraud. Narrated by Ron Howard. Jason Bateman as the one decent son. Michael Cera, Will Arnett, David Cross, Tony Hale, Portia de Rossi, Jeffrey Tambor, Jessica Walter, Will Ferrell guests, Liza Minnelli guests.
 
@@ -1963,7 +1994,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 129. Chappelle's Show (2003–2006)
+## 131. Chappelle's Show (2003–2006)
 
 **Plot in plain language.** Dave Chappelle's Comedy Central sketch show. Famously ended when Chappelle walked away from a $50M contract.
 
@@ -1979,7 +2010,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 130. Curb Your Enthusiasm (2000–2024)
+## 132. Curb Your Enthusiasm (2000–2024)
 
 **Plot in plain language.** Larry David plays a fictionalized version of himself in LA, getting into petty social disputes for 12 seasons. Largely improvised.
 
@@ -1994,7 +2025,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 131. It's Always Sunny in Philadelphia (2005–present)
+## 133. It's Always Sunny in Philadelphia (2005–present)
 
 **Plot in plain language.** The Gang (Dennis, Mac, Charlie, Dee, Frank) run a terrible bar in Philly and concoct increasingly stupid schemes. Late Gen-X/early Millennial workplace nihilism.
 
@@ -2009,7 +2040,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 132. Lost (2004–2010)
+## 134. Lost (2004–2010)
 
 **Plot in plain language.** A plane crashes on a mysterious island. Survivors discover the island is full of strange stuff — a hatch, a smoke monster, polar bears, time travel. Six seasons of fan theories.
 
@@ -2022,7 +2053,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 133. 24 (2001–2010, plus reunions)
+## 135. 24 (2001–2010, plus reunions)
 
 **Plot in plain language.** Counter-terrorism agent Jack Bauer (Kiefer Sutherland) has 24 hours to stop a national disaster. Each episode is one hour of real time.
 
