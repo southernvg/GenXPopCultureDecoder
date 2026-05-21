@@ -471,6 +471,24 @@
 
 ---
 
+## 46. Indiana Jones and the Last Crusade (1989)
+
+**Plot in plain language.** Archaeology professor and part-time treasure hunter Indiana Jones (Harrison Ford) teams up with his stuffy, bickering father Henry Jones Sr. (Sean Connery) to find the Holy Grail before the Nazis do. Road trips through Venice, Hatay, and the Canyon of the Crescent Moon ensue.
+
+**Why it stuck.** The father-son dynamic between Ford and Connery gave the franchise its warmest entry. It also packed in the most quotable one-liners of the trilogy, and the three challenges at the end — penitent man, name of God, leap of faith — became shorthand for puzzle-solving under pressure.
+
+**Quotes you'll actually hear.**
+- "We named the dog Indiana." — Henry Sr., casually revealing the origin of Indy's nickname. Dropped at exactly the right moment.
+- "You have chosen… wisely." — The ancient Grail Knight, approving the correct chalice. Gen X uses this approvingly whenever someone makes a sound decision — ordering the right beer, picking the correct tool.
+- "He chose poorly." — The Grail Knight again, watching the villain's face melt. The flip side: deployed whenever someone makes a spectacularly bad call.
+- "X never, ever marks the spot." — Indy lecturing students, immediately before X marks the spot. A reliable setup-and-payback structure Gen X borrows for any situation where the rule gets broken by the person who just stated it.
+- "Ah, Venice." — Henry Sr., serenely incorrect about their location. Used to name-drop the wrong city (or concept) with misplaced confidence.
+- "Junior!" — Henry's preferred name for his son. Any time a parent or authority figure refuses to use the cool name.
+
+**Where it pops up now.** "You have chosen wisely / he chose poorly" are all over sports commentary, tech-Twitter debates, and election-night reaction threads. The leap-of-faith sequence gets cited in business writing about risk and trust.
+
+---
+
 ---
 
 &laquo; Previous: [1970s movies](movies-1970s.md) · [Back to the main index](README.md) · Next: [1990s movies](movies-1990s.md) &raquo;

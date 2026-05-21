@@ -149,6 +149,10 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "I gave her my heart, she gave me a pen." | Say Anything... (1989) |
 | "I am looking for a dare-to-be-great situation." | Say Anything... |
 | Boombox held over the head | Say Anything... |
+| "We named the dog Indiana." | Indiana Jones and the Last Crusade (1989) |
+| "You have chosen… wisely." | Indiana Jones and the Last Crusade |
+| "He chose poorly." | Indiana Jones and the Last Crusade |
+| "X never, ever marks the spot." | Indiana Jones and the Last Crusade |
 
 ## The 1990s
 
