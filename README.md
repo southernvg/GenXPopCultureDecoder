@@ -8,7 +8,7 @@
 
 If you've ever been in a meeting where someone in their 40s or 50s said "I'm telling you, Cotton, they let the dogs out" or "you can't handle the truth" or just yelled "STELLA!" across an open-plan office for no apparent reason — congratulations, you've met Gen X in its natural habitat.
 
-We can't help it. Between roughly 1980 and 2005, a very specific batch of movies and TV shows wired themselves into our brains during the formative years of adolescence and young adulthood. Cable was new. The video store was a destination. There were three or four broadcast networks, no streaming, no algorithm — which means we *all* watched the same stuff at roughly the same time, and watched it again and again on rented VHS tapes and on TBS during summer break. The result is a shared vocabulary that we deploy without warning.
+We can't help it. Between roughly 1970 and 2005, a very specific batch of movies and TV shows wired themselves into our brains during the formative years of childhood and adolescence. The 70s movies are an interesting case — most of us were too young to see them in theaters, but they were *everywhere* on cable and VHS through the 80s, which is when they actually wired themselves into us. Cable was new. The video store was a destination. There were three or four broadcast networks, no streaming, no algorithm — which means we *all* watched the same stuff at roughly the same time, and watched it again and again on rented VHS tapes and on TBS during summer break. The result is a shared vocabulary that we deploy without warning.
 
 This guide is for everyone born after roughly 1995 who would like to know what the heck we're talking about. Every entry below includes:
 
@@ -18,15 +18,237 @@ This guide is for everyone born after roughly 1995 who would like to know what t
 - **The quotes you'll actually hear** and the scene they came from (so you can decode the reference in real time).
 - **Where it still pops up** in modern life — memes, callbacks, samples, remakes — so you can recognize it in the wild.
 
-Buckle up. This is roughly 80 entries. You don't need to read it all at once; treat it like a phrasebook. Skim until something rings a bell.
+Buckle up. This is roughly 130 entries. You don't need to read it all at once; treat it like a phrasebook. Skim until something rings a bell.
 
 A note on language: a lot of these movies are products of their time, which means some of them have jokes, attitudes, or politics that have aged badly. We're cataloging what was *quoted*, not endorsing every choice the writers made. Where something needs a footnote, we'll flag it.
 
 ---
 
-# Part One: The Movies of the 1980s
+# Part One: The Movies of the 1970s
 
-## 1. Caddyshack (1980)
+A quick note before we start: most Gen Xers were small children — or not yet born — when these came out. We didn't catch them in theaters; we caught them on HBO, on the 4:30 movie, on a scratchy VHS rental, or edited for content on a Saturday afternoon UHF station. By the mid-80s these were the *old* movies our older siblings and cool uncles kept telling us we had to see, and by the time we were teenagers we'd seen most of them enough times to quote them on command. That's why a movie like *Jaws* or *Animal House* still falls out of a 50-year-old's mouth at a backyard barbecue.
+
+## 1. The Godfather (1972)
+
+**Plot in plain language.** A reluctant war hero (Michael Corleone, played by Al Pacino) gets pulled into his father's New York Mafia empire after an assassination attempt on the old man (Marlon Brando). Over three hours he transforms from idealistic outsider to ice-cold crime boss. It's an opera about family, loyalty, and the slow corrosion of a soul, with one of the most-quoted screenplays ever written.
+
+**Why it stuck.** This is the movie that taught Gen X that movies could be Capital-A Art. It also taught us a vocabulary — "going to the mattresses," "make him an offer he can't refuse," "it's just business" — that has been recycled by every mob movie, business book, and HR slide deck since. Your Gen X manager has almost certainly used a Godfather metaphor in a 1:1.
+
+**Quotes you'll actually hear.**
+- "I'm gonna make him an offer he can't refuse." — Don Corleone explaining how he'll get a movie producer to cast his godson. Used whenever anyone is about to lean on somebody, even gently. (Your dad uses it to negotiate a yard sale.)
+- "Leave the gun. Take the cannoli." — Said by Clemenza after a hit, the most efficient line in cinema. Now the all-purpose punchline for any moment where you're handling something grim while also remembering the snacks.
+- "It's not personal, Sonny. It's strictly business." — Michael justifying a murder. Now used (with full irony) by anyone delivering bad news at work.
+- "Keep your friends close, but your enemies closer." — Often attributed to Sun Tzu; it's actually Michael in *Part II*, and Gen X learned it here.
+
+**Where it pops up now.** Every prestige drama — *The Sopranos*, *Succession*, *Breaking Bad* — is in conversation with this movie. The "horse head in the bed" image is shorthand for any unmistakable warning. If someone kisses someone else on both cheeks at a wedding, a Gen Xer in the room is silently quoting Brando.
+
+---
+
+## 2. Blazing Saddles (1974)
+
+**Plot in plain language.** Mel Brooks's Western parody. A corrupt politician appoints a Black sheriff (Cleavon Little) to the all-white town of Rock Ridge expecting the town to revolt and clear out so a railroad can come through. The sheriff teams up with a washed-up gunslinger (Gene Wilder) and outwits everyone. By the end, the movie literally breaks the fourth wall and crashes into other movies being filmed on neighboring sound stages.
+
+**Why it stuck.** Brooks built the template for the everything-is-fair-game comedy — anachronisms, racial satire aimed *at* racists, fart jokes, musical numbers, and the cast acknowledging they're in a movie. Most of it could not be made today, which is part of why Gen X clings to it; it represents a moment of comic anarchy.
+
+**Quotes you'll actually hear.**
+- "Badges? We don't need no stinkin' badges!" — Actually a riff on a line from *The Treasure of the Sierra Madre*, but Brooks made it ubiquitous. Used whenever anyone refuses paperwork, credentials, or authority.
+- "Mongo only pawn in game of life." — The gentle giant Mongo (Alex Karras) achieving philosophy. Used to excuse a coworker who's in over their head.
+- "Excuse me while I whip this out." — Sheriff Bart reaching into his pocket. Doesn't matter what's being whipped out; the line stands alone.
+
+**Where it pops up now.** Any time someone says "we don't need no stinkin' [anything]," that's a great-grandchild of this movie. The fourth-wall-breaking finale prefigured *Deadpool* and *Community* by 40 years.
+
+---
+
+## 3. Young Frankenstein (1974)
+
+**Plot in plain language.** Mel Brooks again, this time spoofing the old Universal monster movies. Gene Wilder plays the grandson of the infamous Dr. Frankenstein, who inherits the family castle in Transylvania and — despite his best intentions — reanimates a creature. Co-starring Marty Feldman as the hunchbacked Igor and Madeline Kahn at peak Madeline Kahn.
+
+**Why it stuck.** This is the most quotable straight-up gag comedy of the 70s. The pacing, the deadpan, and the willingness to commit to a stupid bit — Frankenstein and the monster doing "Puttin' on the Ritz" in top hats — set a standard.
+
+**Quotes you'll actually hear.**
+- "Walk this way." / [the other person walks exactly like Igor]. — A two-stage joke that Gen X will absolutely set you up to deliver, then refuse to acknowledge until you walk weirdly.
+- "Abby Normal." — Igor explaining whose brain he stole. Used to describe any baffling decision-making process. ("Whose data are we using for this projection?" "Abby Normal.")
+- "It's pronounced 'Fronk-en-steen.'" — Wilder insisting on the Anglicized pronunciation of his own last name. Used to mock anyone correcting people about their own name with too much energy.
+- "Put the candle back!" — Wilder, increasingly hysterical, when a hidden passage keeps revealing itself. Used when a coworker keeps undoing your fix.
+
+**Where it pops up now.** "Walk this way" alone has been recycled into a thousand bits, including the Aerosmith/Run-DMC song. Any modern parody that commits hard to a single straight-faced bit — *What We Do in the Shadows*, much of *Hot Fuzz* — owes Brooks a beer.
+
+---
+
+## 4. Monty Python and the Holy Grail (1975)
+
+**Plot in plain language.** King Arthur and his knights search for the Holy Grail. They are repeatedly interrupted by killer rabbits, a bridge-keeper with three questions, a French castle that taunts them, peasants who refuse to recognize feudal authority, and animation by Terry Gilliam. There is no real ending. Made on no budget by six British comedians who reshaped what comedy could be.
+
+**Why it stuck.** For a certain kind of Gen X kid — the band-room, AV-club, math-team variety — this movie *is* their personality. They have seen it 40 times. They will perform the entire "killer rabbit" scene at the smallest provocation.
+
+**Quotes you'll actually hear.**
+- "It's just a flesh wound." — The Black Knight insisting he can still fight after losing both arms. Used by anyone downplaying an obvious problem, especially at work or in sports.
+- "Help! Help! I'm being repressed!" — A peasant being shaken by Arthur. Now the go-to line for performative victimhood.
+- "Your mother was a hamster and your father smelt of elderberries." — The French taunting from the castle. Deployed at the petty end of any feud.
+- "What is the airspeed velocity of an unladen swallow?" — The bridge-keeper. Used to point out a meaningless question being asked with extreme seriousness.
+- "Bring out yer dead!" — The plague cart. Said any time you're hauling out the trash or clearing the dishes after a party.
+
+**Where it pops up now.** Coconut sound-effects for horse hooves. Every "we are the knights who say…" bit on the internet. *Spamalot*, the Broadway musical, is a direct adaptation. Eric Idle's "Always Look on the Bright Side of Life" (from *Life of Brian*) is the closing theme to the entire generation.
+
+---
+
+## 5. Jaws (1975)
+
+**Plot in plain language.** A great white shark terrorizes a New England beach town in the run-up to the Fourth of July. The mayor refuses to close the beaches. The new police chief (Roy Scheider), an oceanographer (Richard Dreyfuss), and a grizzled fisherman (Robert Shaw) eventually go out on a boat to kill it. Steven Spielberg's first blockbuster; effectively invented the modern summer movie.
+
+**Why it stuck.** *Jaws* is the reason a generation of Gen X kids would not swim in lakes, pools, or, in extreme cases, bathtubs without humming the John Williams two-note theme. It also gave us a perfect three-act adventure structure that every later blockbuster cribbed from.
+
+**Quotes you'll actually hear.**
+- "You're gonna need a bigger boat." — Improvised by Roy Scheider after he sees the shark for the first time. The single most-quoted line about under-resourcing in the English language. Used at work whenever a project's scope blows up.
+- "Show me the way to go home…" — The three men singing on the deck of the *Orca* before things get bad. Used at the end of any long boozy night.
+- "This was no boating accident." — Dreyfuss examining a body. Used when a Gen Xer wants to dramatically announce that something is more serious than people think.
+- The two-note theme — hummed at anyone approaching a buffet, a swimming pool, or a sketchy coworker rounding a corner.
+
+**Where it pops up now.** Every shark documentary on Discovery Channel exists because of this movie. The phrase "we're gonna need a bigger [anything]" is now permanent English idiom.
+
+---
+
+## 6. Rocky (1976)
+
+**Plot in plain language.** A small-time Philadelphia club boxer (Sylvester Stallone) gets a one-in-a-million shot at the heavyweight champion of the world. He doesn't expect to win — he just wants to go the distance. Along the way he falls for Adrian, the painfully shy sister of his goofball friend Paulie. He trains by punching frozen sides of beef and running up the steps of the Philadelphia Museum of Art.
+
+**Why it stuck.** *Rocky* is the foundational underdog movie. The training montage with the trumpet theme is so embedded in Gen X muscle memory that we cannot watch anyone climb stairs without humming it. Stallone wrote it himself, was offered huge money to sell the script if he'd let someone else star, and refused — which is part of the legend.
+
+**Quotes you'll actually hear.**
+- "Yo, Adrian!" — Rocky shouting through the crowd to his wife after the fight. Used as a generic "honey, I'm home" by Gen X dads.
+- "Cut me, Mick." — Rocky asking his cornerman (Burgess Meredith) to slice his swollen eye open so he can keep seeing. Now used jokingly for any moment of "I just need a tiny bit of help to keep going."
+- "You're gonna eat lightnin' and you're gonna crap thunder!" — Mick, doing motivation.
+- The trumpet riff, hummed in unison whenever anyone runs up a flight of stairs.
+
+**Where it pops up now.** Every sports movie has the *Rocky* training montage in its DNA. The Philadelphia Museum of Art steps are a tourist destination *because of this movie*. There have been six sequels and a spin-off franchise (*Creed*) — Gen X is still showing up.
+
+---
+
+## 7. Network (1976)
+
+**Plot in plain language.** A failing TV news anchor (Peter Finch) announces he's going to kill himself live on air. Instead of pulling him, the network turns him into a ranting prophet and his ratings explode. A scathing satire about television, corporate greed, and the manufacturing of outrage. Faye Dunaway plays the executive who realizes anger is a product.
+
+**Why it stuck.** Gen X watched this in high-school media classes and again in college and realized, slowly, that it wasn't a satire — it was a prediction. Cable news, talk radio, and eventually social media all turned out exactly the way *Network* warned they would. It became more relevant every decade.
+
+**Quotes you'll actually hear.**
+- "I'm as mad as hell, and I'm not going to take this anymore!" — Howard Beale instructing viewers to throw open their windows and yell it. Now the catch-all line for any moment of populist rage.
+- "We're in a lot of trouble." — Said in the same dry tone as the movie.
+
+**Where it pops up now.** Anytime a pundit melts down on air. Anytime someone makes a documentary about cable news. The phrase "mad as hell" is *Network*'s legacy.
+
+---
+
+## 8. Taxi Driver (1976)
+
+**Plot in plain language.** An insomniac, disturbed Vietnam veteran (Robert De Niro) drives a New York City cab through a 1970s city that feels like it's rotting from the inside. He fixates on saving a teenage girl (Jodie Foster) and slowly builds toward a violent act. Directed by Martin Scorsese.
+
+**Why it stuck.** The movie itself is bleak and difficult, but *one* scene — De Niro in front of the mirror, pulling a gun, talking to himself — has been parodied a thousand times. That scene is the entire reason most Gen Xers can quote it.
+
+**Quotes you'll actually hear.**
+- "You talkin' to me? You talkin' to me? Then who the hell else are you talkin' to?" — De Niro improvising to a mirror, working himself up. Used by any Gen X person feigning outrage at being addressed.
+
+**Where it pops up now.** Every comedy character who has to pretend to be tough does the mirror bit. The line is so embedded that younger viewers know it before they've ever seen the movie.
+
+---
+
+## 9. Star Wars (1977)
+
+**Plot in plain language.** A farm kid on a desert planet (Luke Skywalker) gets pulled into a galactic civil war between a fascist Empire and a scrappy Rebellion. He's mentored by an old wizard (Obi-Wan Kenobi), rescues a princess (Leia) with help from a smuggler (Han Solo) and his giant furry copilot (Chewbacca), and blows up the Empire's planet-killing space station. George Lucas made a movie that nobody at the studio thought would work. It became the biggest film in history and rewired everything that came after it.
+
+**Why it stuck.** This is the central mythology of Gen X childhood. We had the action figures. We had the bedsheets. We saw it in theaters seven times. Every line, every sound effect, every John Williams cue is permanently installed.
+
+**Quotes you'll actually hear.**
+- "May the Force be with you." — The benediction of Gen X. Said sincerely, ironically, and as a goodbye in approximately one in twenty office emails on May 4th.
+- "These aren't the droids you're looking for." — Obi-Wan using a Jedi mind trick on stormtroopers. Used to dismiss anyone asking questions you don't want to answer.
+- "I have a bad feeling about this." — Said by *somebody* in every single Star Wars movie, often Han. Used whenever you're walking into a meeting you didn't prepare for.
+- "It's a trap!" — Technically Admiral Ackbar in *Return of the Jedi*, but Gen X says it about everything from sales emails to dinner invitations.
+
+**Where it pops up now.** Star Wars is its own ongoing media universe — Disney owns it now and we get a new show every few months — but the *original* film is the one Gen X protects fiercely. Any time someone says "I love you" / "I know," that's *Empire*. Any time someone uses "Force" as a verb, that's us.
+
+---
+
+## 10. Smokey and the Bandit (1977)
+
+**Plot in plain language.** A legendary outlaw trucker called the Bandit (Burt Reynolds) takes a bet to drive 900 miles to Texas and back in 28 hours to pick up an illegal load of Coors beer. He picks up a runaway bride (Sally Field) along the way and is chased the entire movie by a furious Texas sheriff named Buford T. Justice (Jackie Gleason). Mostly an excuse to film a black Trans Am doing things a Trans Am should not survive.
+
+**Why it stuck.** This is peak 70s Burt Reynolds — mustache, cowboy hat, infectious laugh. It taught a generation of Gen X boys to lust after a black-and-gold Pontiac Trans Am and to use CB-radio slang they had no business using. "10-4, good buddy" is on Gen X tombstones.
+
+**Quotes you'll actually hear.**
+- "10-4, good buddy." — Generic affirmative, delivered in a Burt Reynolds drawl.
+- "Breaker breaker, one-nine." — The opening of a CB radio call. Said into modern walkie-talkies, phones, and Slack DMs.
+- "You sumbitch." — Sheriff Buford T. Justice's preferred form of address.
+
+**Where it pops up now.** Every road movie with a cop chase. The Trans Am itself is a permanent fixture of Gen X car nostalgia. Any time you hear a CB-radio "10-4," that's this movie.
+
+---
+
+## 11. Animal House (1978)
+
+**Plot in plain language.** A scuzzy fraternity at a 1962 college (Delta Tau Chi) is at war with the dean and the snooty rival fraternity. The Deltas — John Belushi as Bluto, Tim Matheson as Otter, Bruce McGill as D-Day on his motorcycle — respond by escalating, eventually destroying the Homecoming parade with a giant pie-shaped float. The first true frat-comedy and an entire decade's worth of comedians used it as their playbook.
+
+**Why it stuck.** John Belushi as Bluto is one of the most-quoted physical comedy performances in history. The "food fight!" scene, the toga party, the horse in the dean's office — these are core Gen X reference points. Also: it created a whole *genre* (the slob comedy) that ran from *Stripes* through *Old School* and is still going.
+
+**Quotes you'll actually hear.**
+- "TOGA! TOGA!" — Belushi rallying the party. Said whenever anyone suggests wearing bedsheets to anything.
+- "Was it over when the Germans bombed Pearl Harbor? Hell no!" — Bluto's locker-room speech. The historical inaccuracy is the joke. Used whenever someone is giving a stirring, factually wrong pep talk.
+- "Seven years of college down the drain." — Bluto, surveying the rubble.
+- "Thank you, sir, may I have another?" — A pledge being paddled during hazing. Now used (carefully) any time someone takes a brutal but expected hit.
+- "Fat, drunk, and stupid is no way to go through life, son." — Dean Wormer to Flounder. Used unironically by Gen X dads.
+
+**Where it pops up now.** Every college movie since (*PCU*, *Old School*, *Neighbors*, *21 Jump Street*) is a descendant. Belushi's "food fight!" face is a meme template. The end-of-movie "where are they now?" title cards have been parodied endlessly.
+
+---
+
+## 12. Grease (1978)
+
+**Plot in plain language.** A summer-romance musical set at a 1950s high school. Sandy (Olivia Newton-John) and Danny (John Travolta) had a beach fling; turns out they go to the same school in the fall, but Danny is a leather-jacketed greaser and Sandy is the wholesome new girl. They navigate cliques, drag races, and a teen-pregnancy scare. By the end, Sandy puts on tight leather pants and Danny gets a letterman sweater and they fly off in a literal flying car. (Do not ask.)
+
+**Why it stuck.** Every Gen X kid had this on VHS. Every school dance played at least one song from it. The choreography from "You're the One That I Want" and "Greased Lightnin'" is permanent muscle memory.
+
+**Quotes you'll actually hear.**
+- "Tell me more, tell me more!" — Sung at anyone telling a story about a date.
+- "I got chills, they're multiplyin'." — Used unironically at any moment of mild excitement.
+- "Stranded at the drive-in." — Quoted whenever a plan falls through.
+- "Grease lightnin'!" — Yelled at any old car someone is trying to make sound impressive.
+
+**Where it pops up now.** Karaoke. Every karaoke. The musical's stage version is constantly in revival. The Sandy "leather pants" transformation is referenced any time a movie character changes their look in the third act.
+
+---
+
+## 13. Apocalypse Now (1979)
+
+**Plot in plain language.** Francis Ford Coppola's fever-dream Vietnam War movie. A U.S. Army Captain (Martin Sheen) is sent up a river into Cambodia to assassinate a renegade Colonel (Marlon Brando) who has set himself up as a god-king to a tribe of soldiers. Along the way: Robert Duvall as a surf-loving cavalry officer who orders a helicopter assault on a village so his men can catch the waves. It is the *Heart of Darkness* by way of complete production-set chaos.
+
+**Why it stuck.** Two scenes did the work. The helicopter attack set to Wagner's "Ride of the Valkyries" is shorthand for any over-the-top arrival. And Duvall's "I love the smell of napalm in the morning" speech is on every list of all-time movie quotes.
+
+**Quotes you'll actually hear.**
+- "I love the smell of napalm in the morning." — Used by Gen X dads about the smell of bacon, coffee, freshly cut grass, lighter fluid, and basically anything pleasantly aggressive.
+- "Charlie don't surf." — Duvall again, dismissing the Viet Cong. Used as a snarky way to say "those people don't get it."
+- "The horror. The horror." — Brando's final whisper. Used dramatically to react to mildly inconvenient things.
+
+**Where it pops up now.** Every helicopter scene with classical music is downstream of this. The phrase "smell of napalm" has fully detached from the movie. "Charlie don't surf" gets repurposed for any in-group/out-group joke.
+
+---
+
+## 14. The Jerk (1979)
+
+**Plot in plain language.** Steve Martin in his first leading role as Navin Johnson, a deeply naive man who grew up as the only white child in a Black family in Mississippi. He sets off into the world, invents a pointless eyewear gadget, becomes a millionaire, loses everything, and falls in and out of love with Bernadette Peters. It is the foundational Steve Martin movie — the wild and crazy guy doing his entire act with a plot loosely strung between bits.
+
+**Why it stuck.** Martin's specific brand of arch goofball humor — playing dumb with such total commitment that it loops back around to brilliant — became a template. Half of Will Ferrell's career is *The Jerk*.
+
+**Quotes you'll actually hear.**
+- "The new phone book's here! The new phone book's here!" — Navin's ecstatic reaction to seeing his name in print. Used whenever anyone gets disproportionately excited about a trivial thing.
+- "He hates these cans! Stay away from the cans!" — Navin, after a sniper opens fire on his gas station and hits the oil cans. Used to point out that someone is mistakenly attacking the wrong target.
+- "I don't need anything…" / [pauses, picks up an ashtray] / "…except this ashtray." — Navin's leaving-home meltdown. The whole bit gets quoted in pieces by anyone making a dramatic exit while picking up random objects.
+- "I was born a poor Black child." — The film's opening line. Acknowledged with caution today but quoted plenty inside the family.
+
+**Where it pops up now.** Steve Martin's whole adopted persona since — including *Only Murders in the Building* — rests on this movie. The "phone book" bit is a meme template for any tiny milestone.
+
+---
+
+# Part Two: The Movies of the 1980s
+
+## 15. Caddyshack (1980)
 
 **Plot in plain language.** A young caddy at a snooty country club tries to win a college scholarship while a vulgar new-money real-estate developer (Rodney Dangerfield) torments the old-money members, the assistant groundskeeper (Bill Murray) wages a one-man war against a gopher, and Chevy Chase plays a zen golf savant. It is barely a movie. It is more like four comedians improvising in the same parking lot.
 
@@ -43,7 +265,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 2. Airplane! (1980)
+## 16. Airplane! (1980)
 
 **Plot in plain language.** A traumatized ex-fighter pilot has to land a passenger jet after the crew gets food poisoning. That's the straight version. The actual movie is a non-stop parody of 1970s disaster films with a joke about every two seconds, including visual jokes happening in the background while the dialogue jokes are happening in the foreground.
 
@@ -58,7 +280,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 3. The Empire Strikes Back (1980)
+## 17. The Empire Strikes Back (1980)
 
 **Plot in plain language.** The middle Star Wars movie. The good guys lose, Luke gets his hand cut off, and Darth Vader reveals he is Luke's father. If you somehow do not know this, please forgive the spoiler — the statute of limitations expired around 1985.
 
@@ -73,7 +295,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 4. Raiders of the Lost Ark (1981)
+## 18. Raiders of the Lost Ark (1981)
 
 **Plot in plain language.** Archaeologist Indiana Jones races Nazis to find the Ark of the Covenant. Snakes are involved. Faces melt.
 
@@ -87,7 +309,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 5. Stripes (1981)
+## 19. Stripes (1981)
 
 **Plot in plain language.** Two unemployable goofballs (Bill Murray and Harold Ramis) join the Army on a whim. Hijinks ensue.
 
@@ -102,7 +324,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 6. Fast Times at Ridgemont High (1982)
+## 20. Fast Times at Ridgemont High (1982)
 
 **Plot in plain language.** Cameron Crowe's loosely-connected slice-of-life about California high schoolers in 1981 — Spicoli the stoner surfer, the smart girl who has a complicated year, the older brother with a job at the burger place, and a parade of side characters. Based on Crowe going undercover at a real high school.
 
@@ -117,7 +339,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 7. E.T. the Extra-Terrestrial (1982)
+## 21. E.T. the Extra-Terrestrial (1982)
 
 **Plot in plain language.** A suburban kid named Elliott befriends a stranded alien and helps him "phone home" before the government can intervene. The most successful movie of the 1980s and a cornerstone Spielberg tearjerker.
 
@@ -131,7 +353,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 8. Risky Business (1983)
+## 22. Risky Business (1983)
 
 **Plot in plain language.** A Chicago high school senior's parents go on vacation and he turns the house into a one-weekend brothel as a get-rich scheme. Tom Cruise's launch pad.
 
@@ -145,7 +367,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 9. A Christmas Story (1983)
+## 23. A Christmas Story (1983)
 
 **Plot in plain language.** Nine-year-old Ralphie in 1940s Indiana wants a Red Ryder BB gun for Christmas and is told repeatedly he'll shoot his eye out. Narrated by adult Ralphie looking back. TBS airs it on a 24-hour loop every Christmas Eve into Christmas Day, which is how every Gen X person has seen it 47 times whether they wanted to or not.
 
@@ -160,7 +382,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 10. Ghostbusters (1984)
+## 24. Ghostbusters (1984)
 
 **Plot in plain language.** Three parapsychologists get fired from their university and start a small business catching ghosts in New York City. Then a marshmallow god threatens to destroy the city. Bill Murray smirks his way through the whole thing.
 
@@ -177,7 +399,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 11. Sixteen Candles (1984)
+## 25. Sixteen Candles (1984)
 
 **Plot in plain language.** A girl turns 16 and her whole family forgets because her sister is getting married the next day. John Hughes' first teen movie.
 
@@ -191,7 +413,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 12. This Is Spinal Tap (1984)
+## 26. This Is Spinal Tap (1984)
 
 **Plot in plain language.** Fake documentary ("mockumentary") about a touring heavy-metal band that is past its prime. Rob Reiner directs and plays the filmmaker. Christopher Guest, Michael McKean, and Harry Shearer play the band. Almost entirely improvised. So many viewers thought it was a real documentary that they didn't laugh.
 
@@ -206,7 +428,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 13. The Karate Kid (1984)
+## 27. The Karate Kid (1984)
 
 **Plot in plain language.** Bullied new kid in California learns karate from his apartment building's handyman, an Okinawan immigrant named Mr. Miyagi, and enters a tournament. Sweep the leg, wax on, wax off.
 
@@ -221,7 +443,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 14. The Breakfast Club (1985)
+## 28. The Breakfast Club (1985)
 
 **Plot in plain language.** Five high school students from five different cliques (jock, brain, princess, basket case, criminal) spend a Saturday in detention together and have feelings. John Hughes again.
 
@@ -236,7 +458,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 15. Back to the Future (1985)
+## 29. Back to the Future (1985)
 
 **Plot in plain language.** Marty McFly accidentally travels from 1985 back to 1955 in a DeLorean built by his eccentric scientist friend Doc Brown, has to get his parents to fall in love so he can exist, and then get home.
 
@@ -253,7 +475,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 16. The Goonies (1985)
+## 30. The Goonies (1985)
 
 **Plot in plain language.** A group of kids in a Pacific Northwest town that's about to be foreclosed on find a pirate treasure map and go on an adventure through underground caves to find One-Eyed Willy's treasure.
 
@@ -267,7 +489,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 17. Top Gun (1986)
+## 31. Top Gun (1986)
 
 **Plot in plain language.** Hotshot Navy fighter pilot Maverick (Tom Cruise) goes to fighter weapons school. Aviator sunglasses, volleyball, romance with a flight instructor, tragic best friend death. The 2022 sequel turned out to be enormous.
 
@@ -284,7 +506,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 18. Ferris Bueller's Day Off (1986)
+## 32. Ferris Bueller's Day Off (1986)
 
 **Plot in plain language.** A clever Chicago high schooler fakes being sick, takes his uptight best friend and his girlfriend on the best skip day ever — parade, museum, baseball game, fancy dinner — and outsmarts his principal and his sister. John Hughes again, again.
 
@@ -300,7 +522,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 19. Aliens (1986)
+## 33. Aliens (1986)
 
 **Plot in plain language.** James Cameron's sequel to Alien, set 57 years later. Sigourney Weaver's Ripley joins a squad of space marines to investigate a colony overrun by aliens. Becomes a foster mom in the process.
 
@@ -315,7 +537,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 20. The Princess Bride (1987)
+## 34. The Princess Bride (1987)
 
 **Plot in plain language.** A grandfather reads a fairy tale to his sick grandson — pirates, princesses, sword fights, a six-fingered villain, true love, miracles. Directed by Rob Reiner. Endlessly clever and endlessly sincere.
 
@@ -333,7 +555,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 21. Full Metal Jacket (1987)
+## 35. Full Metal Jacket (1987)
 
 **Plot in plain language.** Stanley Kubrick's Vietnam War movie. First half is Marine boot camp on Parris Island; second half is the war itself.
 
@@ -347,7 +569,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 22. Predator (1987)
+## 36. Predator (1987)
 
 **Plot in plain language.** An elite military squad in a Central American jungle gets hunted by an invisible alien with a heat-vision mask. Arnold Schwarzenegger leads. Carl Weathers, Jesse Ventura, and a Minigun are involved.
 
@@ -362,7 +584,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 23. Spaceballs (1987)
+## 37. Spaceballs (1987)
 
 **Plot in plain language.** Mel Brooks' Star Wars parody. Lord Dark Helmet, Pizza the Hutt, Yogurt instead of Yoda.
 
@@ -377,7 +599,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 24. The Lost Boys (1987)
+## 38. The Lost Boys (1987)
 
 **Plot in plain language.** Two brothers move to a California beach town and the older one falls in with a gang of vampire teenagers. The Coreys (Corey Feldman and Corey Haim) play the vampire hunters.
 
@@ -388,7 +610,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 25. Die Hard (1988)
+## 39. Die Hard (1988)
 
 **Plot in plain language.** Off-duty NYPD cop John McClane is visiting his estranged wife at her L.A. office Christmas party when European thieves take the building hostage. He spends the next two hours barefoot in an air duct.
 
@@ -404,7 +626,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 26. Beetlejuice (1988)
+## 40. Beetlejuice (1988)
 
 **Plot in plain language.** A young couple dies and haunts their old house, then hires a chaotic ghost named Beetlejuice (Michael Keaton) to scare the new owners away. Tim Burton directs. Winona Ryder plays the gloomy teen.
 
@@ -418,7 +640,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 27. Coming to America (1988)
+## 41. Coming to America (1988)
 
 **Plot in plain language.** An African prince (Eddie Murphy) comes to Queens, NY, to find a wife who loves him for himself rather than his royal status. Murphy and Arsenio Hall play multiple side characters each.
 
@@ -432,7 +654,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 28. Heathers (1989)
+## 42. Heathers (1989)
 
 **Plot in plain language.** A dark satire of high school cliques where a teen girl (Winona Ryder) and her sociopathic new boyfriend (Christian Slater) start murdering the popular kids and staging it as suicides.
 
@@ -447,7 +669,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 29. Bill & Ted's Excellent Adventure (1989)
+## 43. Bill & Ted's Excellent Adventure (1989)
 
 **Plot in plain language.** Two amiable San Dimas teen metalheads (Keanu Reeves and Alex Winter) travel through time in a phone booth, gathering historical figures for a history report, so that they can pass history class, so that they can stay together, so that their future band can save the world.
 
@@ -462,7 +684,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 30. Say Anything... (1989)
+## 44. Say Anything... (1989)
 
 **Plot in plain language.** A goofy, sincere high school senior (John Cusack) falls for the smartest, prettiest girl in school (Ione Skye). Cameron Crowe again.
 
@@ -476,9 +698,9 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-# Part Two: The Movies of the 1990s
+# Part Three: The Movies of the 1990s
 
-## 31. Goodfellas (1990)
+## 45. Goodfellas (1990)
 
 **Plot in plain language.** Martin Scorsese's adaptation of the true story of Henry Hill, a Brooklyn kid who grew up in the mob, narrated by Hill himself. Joe Pesci, Robert De Niro, Ray Liotta.
 
@@ -494,7 +716,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 32. Home Alone (1990)
+## 46. Home Alone (1990)
 
 **Plot in plain language.** A Chicago family forgets their 8-year-old son Kevin at home when they leave for Christmas in Paris, and Kevin booby-traps the house to stop two burglars. The McCallisters are confirmed wealthy because that house. John Hughes (writer) and Chris Columbus (director).
 
@@ -509,7 +731,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 33. Wayne's World (1992)
+## 47. Wayne's World (1992)
 
 **Plot in plain language.** An expansion of the Saturday Night Live sketch — two metalhead public-access TV hosts (Mike Myers and Dana Carvey) from Aurora, Illinois, accidentally sell their show to a slick TV producer and have to take it back.
 
@@ -526,7 +748,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 34. A Few Good Men (1992)
+## 48. A Few Good Men (1992)
 
 **Plot in plain language.** Aaron Sorkin courtroom drama. A Navy lawyer (Tom Cruise) defends two Marines accused of killing a fellow Marine in a hazing ritual. Jack Nicholson plays the base commander who ordered it.
 
@@ -540,7 +762,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 35. Reservoir Dogs (1992)
+## 49. Reservoir Dogs (1992)
 
 **Plot in plain language.** Quentin Tarantino's debut. A diamond heist goes wrong; the surviving crooks meet in a warehouse and try to figure out who the rat is. Color-coded code names (Mr. Pink, Mr. White, Mr. Orange, etc.).
 
@@ -554,7 +776,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 36. Aladdin (1992)
+## 50. Aladdin (1992)
 
 **Plot in plain language.** Disney animated take on the Arabian Nights tale. The genie, voiced by Robin Williams, steals the entire movie. Williams improvised so much that the Academy disqualified it from the writing categories.
 
@@ -568,7 +790,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 37. So I Married an Axe Murderer (1993)
+## 51. So I Married an Axe Murderer (1993)
 
 **Plot in plain language.** A San Francisco poet (Mike Myers) suspects his new wife (Nancy Travis) is a serial killer. Mike Myers also plays his own dad in a brilliant Scottish bit.
 
@@ -582,7 +804,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 38. Groundhog Day (1993)
+## 52. Groundhog Day (1993)
 
 **Plot in plain language.** Cynical TV weatherman Phil Connors (Bill Murray) gets stuck living the same February 2nd in Punxsutawney, PA, over and over until he becomes a better person. Directed by Harold Ramis.
 
@@ -598,7 +820,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 39. Jurassic Park (1993)
+## 53. Jurassic Park (1993)
 
 **Plot in plain language.** Spielberg adapts Michael Crichton. A rich guy clones dinosaurs for a theme park, things go wrong, Jeff Goldblum gets to deliver several great speeches about chaos theory.
 
@@ -614,7 +836,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 40. The Sandlot (1993)
+## 54. The Sandlot (1993)
 
 **Plot in plain language.** A bookish new kid in a 1960s suburban neighborhood gets adopted by a group of baseball-playing kids and they spend a summer trying to retrieve a Babe Ruth-signed ball from the giant dog ("The Beast") behind the field's fence.
 
@@ -630,7 +852,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 41. Dazed and Confused (1993)
+## 55. Dazed and Confused (1993)
 
 **Plot in plain language.** Richard Linklater's hangout movie set on the last day of high school in 1976 in Texas. Matthew McConaughey's launch pad.
 
@@ -644,7 +866,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 42. Forrest Gump (1994)
+## 56. Forrest Gump (1994)
 
 **Plot in plain language.** A slow-witted but extraordinarily kind man from Alabama (Tom Hanks) accidentally Zelig-style witnesses every major event in late-20th-century American history. Bubba Gump shrimp company. Lt. Dan. Jenny.
 
@@ -660,7 +882,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 43. Pulp Fiction (1994)
+## 57. Pulp Fiction (1994)
 
 **Plot in plain language.** Tarantino's interwoven crime stories in 1990s Los Angeles. Two hitmen (Samuel L. Jackson and John Travolta), a boxer (Bruce Willis), a gangster's wife (Uma Thurman), a diner robbery, and a briefcase full of mystery.
 
@@ -677,7 +899,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 44. Dumb and Dumber (1994)
+## 58. Dumb and Dumber (1994)
 
 **Plot in plain language.** Two extremely dumb best friends (Jim Carrey and Jeff Daniels) drive across the country to return a briefcase to a woman one of them has fallen for. They do not realize it's a ransom payment.
 
@@ -693,7 +915,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 45. Clerks (1994)
+## 59. Clerks (1994)
 
 **Plot in plain language.** Kevin Smith's black-and-white debut, shot in the convenience store he was working at. Two slacker clerks (Dante and Randal) spend a day arguing, dealing with terrible customers, and rambling about Star Wars.
 
@@ -708,7 +930,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 46. The Lion King (1994)
+## 60. The Lion King (1994)
 
 **Plot in plain language.** Disney animated Hamlet with lions. Simba's dad gets killed by his uncle, Simba runs away, meets a warthog and a meerkat, has to come back and reclaim the throne.
 
@@ -722,7 +944,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 47. Friday (1995)
+## 61. Friday (1995)
 
 **Plot in plain language.** Ice Cube and Chris Tucker hang out on a porch in South Central L.A. on a Friday and a lot of things happen — drug dealers, sketchy neighbors, a bully named Deebo.
 
@@ -737,7 +959,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 48. Tommy Boy (1995)
+## 62. Tommy Boy (1995)
 
 **Plot in plain language.** Chris Farley plays the dim-witted heir to his late father's auto-parts company; he hits the road with a sarcastic accountant (David Spade) to save the family business from being bought out. Farley falls down a lot.
 
@@ -754,7 +976,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 49. Billy Madison (1995)
+## 63. Billy Madison (1995)
 
 **Plot in plain language.** Adam Sandler plays a grown man who has to repeat grades 1-12 in a single year to inherit his father's hotel chain. Idiotic. Wonderful.
 
@@ -770,7 +992,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 50. Apollo 13 (1995)
+## 64. Apollo 13 (1995)
 
 **Plot in plain language.** Ron Howard recreates the real 1970 mission where an oxygen tank exploded on the way to the moon and NASA had to figure out how to get the astronauts home. Tom Hanks, Kevin Bacon, Bill Paxton, Ed Harris.
 
@@ -784,7 +1006,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 51. Toy Story (1995)
+## 65. Toy Story (1995)
 
 **Plot in plain language.** Pixar's first feature. Toys come alive when their owner isn't watching. Woody the cowboy and Buzz Lightyear the spaceman fight, then become friends.
 
@@ -798,7 +1020,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 52. Happy Gilmore (1996)
+## 66. Happy Gilmore (1996)
 
 **Plot in plain language.** A failed hockey player (Adam Sandler) discovers he can hit a golf ball 400 yards with a hockey-style slap shot and joins the PGA tour to win money to save his grandma's house.
 
@@ -815,7 +1037,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 53. Trainspotting (1996)
+## 67. Trainspotting (1996)
 
 **Plot in plain language.** Danny Boyle's grimy, kinetic adaptation of the Irvine Welsh novel about Edinburgh heroin addicts trying (or not) to get clean. Ewan McGregor's launch pad.
 
@@ -828,7 +1050,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 54. Jerry Maguire (1996)
+## 68. Jerry Maguire (1996)
 
 **Plot in plain language.** Tom Cruise as a sports agent who has a moral crisis, writes a mission statement, gets fired, and tries to build a new agency with one client (Cuba Gooding Jr.) and one secretary (Renée Zellweger). Cameron Crowe, third appearance.
 
@@ -843,7 +1065,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 55. Fargo (1996)
+## 69. Fargo (1996)
 
 **Plot in plain language.** Coen brothers' Minnesota crime story. A car salesman (William H. Macy) hires two thugs to kidnap his wife so his rich father-in-law will pay ransom; things go very wrong. Frances McDormand as the very pregnant, very polite police chief.
 
@@ -858,7 +1080,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 56. Swingers (1996)
+## 70. Swingers (1996)
 
 **Plot in plain language.** A heartbroken aspiring actor (Jon Favreau) in mid-90s LA tries to get over his ex with the help of his motormouth friend Trent (Vince Vaughn). They drive to Vegas. They go to swing clubs.
 
@@ -872,7 +1094,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 57. Austin Powers: International Man of Mystery (1997)
+## 71. Austin Powers: International Man of Mystery (1997)
 
 **Plot in plain language.** Mike Myers as a swinging-60s British secret agent thawed out in 1997 to fight Dr. Evil, also played by Myers. Spoof of every Bond convention.
 
@@ -889,7 +1111,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 58. Boogie Nights (1997)
+## 72. Boogie Nights (1997)
 
 **Plot in plain language.** Paul Thomas Anderson's epic about the late-70s/early-80s San Fernando Valley adult-film industry, centered on a young man named Eddie Adams who becomes "Dirk Diggler." Mark Wahlberg, Burt Reynolds, Julianne Moore, John C. Reilly.
 
@@ -900,7 +1122,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 59. Titanic (1997)
+## 73. Titanic (1997)
 
 **Plot in plain language.** James Cameron's three-hour blockbuster. A poor artist and a rich passenger fall in love aboard a doomed cruise liner.
 
@@ -915,7 +1137,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 60. Good Will Hunting (1997)
+## 74. Good Will Hunting (1997)
 
 **Plot in plain language.** A genius MIT janitor (Matt Damon) gets recruited by a math professor and put in therapy with a townie therapist (Robin Williams) after a fight gets him in legal trouble. Damon and Ben Affleck wrote it; Williams won the Oscar.
 
@@ -930,7 +1152,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 61. The Big Lebowski (1998)
+## 75. The Big Lebowski (1998)
 
 **Plot in plain language.** Coen brothers' shaggy Los Angeles noir. A bowling alley regular known as "The Dude" (Jeff Bridges) gets mistaken for a millionaire of the same name, his rug gets ruined, and a kidnapping plot pulls him deeper. John Goodman as Walter, an unhinged Vietnam vet. Steve Buscemi as Donny.
 
@@ -948,7 +1170,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 62. There's Something About Mary (1998)
+## 76. There's Something About Mary (1998)
 
 **Plot in plain language.** A nerdy guy (Ben Stiller) hires a private investigator (Matt Dillon) to track down his high-school crush (Cameron Diaz); the investigator falls for her too. The Farrelly Brothers' gross-out classic.
 
@@ -962,7 +1184,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 63. Half Baked (1998)
+## 77. Half Baked (1998)
 
 **Plot in plain language.** Dave Chappelle's first vehicle. A trio of stoner roommates have to sell weed to bail out their friend who accidentally killed a police horse by feeding it diabetic candy.
 
@@ -978,7 +1200,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 64. The Waterboy (1998)
+## 78. The Waterboy (1998)
 
 **Plot in plain language.** Sandler as a sheltered, mama's-boy, water-delivery kid for a college football team who turns out to have an amazing tackling rage and becomes a linebacker.
 
@@ -993,7 +1215,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 65. Rushmore (1998)
+## 79. Rushmore (1998)
 
 **Plot in plain language.** Wes Anderson's breakout. A pretentious 15-year-old prep-school student (Jason Schwartzman) befriends a depressed industrialist (Bill Murray) and they fall for the same teacher.
 
@@ -1005,7 +1227,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 66. Office Space (1999)
+## 80. Office Space (1999)
 
 **Plot in plain language.** A demoralized programmer at a tech company (Ron Livingston) gets hypnotized into a state of total disengagement, stops trying at work, becomes more successful as a result, and plots a small-scale embezzlement scheme with two coworkers. Mike Judge (Beavis and Butt-Head, King of the Hill) directs.
 
@@ -1022,7 +1244,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 67. The Matrix (1999)
+## 81. The Matrix (1999)
 
 **Plot in plain language.** A hacker named Neo (Keanu Reeves) discovers reality is a computer simulation and that humanity is enslaved by machines using us as batteries. Bullet-time fights. Sunglasses. Trench coats. The Wachowskis directing.
 
@@ -1038,7 +1260,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 68. Fight Club (1999)
+## 82. Fight Club (1999)
 
 **Plot in plain language.** A nameless insomniac office worker (Edward Norton) meets a soap salesman (Brad Pitt) and they start an underground fighting club that becomes a movement. Twist ending.
 
@@ -1052,7 +1274,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 69. American Pie (1999)
+## 83. American Pie (1999)
 
 **Plot in plain language.** Four high school senior boys make a pact to lose their virginity by prom night. Eugene Levy plays the dad who keeps giving inappropriately frank advice. Jason Biggs plays a character with a now-infamous pie-related scene.
 
@@ -1066,7 +1288,7 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-## 70. The Sixth Sense (1999)
+## 84. The Sixth Sense (1999)
 
 **Plot in plain language.** A child psychologist (Bruce Willis) treats a boy (Haley Joel Osment) who claims he can see dead people. M. Night Shyamalan's debut.
 
@@ -1079,11 +1301,11 @@ A note on language: a lot of these movies are products of their time, which mean
 
 ---
 
-# Part Three: The Movies of the Early 2000s
+# Part Four: The Movies of the Early 2000s
 
 Note: Gen X was in our late 20s and early 30s for most of this stretch — out of college, into our first jobs, watching these movies in groups in dorm rooms and apartments. They got memorized differently than the high school movies did, but no less thoroughly.
 
-## 71. Best in Show (2000)
+## 85. Best in Show (2000)
 
 **Plot in plain language.** Christopher Guest mockumentary about the lives of dog owners competing in a national dog show. The Spinal Tap formula applied to suburbia.
 
@@ -1096,7 +1318,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 72. Almost Famous (2000)
+## 86. Almost Famous (2000)
 
 **Plot in plain language.** Cameron Crowe's semi-autobiographical movie about a 15-year-old in 1973 who lands a Rolling Stone assignment to follow a band on tour. Kate Hudson as Penny Lane.
 
@@ -1111,7 +1333,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 73. Zoolander (2001)
+## 87. Zoolander (2001)
 
 **Plot in plain language.** Ben Stiller as a mind-numbingly dumb male model brainwashed to assassinate the prime minister of Malaysia. Owen Wilson as his rival, Will Ferrell as the villain Mugatu.
 
@@ -1127,7 +1349,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 74. Super Troopers (2001)
+## 88. Super Troopers (2001)
 
 **Plot in plain language.** A troupe of bored Vermont state troopers (Broken Lizard) play increasingly absurd pranks on motorists while competing with local town cops. Cult classic with a 2018 fan-funded sequel.
 
@@ -1143,7 +1365,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 75. The Royal Tenenbaums (2001)
+## 89. The Royal Tenenbaums (2001)
 
 **Plot in plain language.** Wes Anderson's symmetrical family drama-comedy. Three former child prodigies (Gwyneth Paltrow, Ben Stiller, Luke Wilson) reunite with their estranged con-man father (Gene Hackman). Owen Wilson, Bill Murray.
 
@@ -1154,7 +1376,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 76. Old School (2003)
+## 90. Old School (2003)
 
 **Plot in plain language.** Three thirtysomething men (Will Ferrell, Vince Vaughn, Luke Wilson) start an unofficial fraternity at the college near where they live, as a way to recapture their college years. Todd Phillips directs.
 
@@ -1170,7 +1392,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 77. Anchorman: The Legend of Ron Burgundy (2004)
+## 91. Anchorman: The Legend of Ron Burgundy (2004)
 
 **Plot in plain language.** Will Ferrell as the vain, idiotic top news anchor in 1970s San Diego who has his world upended when a woman (Christina Applegate) joins the newsroom. The Channel 4 news team includes Paul Rudd, Steve Carell, and David Koechner. Adam McKay directs.
 
@@ -1191,7 +1413,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 78. Mean Girls (2004)
+## 92. Mean Girls (2004)
 
 **Plot in plain language.** Tina Fey (writer/co-star) adapts a self-help book into a comedy about a homeschooled girl (Lindsay Lohan) who infiltrates the popular clique at a Chicago high school.
 
@@ -1208,7 +1430,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 79. Napoleon Dynamite (2004)
+## 93. Napoleon Dynamite (2004)
 
 **Plot in plain language.** Quirky low-budget Sundance hit about an awkward Idaho high schooler (Jon Heder) whose entire life is absurd. He has a llama named Tina, a pen-pal-bride-mailing brother, and a friend named Pedro running for class president.
 
@@ -1225,7 +1447,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 80. Dodgeball: A True Underdog Story (2004)
+## 94. Dodgeball: A True Underdog Story (2004)
 
 **Plot in plain language.** A scrappy gym (Vince Vaughn) takes on a global fitness chain (Ben Stiller's White Goodman) in a Las Vegas dodgeball tournament to save the gym.
 
@@ -1240,7 +1462,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 81. Wedding Crashers (2005)
+## 95. Wedding Crashers (2005)
 
 **Plot in plain language.** Two divorce mediators (Vince Vaughn and Owen Wilson) crash weddings to meet women. Then they crash a Kennedy-like family wedding and everything spirals. Christopher Walken, Will Ferrell, Rachel McAdams, Isla Fisher.
 
@@ -1255,7 +1477,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 82. The 40-Year-Old Virgin (2005)
+## 96. The 40-Year-Old Virgin (2005)
 
 **Plot in plain language.** Steve Carell as a sweet, awkward, virginal stockroom employee whose coworkers (Paul Rudd, Seth Rogen, Romany Malco) make it their mission to get him laid. Judd Apatow's directorial debut.
 
@@ -1269,7 +1491,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 83. Talladega Nights: The Ballad of Ricky Bobby (2006)
+## 97. Talladega Nights: The Ballad of Ricky Bobby (2006)
 
 **Plot in plain language.** Will Ferrell as a top NASCAR driver who loses his nerve, his career, and his wife after a crash, and has to rebuild against a French Formula One driver played by Sacha Baron Cohen. Adam McKay directs again.
 
@@ -1286,7 +1508,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 84. Step Brothers (2008)
+## 98. Step Brothers (2008)
 
 **Plot in plain language.** Two 40-year-old man-children (Will Ferrell and John C. Reilly) become stepbrothers when their respective single parents marry, and have to share a bedroom. The most childish movie ever made and somehow brilliant.
 
@@ -1303,7 +1525,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 85. Tropic Thunder (2008)
+## 99. Tropic Thunder (2008)
 
 **Plot in plain language.** A group of self-obsessed Hollywood actors making a Vietnam war movie end up in a real combat situation. Ben Stiller, Jack Black, Robert Downey Jr. (in a controversial blackface performance playing a method actor who would do that), Tom Cruise (unrecognizable as a foul-mouthed studio executive).
 
@@ -1317,7 +1539,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 86. The Hangover (2009)
+## 100. The Hangover (2009)
 
 **Plot in plain language.** Three friends (Bradley Cooper, Ed Helms, Zach Galifianakis) lose the groom during a Vegas bachelor party and have to retrace their drug-addled steps to find him. Mike Tyson cameo.
 
@@ -1331,11 +1553,11 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-# Part Four: The TV Shows
+# Part Five: The TV Shows
 
 Television in the era before streaming worked differently. New episodes aired once a week, at a specific time, on a network you got over the air or via basic cable. If you missed it, you missed it. So everyone watched the same thing at the same time, and at school or work the next morning everyone talked about it. That shared experience is part of why these quotes burrowed in so deep.
 
-## 87. Cheers (1982–1993)
+## 101. Cheers (1982–1993)
 
 **Plot in plain language.** Set entirely in a Boston bar where "everybody knows your name." A revolving cast of regulars and bartenders drink and bicker for 11 seasons. Ted Danson, Shelley Long, Kelsey Grammer, Woody Harrelson, John Ratzenberger, George Wendt.
 
@@ -1349,7 +1571,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 88. The A-Team (1983–1987)
+## 102. The A-Team (1983–1987)
 
 **Plot in plain language.** Four ex-Special Forces commandos (Hannibal, Face, B.A. Baracus, Howling Mad Murdock) framed for a crime they didn't commit travel the U.S. as soldiers of fortune, helping people while evading the military. Mr. T as B.A.
 
@@ -1363,7 +1585,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 89. Knight Rider (1982–1986)
+## 103. Knight Rider (1982–1986)
 
 **Plot in plain language.** David Hasselhoff drives a talking, self-driving black Pontiac Trans Am named KITT that fights crime.
 
@@ -1376,7 +1598,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 90. Family Ties (1982–1989)
+## 104. Family Ties (1982–1989)
 
 **Plot in plain language.** A pair of ex-hippie parents raise their kids in suburban Ohio. Michael J. Fox as Alex P. Keaton, the conservative-suit-wearing teenage stockbroker, is the breakout.
 
@@ -1387,7 +1609,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 91. The Cosby Show (1984–1992)
+## 105. The Cosby Show (1984–1992)
 
 **Plot in plain language.** A wealthy Black New York family — doctor dad, lawyer mom, five kids. Cosby. Defined the entire 80s sitcom landscape.
 
@@ -1395,7 +1617,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 92. The Twilight Zone (Rod Serling's anthologies)
+## 106. The Twilight Zone (Rod Serling's anthologies)
 
 **Plot in plain language.** Each episode is a standalone twist-ending story narrated by Rod Serling. The original ran 1959–1964 but reruns and the 1985 revival hit Gen X hard.
 
@@ -1409,7 +1631,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 93. MacGyver (1985–1992)
+## 107. MacGyver (1985–1992)
 
 **Plot in plain language.** A secret agent (Richard Dean Anderson) refuses to use guns and solves every problem with a Swiss army knife, duct tape, and whatever junk is in the room.
 
@@ -1422,7 +1644,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 94. Married… With Children (1987–1997)
+## 108. Married… With Children (1987–1997)
 
 **Plot in plain language.** Suburban shoe salesman Al Bundy (Ed O'Neill) has a terrible job, a terrible family, and absolutely zero affection for any of them. Fox network's first big hit, and built on being the anti-Cosby show.
 
@@ -1436,7 +1658,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 95. The Wonder Years (1988–1993)
+## 109. The Wonder Years (1988–1993)
 
 **Plot in plain language.** Fred Savage as a 12-year-old growing up in the late 60s/early 70s suburbia, narrated by his adult self (Daniel Stern) looking back.
 
@@ -1447,7 +1669,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 96. Saved by the Bell (1989–1993)
+## 110. Saved by the Bell (1989–1993)
 
 **Plot in plain language.** Six wildly different teenagers at Bayside High in Southern California navigate cliché after cliché. Zack Morris (the blonde scheming hero), Slater (the jock), Screech (the nerd), Kelly (the cheerleader), Jessie (the brain), Lisa (the fashionista). Saturday morning bubblegum.
 
@@ -1461,7 +1683,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 97. Seinfeld (1989–1998)
+## 111. Seinfeld (1989–1998)
 
 **Plot in plain language.** "A show about nothing." Jerry Seinfeld plays a stand-up comedian in Manhattan whose life is mostly hanging out with three friends: George (Jason Alexander, neurotic and short), Kramer (Michael Richards, hair-and-shins chaos), and Elaine (Julia Louis-Dreyfus, sharp). Episodes are about returning a sweater, waiting for a table, or losing a car in a parking garage. Funniest sitcom of the 90s, period.
 
@@ -1480,7 +1702,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 98. The Simpsons (1989–present)
+## 112. The Simpsons (1989–present)
 
 **Plot in plain language.** Animated family — incompetent dad Homer, patient mom Marge, troublemaking kid Bart, brainy kid Lisa, baby Maggie — in the town of Springfield. Originally a barbed satire of suburban America; now in its 36+ season run, still going.
 
@@ -1503,7 +1725,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 99. Twin Peaks (1990–1991, 2017)
+## 113. Twin Peaks (1990–1991, 2017)
 
 **Plot in plain language.** David Lynch's surreal drama about an FBI agent investigating the murder of a teenage girl in a small Pacific Northwest town. Cherry pie, damn fine coffee, a backwards-talking dream-dwarf.
 
@@ -1517,7 +1739,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 100. Beverly Hills, 90210 (1990–2000)
+## 114. Beverly Hills, 90210 (1990–2000)
 
 **Plot in plain language.** Aaron Spelling teen soap. Twins from Minneapolis move to Beverly Hills and attend West Beverly Hills High. Romance, drama, dramatic looking-out-windows. Defined teen TV in the early-mid 90s.
 
@@ -1528,7 +1750,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 101. Beavis and Butt-Head (1993–1997, revived 2011, 2022–present)
+## 115. Beavis and Butt-Head (1993–1997, revived 2011, 2022–present)
 
 **Plot in plain language.** MTV cartoon about two unbelievably dumb high school metalheads who watch music videos and laugh at things. Mike Judge created it.
 
@@ -1543,7 +1765,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 102. The X-Files (1993–2002, revived 2016)
+## 116. The X-Files (1993–2002, revived 2016)
 
 **Plot in plain language.** Two FBI agents — Fox Mulder (David Duchovny), a believer, and Dana Scully (Gillian Anderson), a skeptic — investigate paranormal cases. UFO conspiracies, monsters of the week.
 
@@ -1558,7 +1780,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 103. The Fresh Prince of Bel-Air (1990–1996)
+## 117. The Fresh Prince of Bel-Air (1990–1996)
 
 **Plot in plain language.** A West Philadelphia teen (Will Smith) is sent to live with his wealthy aunt and uncle in Bel-Air. Hijinks. Career-launching for Will Smith.
 
@@ -1573,7 +1795,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 104. Friends (1994–2004)
+## 118. Friends (1994–2004)
 
 **Plot in plain language.** Six 20-something friends (Rachel, Monica, Phoebe, Joey, Chandler, Ross) live in suspiciously affordable Manhattan apartments and hang out at a coffee shop called Central Perk.
 
@@ -1590,7 +1812,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 105. Saturday Night Live (1975–present, especially 1990s)
+## 119. Saturday Night Live (1975–present, especially 1990s)
 
 **Plot in plain language.** Live sketch comedy show. Multiple Gen X-defining casts: the early-90s era of Sandler, Farley, Spade, Schneider, Hartman, Carvey, Myers, Ferrell; the late-90s era with Will Ferrell, Cheri Oteri, Molly Shannon, Tracy Morgan, Jimmy Fallon, Tina Fey; and beyond.
 
@@ -1609,7 +1831,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 106. NewsRadio (1995–1999)
+## 120. NewsRadio (1995–1999)
 
 **Plot in plain language.** Ensemble sitcom set at an AM news station in NYC. Phil Hartman, Dave Foley, Andy Dick, Joe Rogan (yes, that Joe Rogan, before he was a podcast).
 
@@ -1620,7 +1842,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 107. Mystery Science Theater 3000 (1988–1999, revived 2017)
+## 121. Mystery Science Theater 3000 (1988–1999, revived 2017)
 
 **Plot in plain language.** A janitor and his two robot puppets watch terrible B-movies and make fun of them in real time. Their silhouettes appear at the bottom of the screen.
 
@@ -1631,7 +1853,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 108. South Park (1997–present)
+## 122. South Park (1997–present)
 
 **Plot in plain language.** Crudely-animated Colorado fourth-graders comment on every topical event with rapid turnaround episodes. Trey Parker and Matt Stone created it.
 
@@ -1646,7 +1868,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 109. The Sopranos (1999–2007)
+## 123. The Sopranos (1999–2007)
 
 **Plot in plain language.** Tony Soprano (James Gandolfini), a New Jersey mob boss, sees a therapist (Lorraine Bracco) about panic attacks and his complicated relationship with his mother. Considered the show that started "prestige TV."
 
@@ -1660,7 +1882,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 110. The West Wing (1999–2006)
+## 124. The West Wing (1999–2006)
 
 **Plot in plain language.** Aaron Sorkin's idealistic White House drama. Walk-and-talks down corridors, rapid-fire intelligent dialogue, an aspirational Democratic administration led by President Bartlet (Martin Sheen).
 
@@ -1674,7 +1896,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 111. The Office (US, 2005–2013)
+## 125. The Office (US, 2005–2013)
 
 **Plot in plain language.** Mockumentary about the employees of a fictional paper company's Scranton, PA, branch. Adapted from the British series. Michael Scott (Steve Carell), Jim, Pam, Dwight, and a vast supporting cast.
 
@@ -1691,7 +1913,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 112. Arrested Development (2003–2006, 2013, 2018)
+## 126. Arrested Development (2003–2006, 2013, 2018)
 
 **Plot in plain language.** A wealthy, terrible Orange County family loses everything after the patriarch is arrested for fraud. Narrated by Ron Howard. Jason Bateman as the one decent son. Michael Cera, Will Arnett, David Cross, Tony Hale, Portia de Rossi, Jeffrey Tambor, Jessica Walter, Will Ferrell guests, Liza Minnelli guests.
 
@@ -1707,7 +1929,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 113. Chappelle's Show (2003–2006)
+## 127. Chappelle's Show (2003–2006)
 
 **Plot in plain language.** Dave Chappelle's Comedy Central sketch show. Famously ended when Chappelle walked away from a $50M contract.
 
@@ -1723,7 +1945,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 114. Curb Your Enthusiasm (2000–2024)
+## 128. Curb Your Enthusiasm (2000–2024)
 
 **Plot in plain language.** Larry David plays a fictionalized version of himself in LA, getting into petty social disputes for 12 seasons. Largely improvised.
 
@@ -1738,7 +1960,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 115. It's Always Sunny in Philadelphia (2005–present)
+## 129. It's Always Sunny in Philadelphia (2005–present)
 
 **Plot in plain language.** The Gang (Dennis, Mac, Charlie, Dee, Frank) run a terrible bar in Philly and concoct increasingly stupid schemes. Late Gen-X/early Millennial workplace nihilism.
 
@@ -1753,7 +1975,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 116. Lost (2004–2010)
+## 130. Lost (2004–2010)
 
 **Plot in plain language.** A plane crashes on a mysterious island. Survivors discover the island is full of strange stuff — a hatch, a smoke monster, polar bears, time travel. Six seasons of fan theories.
 
@@ -1766,7 +1988,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 117. 24 (2001–2010, plus reunions)
+## 131. 24 (2001–2010, plus reunions)
 
 **Plot in plain language.** Counter-terrorism agent Jack Bauer (Kiefer Sutherland) has 24 hours to stop a national disaster. Each episode is one hour of real time.
 
