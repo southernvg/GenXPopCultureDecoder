@@ -4,7 +4,7 @@
 
 # The Movies of the 1980s
 
-## 15. Caddyshack (1980)
+## 33. Caddyshack (1980)
 
 **Plot in plain language.** A young caddy at a snooty country club tries to win a college scholarship while a vulgar new-money real-estate developer (Rodney Dangerfield) torments the old-money members, the assistant groundskeeper (Bill Murray) wages a one-man war against a gopher, and Chevy Chase plays a zen golf savant. It is barely a movie. It is more like four comedians improvising in the same parking lot.
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 16. Airplane! (1980)
+## 34. Airplane! (1980)
 
 **Plot in plain language.** A traumatized ex-fighter pilot has to land a passenger jet after the crew gets food poisoning. That's the straight version. The actual movie is a non-stop parody of 1970s disaster films with a joke about every two seconds, including visual jokes happening in the background while the dialogue jokes are happening in the foreground.
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 17. The Empire Strikes Back (1980)
+## 35. The Empire Strikes Back (1980)
 
 **Plot in plain language.** The middle Star Wars movie. The good guys lose, Luke gets his hand cut off, and Darth Vader reveals he is Luke's father. If you somehow do not know this, please forgive the spoiler — the statute of limitations expired around 1985.
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 18. Raiders of the Lost Ark (1981)
+## 36. Raiders of the Lost Ark (1981)
 
 **Plot in plain language.** Archaeologist Indiana Jones races Nazis to find the Ark of the Covenant. Snakes are involved. Faces melt.
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 19. Stripes (1981)
+## 37. Stripes (1981)
 
 **Plot in plain language.** Two unemployable goofballs (Bill Murray and Harold Ramis) join the Army on a whim. Hijinks ensue.
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 20. Fast Times at Ridgemont High (1982)
+## 38. Fast Times at Ridgemont High (1982)
 
 **Plot in plain language.** Cameron Crowe's loosely-connected slice-of-life about California high schoolers in 1981 — Spicoli the stoner surfer, the smart girl who has a complicated year, the older brother with a job at the burger place, and a parade of side characters. Based on Crowe going undercover at a real high school.
 
@@ -95,7 +95,7 @@
 
 ---
 
-## 21. E.T. the Extra-Terrestrial (1982)
+## 39. E.T. the Extra-Terrestrial (1982)
 
 **Plot in plain language.** A suburban kid named Elliott befriends a stranded alien and helps him "phone home" before the government can intervene. The most successful movie of the 1980s and a cornerstone Spielberg tearjerker.
 
@@ -109,7 +109,7 @@
 
 ---
 
-## 22. Risky Business (1983)
+## 40. Risky Business (1983)
 
 **Plot in plain language.** A Chicago high school senior's parents go on vacation and he turns the house into a one-weekend brothel as a get-rich scheme. Tom Cruise's launch pad.
 
@@ -123,7 +123,7 @@
 
 ---
 
-## 23. A Christmas Story (1983)
+## 41. A Christmas Story (1983)
 
 **Plot in plain language.** Nine-year-old Ralphie in 1940s Indiana wants a Red Ryder BB gun for Christmas and is told repeatedly he'll shoot his eye out. Narrated by adult Ralphie looking back. TBS airs it on a 24-hour loop every Christmas Eve into Christmas Day, which is how every Gen X person has seen it 47 times whether they wanted to or not.
 
@@ -138,7 +138,7 @@
 
 ---
 
-## 24. Ghostbusters (1984)
+## 42. Ghostbusters (1984)
 
 **Plot in plain language.** Three parapsychologists get fired from their university and start a small business catching ghosts in New York City. Then a marshmallow god threatens to destroy the city. Bill Murray smirks his way through the whole thing.
 
@@ -155,7 +155,7 @@
 
 ---
 
-## 25. Sixteen Candles (1984)
+## 43. Sixteen Candles (1984)
 
 **Plot in plain language.** A girl turns 16 and her whole family forgets because her sister is getting married the next day. John Hughes' first teen movie.
 
@@ -169,7 +169,7 @@
 
 ---
 
-## 26. This Is Spinal Tap (1984)
+## 44. This Is Spinal Tap (1984)
 
 **Plot in plain language.** Fake documentary ("mockumentary") about a touring heavy-metal band that is past its prime. Rob Reiner directs and plays the filmmaker. Christopher Guest, Michael McKean, and Harry Shearer play the band. Almost entirely improvised. So many viewers thought it was a real documentary that they didn't laugh.
 
@@ -184,7 +184,7 @@
 
 ---
 
-## 27. The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
+## 45. The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
 
 **Plot in plain language.** A brain surgeon / particle physicist / rock star / samurai (Peter Weller) named Buckaroo Banzai leads a team of similarly multi-talented adventurers called the Hong Kong Cavaliers. He uses an "oscillation overthruster" to drive a rocket car *through* solid matter into the Eighth Dimension, accidentally letting through a race of evil aliens (all named "John" — John Bigboote, John Smallberries, John Yaya) led by John Lithgow as Dr. Emilio Lizardo. He has to save the world before lunch. Co-stars Jeff Goldblum in a cowboy outfit named "New Jersey," Christopher Lloyd, and Ellen Barkin. None of this is exaggeration.
 
@@ -201,7 +201,7 @@
 
 ---
 
-## 28. The Karate Kid (1984)
+## 46. The Karate Kid (1984)
 
 **Plot in plain language.** Bullied new kid in California learns karate from his apartment building's handyman, an Okinawan immigrant named Mr. Miyagi, and enters a tournament. Sweep the leg, wax on, wax off.
 
@@ -216,7 +216,7 @@
 
 ---
 
-## 29. The Breakfast Club (1985)
+## 47. The Breakfast Club (1985)
 
 **Plot in plain language.** Five high school students from five different cliques (jock, brain, princess, basket case, criminal) spend a Saturday in detention together and have feelings. John Hughes again.
 
@@ -231,7 +231,7 @@
 
 ---
 
-## 30. Back to the Future (1985)
+## 48. Back to the Future (1985)
 
 **Plot in plain language.** Marty McFly accidentally travels from 1985 back to 1955 in a DeLorean built by his eccentric scientist friend Doc Brown, has to get his parents to fall in love so he can exist, and then get home.
 
@@ -248,7 +248,7 @@
 
 ---
 
-## 31. The Goonies (1985)
+## 49. The Goonies (1985)
 
 **Plot in plain language.** A group of kids in a Pacific Northwest town that's about to be foreclosed on find a pirate treasure map and go on an adventure through underground caves to find One-Eyed Willy's treasure.
 
@@ -262,7 +262,7 @@
 
 ---
 
-## 32. Top Gun (1986)
+## 50. Top Gun (1986)
 
 **Plot in plain language.** Hotshot Navy fighter pilot Maverick (Tom Cruise) goes to fighter weapons school. Aviator sunglasses, volleyball, romance with a flight instructor, tragic best friend death. The 2022 sequel turned out to be enormous.
 
@@ -279,7 +279,7 @@
 
 ---
 
-## 33. Ferris Bueller's Day Off (1986)
+## 51. Ferris Bueller's Day Off (1986)
 
 **Plot in plain language.** A clever Chicago high schooler fakes being sick, takes his uptight best friend and his girlfriend on the best skip day ever — parade, museum, baseball game, fancy dinner — and outsmarts his principal and his sister. John Hughes again, again.
 
@@ -295,7 +295,7 @@
 
 ---
 
-## 34. Aliens (1986)
+## 52. Aliens (1986)
 
 **Plot in plain language.** James Cameron's sequel to Alien, set 57 years later. Sigourney Weaver's Ripley joins a squad of space marines to investigate a colony overrun by aliens. Becomes a foster mom in the process.
 
@@ -310,7 +310,7 @@
 
 ---
 
-## 35. The Princess Bride (1987)
+## 53. The Princess Bride (1987)
 
 **Plot in plain language.** A grandfather reads a fairy tale to his sick grandson — pirates, princesses, sword fights, a six-fingered villain, true love, miracles. Directed by Rob Reiner. Endlessly clever and endlessly sincere.
 
@@ -328,7 +328,7 @@
 
 ---
 
-## 36. Full Metal Jacket (1987)
+## 54. Full Metal Jacket (1987)
 
 **Plot in plain language.** Stanley Kubrick's Vietnam War movie. First half is Marine boot camp on Parris Island; second half is the war itself.
 
@@ -342,7 +342,7 @@
 
 ---
 
-## 37. Predator (1987)
+## 55. Predator (1987)
 
 **Plot in plain language.** An elite military squad in a Central American jungle gets hunted by an invisible alien with a heat-vision mask. Arnold Schwarzenegger leads. Carl Weathers, Jesse Ventura, and a Minigun are involved.
 
@@ -357,7 +357,7 @@
 
 ---
 
-## 38. Spaceballs (1987)
+## 56. Spaceballs (1987)
 
 **Plot in plain language.** Mel Brooks' Star Wars parody. Lord Dark Helmet, Pizza the Hutt, Yogurt instead of Yoda.
 
@@ -372,7 +372,7 @@
 
 ---
 
-## 39. The Lost Boys (1987)
+## 57. The Lost Boys (1987)
 
 **Plot in plain language.** Two brothers move to a California beach town and the older one falls in with a gang of vampire teenagers. The Coreys (Corey Feldman and Corey Haim) play the vampire hunters.
 
@@ -383,7 +383,7 @@
 
 ---
 
-## 40. Die Hard (1988)
+## 58. Die Hard (1988)
 
 **Plot in plain language.** Off-duty NYPD cop John McClane is visiting his estranged wife at her L.A. office Christmas party when European thieves take the building hostage. He spends the next two hours barefoot in an air duct.
 
@@ -399,7 +399,7 @@
 
 ---
 
-## 41. Beetlejuice (1988)
+## 59. Beetlejuice (1988)
 
 **Plot in plain language.** A young couple dies and haunts their old house, then hires a chaotic ghost named Beetlejuice (Michael Keaton) to scare the new owners away. Tim Burton directs. Winona Ryder plays the gloomy teen.
 
@@ -413,7 +413,7 @@
 
 ---
 
-## 42. Coming to America (1988)
+## 60. Coming to America (1988)
 
 **Plot in plain language.** An African prince (Eddie Murphy) comes to Queens, NY, to find a wife who loves him for himself rather than his royal status. Murphy and Arsenio Hall play multiple side characters each.
 
@@ -427,7 +427,7 @@
 
 ---
 
-## 43. Heathers (1989)
+## 61. Heathers (1989)
 
 **Plot in plain language.** A dark satire of high school cliques where a teen girl (Winona Ryder) and her sociopathic new boyfriend (Christian Slater) start murdering the popular kids and staging it as suicides.
 
@@ -442,7 +442,7 @@
 
 ---
 
-## 44. Bill & Ted's Excellent Adventure (1989)
+## 62. Bill & Ted's Excellent Adventure (1989)
 
 **Plot in plain language.** Two amiable San Dimas teen metalheads (Keanu Reeves and Alex Winter) travel through time in a phone booth, gathering historical figures for a history report, so that they can pass history class, so that they can stay together, so that their future band can save the world.
 
@@ -457,7 +457,7 @@
 
 ---
 
-## 45. Say Anything... (1989)
+## 63. Say Anything... (1989)
 
 **Plot in plain language.** A goofy, sincere high school senior (John Cusack) falls for the smartest, prettiest girl in school (Ione Skye). Cameron Crowe again.
 
@@ -471,7 +471,7 @@
 
 ---
 
-## 46. Indiana Jones and the Last Crusade (1989)
+## 64. Indiana Jones and the Last Crusade (1989)
 
 **Plot in plain language.** Archaeology professor and part-time treasure hunter Indiana Jones (Harrison Ford) teams up with his stuffy, bickering father Henry Jones Sr. (Sean Connery) to find the Holy Grail before the Nazis do. Road trips through Venice, Hatay, and the Canyon of the Crescent Moon ensue.
 

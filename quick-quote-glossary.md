@@ -2,6 +2,50 @@
 
 If you only have time for a phrasebook, this section is the cheat sheet. Scan the left column for a quote you've heard a Gen X-er say and the right column tells you what they were referencing. Organized by decade to match the [decade files](README.md#the-decoder-by-decade).
 
+## The 1950s
+
+| If you hear this… | They are quoting… |
+| --- | --- |
+| "I am big! It's the pictures that got small." | Sunset Boulevard (1950) |
+| "All right, Mr. DeMille, I'm ready for my close-up." | Sunset Boulevard |
+| "We had faces then!" | Sunset Boulevard |
+| "Fasten your seatbelts, it's going to be a bumpy night." | All About Eve (1950) |
+| "Dignity, always dignity." | Singin' in the Rain (1952) |
+| "What a glorious feeling, I'm happy again!" | Singin' in the Rain |
+| "You're tearing me apart!" | Rebel Without a Cause (1955) |
+| "Well, nobody's perfect." | Some Like It Hot (1959) |
+| "Story of my life. I always get the fuzzy end of the lollipop." | Some Like It Hot |
+
+## The 1960s
+
+| If you hear this… | They are quoting… |
+| --- | --- |
+| "A boy's best friend is his mother." | Psycho (1960) |
+| "We all go a little mad sometimes." | Psycho |
+| *ree ree ree ree* (violin stab) | Psycho (Bernard Herrmann score) |
+| "The trick is not minding that it hurts." | Lawrence of Arabia (1962) |
+| "Nothing is written." | Lawrence of Arabia |
+| "You never really understand a person until you climb into his skin and walk around in it." | To Kill a Mockingbird (1962) |
+| "Gentlemen, you can't fight in here, this is the War Room!" | Dr. Strangelove (1964) |
+| "Mein Führer, I can walk!" | Dr. Strangelove |
+| "The hills are alive with the sound of music!" | The Sound of Music (1965) |
+| "These are a few of my favorite things." | The Sound of Music |
+| "So long, farewell, auf Wiedersehen, goodbye." | The Sound of Music |
+| Wah-wah trumpet riff / "ayyy-ayyy-ayyyy" | The Good, the Bad and the Ugly (1966) |
+| "Those with loaded guns and those who dig." | The Good, the Bad and the Ugly |
+| "What we've got here is failure to communicate." | Cool Hand Luke (1967) |
+| "Sometimes nothing is a real cool hand." | Cool Hand Luke |
+| "Plastics." | The Graduate (1967) |
+| "Mrs. Robinson, you're trying to seduce me." | The Graduate |
+| "Open the pod bay doors, HAL." / "I'm sorry, Dave, I'm afraid I can't do that." | 2001: A Space Odyssey (1968) |
+| "Daisy, Daisy, give me your answer do…" (sung by a failing machine) | 2001: A Space Odyssey |
+| "Take your stinking paws off me, you d*** dirty ape!" | Planet of the Apes (1968) |
+| "It's a madhouse! A madhouse!" | Planet of the Apes |
+| "You maniacs! You blew it up!" | Planet of the Apes |
+| "Who are those guys?" | Butch Cassidy and the Sundance Kid (1969) |
+| "I can't swim!" / "The fall will probably kill you." | Butch Cassidy and the Sundance Kid |
+| "Think you used enough dynamite there, Butch?" | Butch Cassidy and the Sundance Kid |
+
 ## The 1970s
 
 | If you hear this… | They are quoting… |

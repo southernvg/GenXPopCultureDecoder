@@ -6,7 +6,7 @@
 
 A quick note before we start: most Gen Xers were small children — or not yet born — when these came out. We didn't catch them in theaters; we caught them on HBO, on the 4:30 movie, on a scratchy VHS rental, or edited for content on a Saturday afternoon UHF station. By the mid-80s these were the *old* movies our older siblings and cool uncles kept telling us we had to see, and by the time we were teenagers we'd seen most of them enough times to quote them on command. That's why a movie like *Jaws* or *Animal House* still falls out of a 50-year-old's mouth at a backyard barbecue.
 
-## 1. The Godfather (1972)
+## 19. The Godfather (1972)
 
 **Plot in plain language.** A reluctant war hero (Michael Corleone, played by Al Pacino) gets pulled into his father's New York Mafia empire after an assassination attempt on the old man (Marlon Brando). Over three hours he transforms from idealistic outsider to ice-cold crime boss. It's an opera about family, loyalty, and the slow corrosion of a soul, with one of the most-quoted screenplays ever written.
 
@@ -22,7 +22,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 2. Blazing Saddles (1974)
+## 20. Blazing Saddles (1974)
 
 **Plot in plain language.** Mel Brooks's Western parody. A corrupt politician appoints a Black sheriff (Cleavon Little) to the all-white town of Rock Ridge expecting the town to revolt and clear out so a railroad can come through. The sheriff teams up with a washed-up gunslinger (Gene Wilder) and outwits everyone. By the end, the movie literally breaks the fourth wall and crashes into other movies being filmed on neighboring sound stages.
 
@@ -37,7 +37,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 3. Young Frankenstein (1974)
+## 21. Young Frankenstein (1974)
 
 **Plot in plain language.** Mel Brooks again, this time spoofing the old Universal monster movies. Gene Wilder plays the grandson of the infamous Dr. Frankenstein, who inherits the family castle in Transylvania and — despite his best intentions — reanimates a creature. Co-starring Marty Feldman as the hunchbacked Igor and Madeline Kahn at peak Madeline Kahn.
 
@@ -53,7 +53,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 4. Monty Python and the Holy Grail (1975)
+## 22. Monty Python and the Holy Grail (1975)
 
 **Plot in plain language.** King Arthur and his knights search for the Holy Grail. They are repeatedly interrupted by killer rabbits, a bridge-keeper with three questions, a French castle that taunts them, peasants who refuse to recognize feudal authority, and animation by Terry Gilliam. There is no real ending. Made on no budget by six British comedians who reshaped what comedy could be.
 
@@ -70,7 +70,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 5. Jaws (1975)
+## 23. Jaws (1975)
 
 **Plot in plain language.** A great white shark terrorizes a New England beach town in the run-up to the Fourth of July. The mayor refuses to close the beaches. The new police chief (Roy Scheider), an oceanographer (Richard Dreyfuss), and a grizzled fisherman (Robert Shaw) eventually go out on a boat to kill it. Steven Spielberg's first blockbuster; effectively invented the modern summer movie.
 
@@ -86,7 +86,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 6. Rocky (1976)
+## 24. Rocky (1976)
 
 **Plot in plain language.** A small-time Philadelphia club boxer (Sylvester Stallone) gets a one-in-a-million shot at the heavyweight champion of the world. He doesn't expect to win — he just wants to go the distance. Along the way he falls for Adrian, the painfully shy sister of his goofball friend Paulie. He trains by punching frozen sides of beef and running up the steps of the Philadelphia Museum of Art.
 
@@ -102,7 +102,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 7. Network (1976)
+## 25. Network (1976)
 
 **Plot in plain language.** A failing TV news anchor (Peter Finch) announces he's going to kill himself live on air. Instead of pulling him, the network turns him into a ranting prophet and his ratings explode. A scathing satire about television, corporate greed, and the manufacturing of outrage. Faye Dunaway plays the executive who realizes anger is a product.
 
@@ -116,7 +116,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 8. Taxi Driver (1976)
+## 26. Taxi Driver (1976)
 
 **Plot in plain language.** An insomniac, disturbed Vietnam veteran (Robert De Niro) drives a New York City cab through a 1970s city that feels like it's rotting from the inside. He fixates on saving a teenage girl (Jodie Foster) and slowly builds toward a violent act. Directed by Martin Scorsese.
 
@@ -129,7 +129,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 9. Star Wars (1977)
+## 27. Star Wars (1977)
 
 **Plot in plain language.** A farm kid on a desert planet (Luke Skywalker) gets pulled into a galactic civil war between a fascist Empire and a scrappy Rebellion. He's mentored by an old wizard (Obi-Wan Kenobi), rescues a princess (Leia) with help from a smuggler (Han Solo) and his giant furry copilot (Chewbacca), and blows up the Empire's planet-killing space station. George Lucas made a movie that nobody at the studio thought would work. It became the biggest film in history and rewired everything that came after it.
 
@@ -145,7 +145,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 10. Smokey and the Bandit (1977)
+## 28. Smokey and the Bandit (1977)
 
 **Plot in plain language.** A legendary outlaw trucker called the Bandit (Burt Reynolds) takes a bet to drive 900 miles to Texas and back in 28 hours to pick up an illegal load of Coors beer. He picks up a runaway bride (Sally Field) along the way and is chased the entire movie by a furious Texas sheriff named Buford T. Justice (Jackie Gleason). Mostly an excuse to film a black Trans Am doing things a Trans Am should not survive.
 
@@ -160,7 +160,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 11. Animal House (1978)
+## 29. Animal House (1978)
 
 **Plot in plain language.** A scuzzy fraternity at a 1962 college (Delta Tau Chi) is at war with the dean and the snooty rival fraternity. The Deltas — John Belushi as Bluto, Tim Matheson as Otter, Bruce McGill as D-Day on his motorcycle — respond by escalating, eventually destroying the Homecoming parade with a giant pie-shaped float. The first true frat-comedy and an entire decade's worth of comedians used it as their playbook.
 
@@ -177,7 +177,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 12. Grease (1978)
+## 30. Grease (1978)
 
 **Plot in plain language.** A summer-romance musical set at a 1950s high school. Sandy (Olivia Newton-John) and Danny (John Travolta) had a beach fling; turns out they go to the same school in the fall, but Danny is a leather-jacketed greaser and Sandy is the wholesome new girl. They navigate cliques, drag races, and a teen-pregnancy scare. By the end, Sandy puts on tight leather pants and Danny gets a letterman sweater and they fly off in a literal flying car. (Do not ask.)
 
@@ -193,7 +193,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 13. Apocalypse Now (1979)
+## 31. Apocalypse Now (1979)
 
 **Plot in plain language.** Francis Ford Coppola's fever-dream Vietnam War movie. A U.S. Army Captain (Martin Sheen) is sent up a river into Cambodia to assassinate a renegade Colonel (Marlon Brando) who has set himself up as a god-king to a tribe of soldiers. Along the way: Robert Duvall as a surf-loving cavalry officer who orders a helicopter assault on a village so his men can catch the waves. It is the *Heart of Darkness* by way of complete production-set chaos.
 
@@ -208,7 +208,7 @@ A quick note before we start: most Gen Xers were small children — or not yet b
 
 ---
 
-## 14. The Jerk (1979)
+## 32. The Jerk (1979)
 
 **Plot in plain language.** Steve Martin in his first leading role as Navin Johnson, a deeply naive man who grew up as the only white child in a Black family in Mississippi. He sets off into the world, invents a pointless eyewear gadget, becomes a millionaire, loses everything, and falls in and out of love with Bernadette Peters. It is the foundational Steve Martin movie — the wild and crazy guy doing his entire act with a plot loosely strung between bits.
 
