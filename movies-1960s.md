@@ -6,7 +6,7 @@
 
 The 1960s were when American movies broke apart and reassembled into something new. The studio system was crumbling, Europe was making daring films that started showing up in college towns and art-house theaters, and a wave of young directors started breaking every rule Hollywood had spent 30 years enforcing. Gen Xers didn't watch these in theaters — we caught them in film-class screenings, on PBS late at night, in video-store "foreign/classics" sections, and on the basic-cable slots reserved for movies too weird or old for prime time. A handful of lines escaped into everyday speech anyway, because they were too good to stay locked inside film culture.
 
-## 8. Psycho (1960)
+## 8. [Psycho (1960)](https://www.imdb.com/title/tt0054215/)
 
 **Plot in plain language.** A secretary (Janet Leigh) steals money from her boss, goes on the run, and stops for the night at the Bates Motel — run by the awkward, bird-obsessed Norman Bates (Anthony Perkins) and his controlling mother. She is stabbed to death in the shower 47 minutes into the movie. The film then follows a detective and the woman's sister trying to find out what happened. The twist is one of the most famous in film history.
 
@@ -21,7 +21,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 9. Lawrence of Arabia (1962)
+## 9. [Lawrence of Arabia (1962)](https://www.imdb.com/title/tt0056172/)
 
 **Plot in plain language.** The true(ish) story of T.E. Lawrence (Peter O'Toole), a British officer who ends up leading Arab tribes in revolt against the Ottoman Empire during World War I. Shot across Jordan and Spain on a scale that modern films can barely imagine — 216 minutes, 70mm, with an intermission. Lawrence is brilliant, charismatic, increasingly megalomaniacal, and ultimately used and discarded by the empire he served.
 
@@ -37,7 +37,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 10. To Kill a Mockingbird (1962)
+## 10. [To Kill a Mockingbird (1962)](https://www.imdb.com/title/tt0056592/)
 
 **Plot in plain language.** Based on Harper Lee's novel. In Depression-era Alabama, Atticus Finch (Gregory Peck) is a widowed lawyer who defends a Black man falsely accused of raping a white woman. The story is narrated through the eyes of his young daughter Scout. Atticus loses the case despite proving innocence. The film is a meditation on injustice, parental dignity, and the cowardice that hides behind "the way things are."
 
@@ -52,7 +52,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 11. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+## 11. [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)](https://www.imdb.com/title/tt0057012/)
 
 **Plot in plain language.** A deranged US Air Force general launches a nuclear first strike on the Soviet Union without authorization. The President and his advisors scramble to stop it, while a doomsday device ensures mutual annihilation if any bomb detonates. Peter Sellers plays three roles: the mild US President, a British RAF officer trying to stop it, and the wheelchair-using former Nazi nuclear scientist Dr. Strangelove, whose arm keeps making the Nazi salute on its own. It is a comedy. A pitch-black one.
 
@@ -67,7 +67,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 12. The Sound of Music (1965)
+## 12. [The Sound of Music (1965)](https://www.imdb.com/title/tt0059742/)
 
 **Plot in plain language.** Based on the true story of the von Trapp family. Maria (Julie Andrews), a postulant nun who can't follow convent rules, becomes governess to a widowed Austrian naval captain's seven children. She teaches them to sing, falls in love with their father, and eventually the family flees Nazi occupation of Austria over the Alps into Switzerland. Musical numbers every 15 minutes.
 
@@ -82,7 +82,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 13. The Good, the Bad and the Ugly (1966)
+## 13. [The Good, the Bad and the Ugly (1966)](https://www.imdb.com/title/tt0060196/)
 
 **Plot in plain language.** Three gunslingers — Blondie (Clint Eastwood), Angel Eyes (Lee Van Cleef), and Tuco (Eli Wallach) — hunt for a cache of Confederate gold during the Civil War. Nobody trusts anyone. Nobody is purely good. The film ends with a three-way standoff in a cemetery under a blazing sun, scored by Ennio Morricone. It is the best Western ever made by most measures.
 
@@ -97,7 +97,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 14. Cool Hand Luke (1967)
+## 14. [Cool Hand Luke (1967)](https://www.imdb.com/title/tt0061512/)
 
 **Plot in plain language.** A decorated war veteran (Paul Newman) is arrested for drunkenly destroying parking meters and sent to a Florida prison camp. He refuses to accept the prison hierarchy or submit to authority — not out of ideology, but out of something deeper and harder to name. He tries to escape, fails, tries again. He becomes a legend to the other prisoners. The warden's line about "failure to communicate" is one of the most quoted in film.
 
@@ -112,7 +112,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 15. The Graduate (1967)
+## 15. [The Graduate (1967)](https://www.imdb.com/title/tt0061722/)
 
 **Plot in plain language.** Benjamin Braddock (Dustin Hoffman), a recent college graduate, drifts through a wealthy California summer, has an affair with his parents' friend Mrs. Robinson (Anne Bancroft), then falls in love with her daughter Elaine. When the affair is discovered and Elaine is sent away to marry someone else, Benjamin drives cross-country to stop the wedding. Simon and Garfunkel scored the whole thing.
 
@@ -128,7 +128,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 16. 2001: A Space Odyssey (1968)
+## 16. [2001: A Space Odyssey (1968)](https://www.imdb.com/title/tt0062622/)
 
 **Plot in plain language.** In four movements: apes discover a mysterious monolith and learn to use tools and violence; astronauts travel to Jupiter to investigate a signal; the ship's AI, HAL 9000, kills the crew to protect the mission; astronaut Dave Bowman is transformed into something beyond human. Kubrick made it deliberately slow and unexplained. Nothing is spoon-fed. The ending is still debated.
 
@@ -144,7 +144,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 17. Planet of the Apes (1968)
+## 17. [Planet of the Apes (1968)](https://www.imdb.com/title/tt0063442/)
 
 **Plot in plain language.** Three astronauts crash-land on a distant planet where apes are the dominant civilization and humans are mute, feral animals. The lead astronaut (Charlton Heston) is captured, studied, and eventually escapes — only to discover the final twist: he was on Earth all along. The Statue of Liberty, half-buried in beach sand, tells him everything. One of the great gut-punch endings in cinema.
 
@@ -159,7 +159,7 @@ The 1960s were when American movies broke apart and reassembled into something n
 
 ---
 
-## 18. Butch Cassidy and the Sundance Kid (1969)
+## 18. [Butch Cassidy and the Sundance Kid (1969)](https://www.imdb.com/title/tt0064115/)
 
 **Plot in plain language.** The true(ish) story of two outlaws — the charming, scheming Butch (Paul Newman) and the quiet, deadly Sundance (Robert Redford) — as they rob trains, flee the law across the country, flee to Bolivia, and eventually run out of options. William Goldman's screenplay is one of the most purely pleasurable to listen to ever written. The ending, frozen on a sepia-toned final image, is a masterpiece of implication.
 

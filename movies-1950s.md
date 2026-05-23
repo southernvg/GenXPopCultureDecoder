@@ -6,7 +6,7 @@
 
 A note before we dive in: these came out before most Gen Xers were born, and a few before our parents were teenagers. We didn't discover them in theaters. We found them on Sunday-afternoon TV, in film-class screenings, on early cable, and via older relatives who treated them as gospel. By the time most of us hit middle school, Hitchcock and Wilder and Kazan were already shorthand for "this is a serious movie, pay attention." The quotes landed because the films were good — unnervingly, undeniably good — and because a handful of lines from each became so thoroughly embedded in American speech that you absorbed them even if you'd never seen the movie.
 
-## 1. Sunset Boulevard (1950)
+## 1. [Sunset Boulevard (1950)](https://www.imdb.com/title/tt0043014/)
 
 **Plot in plain language.** A broke screenwriter (William Holden) stumbles into the crumbling mansion of forgotten silent-film star Norma Desmond (Gloria Swanson), who is writing a screenplay she's convinced will make her a star again. He becomes her kept companion. It ends in madness, murder, and the most famous close-up in film history. The twist: the narrator is already dead.
 
@@ -21,7 +21,7 @@ A note before we dive in: these came out before most Gen Xers were born, and a f
 
 ---
 
-## 2. All About Eve (1950)
+## 2. [All About Eve (1950)](https://www.imdb.com/title/tt0042192/)
 
 **Plot in plain language.** A young, adoring theater fan (Anne Baxter) worms her way into the life of a celebrated Broadway actress (Bette Davis), becomes her assistant, and systematically attempts to steal her career, her role, and her life. Everyone around the actress thinks Eve is wonderful. The actress doesn't. She's right.
 
@@ -36,7 +36,7 @@ A note before we dive in: these came out before most Gen Xers were born, and a f
 
 ---
 
-## 3. Singin' in the Rain (1952)
+## 3. [Singin' in the Rain (1952)](https://www.imdb.com/title/tt0045152/)
 
 **Plot in plain language.** Set during Hollywood's transition from silent films to "talkies" in the late 1920s. A silent-film star (Gene Kelly) and his new leading lady (Debbie Reynolds) try to save a movie by dubbing the voice of his talentless costar (Jean Hagen) without her knowing. There is an extended dance sequence in rain that is, by most accounts, the most purely joyful five minutes ever committed to film.
 
@@ -51,7 +51,7 @@ A note before we dive in: these came out before most Gen Xers were born, and a f
 
 ---
 
-## 4. Rear Window (1954)
+## 4. [Rear Window (1954)](https://www.imdb.com/title/tt0047396/)
 
 **Plot in plain language.** A photojournalist (Jimmy Stewart) is stuck in his apartment with a broken leg. To pass the time he watches his neighbors through his rear window. He becomes convinced one of them has murdered his wife. His girlfriend (Grace Kelly) and nurse think he's imagining things. He is not. Pure Hitchcock suspense built from a single location and a guy who can't move.
 
@@ -66,7 +66,7 @@ A note before we dive in: these came out before most Gen Xers were born, and a f
 
 ---
 
-## 5. Rebel Without a Cause (1955)
+## 5. [Rebel Without a Cause (1955)](https://www.imdb.com/title/tt0048545/)
 
 **Plot in plain language.** A troubled teenager (James Dean) moves to a new town, tries to fit in, gets pulled into a dangerous game of chicken, and watches his new friends fall apart. His parents are useless; the adults in general are useless. The kids are on their own. Dean died in a car crash a month before the film released, which fused the image of doomed youth to the role permanently.
 
@@ -81,7 +81,7 @@ A note before we dive in: these came out before most Gen Xers were born, and a f
 
 ---
 
-## 6. Some Like It Hot (1959)
+## 6. [Some Like It Hot (1959)](https://www.imdb.com/title/tt0053291/)
 
 **Plot in plain language.** Two broke musicians (Jack Lemmon and Tony Curtis) accidentally witness a mob murder and go on the run disguised as women in an all-female band. Tony Curtis also disguises himself as a millionaire to seduce Marilyn Monroe. Jack Lemmon gets engaged to an actual millionaire (Joe E. Brown) who refuses to accept that Daphne is a man. Widely considered the funniest movie ever made, or very close to it.
 
@@ -96,7 +96,7 @@ A note before we dive in: these came out before most Gen Xers were born, and a f
 
 ---
 
-## 7. North by Northwest (1959)
+## 7. [North by Northwest (1959)](https://www.imdb.com/title/tt0053125/)
 
 **Plot in plain language.** A New York ad executive (Cary Grant) is mistaken for a government agent by foreign spies, gets framed for murder, and spends the movie running from both the spies and the law. There is an iconic crop-duster attack in an empty cornfield and a climax on the face of Mount Rushmore. Pure Hitchcock suspense with Grant at his most unflappable.
 
