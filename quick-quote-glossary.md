@@ -120,6 +120,8 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "All I need are some tasty waves, a cool buzz, and I'm fine." | Fast Times at Ridgemont High |
 | "Hey bud, let's party!" | Fast Times at Ridgemont High (Spicoli) |
 | "E.T. phone home." / "Be good." | E.T. the Extra-Terrestrial (1982) |
+| "Take off, you hoser!" / "Take off, eh?" | Strange Brew (1983) |
+| "Beauty." / "Beauty, eh?" | Strange Brew (Bob & Doug McKenzie) |
 | "Sometimes you gotta say, 'What the f***.'" | Risky Business (1983) |
 | "Porsche. There is no substitute." | Risky Business |
 | "You'll shoot your eye out." | A Christmas Story (1983) |
@@ -149,6 +151,11 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "Where we're going, we don't need roads." | Back to the Future |
 | "1.21 jigowatts!" | Back to the Future |
 | "If my calculations are correct, when this baby hits 88 miles per hour…" | Back to the Future |
+| "It's all ball bearings nowadays." | Fletch (1985) |
+| "Can I borrow your towel? My car just hit a water buffalo." | Fletch |
+| "Provo. I grew up in Provo." | Fletch (Chevy Chase) |
+| "You've got a pretty good body for a man your age." / "Thanks. I work out." | Fletch |
+| "Moon River..." (humming confidently in the wrong context) | Fletch |
 | "Goonies never say die." | The Goonies (1985) |
 | "Hey you guuuuuys!" | The Goonies |
 | "I feel the need… the need for speed!" | Top Gun (1986) |
@@ -197,6 +204,7 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "You have chosen… wisely." | Indiana Jones and the Last Crusade |
 | "He chose poorly." | Indiana Jones and the Last Crusade |
 | "X never, ever marks the spot." | Indiana Jones and the Last Crusade |
+| "You using the whole fist, Doc?" | Fletch Lives (1989) |
 
 ## The 1990s
 

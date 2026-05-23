@@ -31,12 +31,12 @@ This guide is split into one file per era so it's easier to skim:
 - **[The Movies of the 1950s](movies-1950s.md)** — 7 entries. The classics Gen X absorbed on late-night TV, in film class, and on early cable. Sunset Boulevard, All About Eve, Singin' in the Rain, Rear Window, Rebel Without a Cause, Some Like It Hot, North by Northwest.
 - **[The Movies of the 1960s](movies-1960s.md)** — 11 entries. The decade that broke Hollywood's rules. Psycho, Lawrence of Arabia, To Kill a Mockingbird, Dr. Strangelove, The Sound of Music, The Good the Bad and the Ugly, Cool Hand Luke, The Graduate, 2001, Planet of the Apes, Butch Cassidy.
 - **[The Movies of the 1970s](movies-1970s.md)** — 14 entries. The films we caught on cable and VHS *after* they were already classics. Godfather, Jaws, Star Wars, Animal House, Monty Python and the Holy Grail, and friends.
-- **[The Movies of the 1980s](movies-1980s.md)** — 31 entries. Peak John Hughes, peak Bill Murray, peak action hero. Caddyshack, Ghostbusters, The Princess Bride, Die Hard, the Brat Pack, Buckaroo Banzai.
+- **[The Movies of the 1980s](movies-1980s.md)** — 35 entries. Peak John Hughes, peak Bill Murray, peak action hero. Caddyshack, Ghostbusters, The Princess Bride, Die Hard, the Brat Pack, Buckaroo Banzai.
 - **[The Movies of the 1990s](movies-1990s.md)** — 43 entries. The slacker/indie/quote-comedy golden age. Wayne's World, Pulp Fiction, Office Space, Tommy Boy, The Big Lebowski, Sneakers, Wind, Hackers, Happy Gilmore.
 - **[The Movies of the Early 2000s](movies-2000s.md)** — 16 entries. Anchorman, Old School, Mean Girls, Napoleon Dynamite, Step Brothers — the late-Gen-X / early-millennial overlap years.
 - **[The TV Shows](tv-shows.md)** — 31 entries. From Cheers and The Cosby Show through Seinfeld, Friends, Sopranos, and The Office.
 
-**Total: 154 entries across the whole guide.**
+**Total: 157 entries across the whole guide.**
 
 ---
 

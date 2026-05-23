@@ -138,7 +138,23 @@
 
 ---
 
-## 42. Ghostbusters (1984)
+## 42. Strange Brew (1983)
+
+**Plot in plain language.** Bob and Doug McKenzie — two spectacularly dim Canadian brothers obsessed with beer and back bacon — get jobs at the Elsinore Brewery (yes, that Elsinore) and stumble onto an evil scheme by the brewery owner to use mind-controlled beer to take over the world. It is a loose Hamlet adaptation. Rick Moranis and Dave Thomas wrote and directed it, extending their SCTV "Great White North" sketch into a feature film.
+
+**Why it stuck.** Bob and Doug were already cult heroes from SCTV when the film came out, and Strange Brew crystallized the characters for anyone who missed the show. "Hoser," "take off," and "beauty, eh?" all entered the vocabulary of Gen X — especially Gen X with Canadian relatives — directly from these two. The movie is proudly stupid and completely committed to it.
+
+**Quotes you'll actually hear.**
+- "Take off, you hoser!" — The McKenzies' all-purpose insult. Still deployed with a bad Canadian accent when someone does something dumb.
+- "Take off, eh?" — The slightly gentler version.
+- "Beauty." / "Beauty, eh?" — Bob or Doug approving of literally anything. Used now as deadpan approval of something mediocre.
+- "I am Brewmeister Smith. I want you to take this job and love it." — Max Von Sydow's villain, sincerely menacing. Quoted as ironic corporate-speak.
+
+**Where it pops up now.** "Hoser" is the word for a bumbling Canadian — in any comedy, if there's a Canadian character being mocked, the Bob and Doug template is in the DNA. The movie also appears as a Hamlet parody in almost every list of Shakespeare screen adaptations, which no one expected.
+
+---
+
+## 43. Ghostbusters (1984)
 
 **Plot in plain language.** Three parapsychologists get fired from their university and start a small business catching ghosts in New York City. Then a marshmallow god threatens to destroy the city. Bill Murray smirks his way through the whole thing.
 
@@ -155,7 +171,7 @@
 
 ---
 
-## 43. Sixteen Candles (1984)
+## 44. Sixteen Candles (1984)
 
 **Plot in plain language.** A girl turns 16 and her whole family forgets because her sister is getting married the next day. John Hughes' first teen movie.
 
@@ -169,7 +185,7 @@
 
 ---
 
-## 44. This Is Spinal Tap (1984)
+## 45. This Is Spinal Tap (1984)
 
 **Plot in plain language.** Fake documentary ("mockumentary") about a touring heavy-metal band that is past its prime. Rob Reiner directs and plays the filmmaker. Christopher Guest, Michael McKean, and Harry Shearer play the band. Almost entirely improvised. So many viewers thought it was a real documentary that they didn't laugh.
 
@@ -184,7 +200,7 @@
 
 ---
 
-## 45. The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
+## 46. The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
 
 **Plot in plain language.** A brain surgeon / particle physicist / rock star / samurai (Peter Weller) named Buckaroo Banzai leads a team of similarly multi-talented adventurers called the Hong Kong Cavaliers. He uses an "oscillation overthruster" to drive a rocket car *through* solid matter into the Eighth Dimension, accidentally letting through a race of evil aliens (all named "John" — John Bigboote, John Smallberries, John Yaya) led by John Lithgow as Dr. Emilio Lizardo. He has to save the world before lunch. Co-stars Jeff Goldblum in a cowboy outfit named "New Jersey," Christopher Lloyd, and Ellen Barkin. None of this is exaggeration.
 
@@ -201,7 +217,7 @@
 
 ---
 
-## 46. The Karate Kid (1984)
+## 47. The Karate Kid (1984)
 
 **Plot in plain language.** Bullied new kid in California learns karate from his apartment building's handyman, an Okinawan immigrant named Mr. Miyagi, and enters a tournament. Sweep the leg, wax on, wax off.
 
@@ -216,7 +232,7 @@
 
 ---
 
-## 47. The Breakfast Club (1985)
+## 48. The Breakfast Club (1985)
 
 **Plot in plain language.** Five high school students from five different cliques (jock, brain, princess, basket case, criminal) spend a Saturday in detention together and have feelings. John Hughes again.
 
@@ -231,7 +247,7 @@
 
 ---
 
-## 48. Back to the Future (1985)
+## 49. Back to the Future (1985)
 
 **Plot in plain language.** Marty McFly accidentally travels from 1985 back to 1955 in a DeLorean built by his eccentric scientist friend Doc Brown, has to get his parents to fall in love so he can exist, and then get home.
 
@@ -248,7 +264,7 @@
 
 ---
 
-## 49. The Goonies (1985)
+## 50. The Goonies (1985)
 
 **Plot in plain language.** A group of kids in a Pacific Northwest town that's about to be foreclosed on find a pirate treasure map and go on an adventure through underground caves to find One-Eyed Willy's treasure.
 
@@ -262,7 +278,24 @@
 
 ---
 
-## 50. Top Gun (1986)
+## 51. Fletch (1985)
+
+**Plot in plain language.** Investigative reporter Irwin M. "Fletch" Fletcher (Chevy Chase) goes undercover on a California beach to write about the drug trade, and a wealthy man approaches him with a bizarre offer: kill me for money, I'm dying anyway. Fletch thinks this doesn't add up and spends the rest of the movie impersonating doctors, lawyers, and a Utah Jazz player while digging into the real story.
+
+**Why it stuck.** Chevy Chase's Fletch is the patron saint of wiseass improv. He rattles off fake names and credentials with total confidence, and the movie trusts the audience to keep up. Every Gen X person who's ever bluffed their way through something owes Fletch a royalty.
+
+**Quotes you'll actually hear.**
+- "It's all ball bearings nowadays." — Fletch confidently explaining how an engine works, knowing nothing. Used whenever someone is bluffing expertise they don't have.
+- "Can I borrow your towel? My car just hit a water buffalo." — Fletch talking his way into a beach house. The delivery is the whole joke.
+- "Provo. I grew up in Provo." / "Lots of good memories." — Fletch casually claiming to be from Provo to avoid questions. The name "Provo" became a Gen X shorthand for an implausibly boring backstory.
+- "You've got a pretty good body for a man your age." / "Thanks. I work out." — Fletch to the man who wants him dead, completely ignoring the point of the scene.
+- "Moon River..." — Fletch humming the Audrey Hepburn classic while performing a medical exam he has no business performing.
+
+**Where it pops up now.** The structure of Fletch — wiseass journalist impersonates everyone while solving a crime — resurfaced in Jon Hamm's 2022 reboot. Every "comedic undercover reporter" character in 90s and 2000s TV owes the archetype.
+
+---
+
+## 52. Top Gun (1986)
 
 **Plot in plain language.** Hotshot Navy fighter pilot Maverick (Tom Cruise) goes to fighter weapons school. Aviator sunglasses, volleyball, romance with a flight instructor, tragic best friend death. The 2022 sequel turned out to be enormous.
 
@@ -279,7 +312,7 @@
 
 ---
 
-## 51. Ferris Bueller's Day Off (1986)
+## 53. Ferris Bueller's Day Off (1986)
 
 **Plot in plain language.** A clever Chicago high schooler fakes being sick, takes his uptight best friend and his girlfriend on the best skip day ever — parade, museum, baseball game, fancy dinner — and outsmarts his principal and his sister. John Hughes again, again.
 
@@ -295,7 +328,7 @@
 
 ---
 
-## 52. Aliens (1986)
+## 54. Aliens (1986)
 
 **Plot in plain language.** James Cameron's sequel to Alien, set 57 years later. Sigourney Weaver's Ripley joins a squad of space marines to investigate a colony overrun by aliens. Becomes a foster mom in the process.
 
@@ -310,7 +343,7 @@
 
 ---
 
-## 53. The Princess Bride (1987)
+## 55. The Princess Bride (1987)
 
 **Plot in plain language.** A grandfather reads a fairy tale to his sick grandson — pirates, princesses, sword fights, a six-fingered villain, true love, miracles. Directed by Rob Reiner. Endlessly clever and endlessly sincere.
 
@@ -328,7 +361,7 @@
 
 ---
 
-## 54. Full Metal Jacket (1987)
+## 56. Full Metal Jacket (1987)
 
 **Plot in plain language.** Stanley Kubrick's Vietnam War movie. First half is Marine boot camp on Parris Island; second half is the war itself.
 
@@ -342,7 +375,7 @@
 
 ---
 
-## 55. Predator (1987)
+## 57. Predator (1987)
 
 **Plot in plain language.** An elite military squad in a Central American jungle gets hunted by an invisible alien with a heat-vision mask. Arnold Schwarzenegger leads. Carl Weathers, Jesse Ventura, and a Minigun are involved.
 
@@ -357,7 +390,7 @@
 
 ---
 
-## 56. Spaceballs (1987)
+## 58. Spaceballs (1987)
 
 **Plot in plain language.** Mel Brooks' Star Wars parody. Lord Dark Helmet, Pizza the Hutt, Yogurt instead of Yoda.
 
@@ -372,7 +405,7 @@
 
 ---
 
-## 57. The Lost Boys (1987)
+## 59. The Lost Boys (1987)
 
 **Plot in plain language.** Two brothers move to a California beach town and the older one falls in with a gang of vampire teenagers. The Coreys (Corey Feldman and Corey Haim) play the vampire hunters.
 
@@ -383,7 +416,7 @@
 
 ---
 
-## 58. Die Hard (1988)
+## 60. Die Hard (1988)
 
 **Plot in plain language.** Off-duty NYPD cop John McClane is visiting his estranged wife at her L.A. office Christmas party when European thieves take the building hostage. He spends the next two hours barefoot in an air duct.
 
@@ -399,7 +432,7 @@
 
 ---
 
-## 59. Beetlejuice (1988)
+## 61. Beetlejuice (1988)
 
 **Plot in plain language.** A young couple dies and haunts their old house, then hires a chaotic ghost named Beetlejuice (Michael Keaton) to scare the new owners away. Tim Burton directs. Winona Ryder plays the gloomy teen.
 
@@ -413,7 +446,7 @@
 
 ---
 
-## 60. Coming to America (1988)
+## 62. Coming to America (1988)
 
 **Plot in plain language.** An African prince (Eddie Murphy) comes to Queens, NY, to find a wife who loves him for himself rather than his royal status. Murphy and Arsenio Hall play multiple side characters each.
 
@@ -427,7 +460,7 @@
 
 ---
 
-## 61. Heathers (1989)
+## 63. Heathers (1989)
 
 **Plot in plain language.** A dark satire of high school cliques where a teen girl (Winona Ryder) and her sociopathic new boyfriend (Christian Slater) start murdering the popular kids and staging it as suicides.
 
@@ -442,7 +475,7 @@
 
 ---
 
-## 62. Bill & Ted's Excellent Adventure (1989)
+## 64. Bill & Ted's Excellent Adventure (1989)
 
 **Plot in plain language.** Two amiable San Dimas teen metalheads (Keanu Reeves and Alex Winter) travel through time in a phone booth, gathering historical figures for a history report, so that they can pass history class, so that they can stay together, so that their future band can save the world.
 
@@ -457,7 +490,7 @@
 
 ---
 
-## 63. Say Anything... (1989)
+## 65. Say Anything... (1989)
 
 **Plot in plain language.** A goofy, sincere high school senior (John Cusack) falls for the smartest, prettiest girl in school (Ione Skye). Cameron Crowe again.
 
@@ -471,7 +504,7 @@
 
 ---
 
-## 64. Indiana Jones and the Last Crusade (1989)
+## 66. Indiana Jones and the Last Crusade (1989)
 
 **Plot in plain language.** Archaeology professor and part-time treasure hunter Indiana Jones (Harrison Ford) teams up with his stuffy, bickering father Henry Jones Sr. (Sean Connery) to find the Holy Grail before the Nazis do. Road trips through Venice, Hatay, and the Canyon of the Crescent Moon ensue.
 
@@ -486,6 +519,21 @@
 - "Junior!" — Henry's preferred name for his son. Any time a parent or authority figure refuses to use the cool name.
 
 **Where it pops up now.** "You have chosen wisely / he chose poorly" are all over sports commentary, tech-Twitter debates, and election-night reaction threads. The leap-of-faith sequence gets cited in business writing about risk and trust.
+
+---
+
+## 67. Fletch Lives (1989)
+
+**Plot in plain language.** Irwin M. Fletcher inherits a Louisiana plantation from a great-aunt and heads south to claim it, immediately getting tangled in murder, an evangelical televangelist empire, and a toxic waste cover-up. The cultural setting shifts from L.A. beach culture to the Deep South, and Fletch spends the movie impersonating a Southern lawyer, a KKK member (briefly, and with contempt), and various other people he has no business being.
+
+**Why it stuck.** It's the lesser Fletch, and Gen X mostly knows it as "the sequel." But it extended Fletch's run on cable and VHS through the late 80s and early 90s, and some of the Southern-fried impersonations — especially the fake-preacher material — are genuinely sharp. The Swaggart-era televangelism parody landed at exactly the right moment.
+
+**Quotes you'll actually hear.**
+- "You using the whole fist, Doc?" — Fletch, having a medical procedure, being difficult. The go-to Fletch Lives quote.
+- "I'm Fletch. Irwin M. Fletcher. Chevy Chase." — No, he doesn't actually say that, but Gen X conflates the actor with the character often enough that it counts.
+- "Fat Sam's — great steaks." — Fletch's fake restaurant expertise.
+
+**Where it pops up now.** Less than the original, honestly. Mostly cited as "the one where he goes to the South." The 2022 Jon Hamm reboot drew more from the first film.
 
 ---
 
