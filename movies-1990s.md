@@ -653,6 +653,36 @@
 
 ---
 
+## 113. [The Fifth Element (1997)](https://www.imdb.com/title/tt0119116/)
+
+**Plot in plain language.** In 23rd-century Earth, a cab driver (Bruce Willis) gets entangled with a mysterious woman (Milla Jovovich) who is literally the Fifth Element — the key to stopping an ancient cosmic evil. Directed by Luc Besson, with Gary Oldman as a gloriously unhinged villain and Chris Tucker as a hyperactive radio DJ alien.
+
+**Why it stuck.** Pure maximalist sci-fi spectacle with a heart. The world-building is inventive, the action is slick, and nearly every character is quotable. It became a cult staple at video stores and cable rotations throughout the late 1990s.
+
+**Quotes you'll actually hear.**
+- "Multipass!" — Leeloo (Jovovich) holding up her identification. Used to bluff your way through any checkpoint, bureaucratic process, or argument you're not prepared for.
+- "Leeloo Dallas multipass." — Same scene, extended version. A favorite for anyone who just wants to say the whole thing.
+- "SUPER GREEN!" — Ruby Rhod (Tucker) screaming approval. Used as absurdly enthusiastic affirmation.
+- "Aziz, light!" — Korben Dallas ordering his neighbor. Used when someone is standing in the dark and won't flip the switch.
+
+**Where it pops up now.** A perennial sci-fi comfort watch. "Multipass" lives on as one of the more recognizable movie reference shorthand for talking your way past something.
+
+---
+
+## 114. [Galaxy Quest (1999)](https://www.imdb.com/title/tt0177789/)
+
+**Plot in plain language.** The washed-up cast of a beloved Star Trek–style TV show (Tim Allen, Sigourney Weaver, Alan Rickman) gets abducted by real aliens who mistook their show for historical documents. They have to pretend to actually be their characters to save the day.
+
+**Why it stuck.** It is both a loving tribute to and a sharp parody of Star Trek fandom. Trekkies embraced it. Non-fans loved it anyway. Alan Rickman's pained Shakespearean actor trapped in a rubber forehead is a masterclass.
+
+**Quotes you'll actually hear.**
+- "Never give up, never surrender!" — Commander Taggart's (Allen) rallying cry. Used any time someone is dramatically refusing to quit something that may not be worth quitting.
+- "By Grabthar's hammer… what a savings." — Alexander Dane (Rickman) saying his catchphrase with barely concealed contempt. Used to mock corporate enthusiasm or to deliver any mundane statement with theatrical gravitas.
+- "It's the episodes — they're historical documents!" — The aliens explaining their sincere belief. Used when someone takes a piece of fiction too literally.
+- "There's no substitute for blind, obstinate faith." — Used to acknowledge that sometimes sheer stubbornness is the actual plan.
+
+**Where it pops up now.** Still quoted heavily in sci-fi fan circles. "Never give up, never surrender" crossed over into general use. The film is frequently cited when discussing the relationship between fandoms and the franchises they love.
+
 ---
 
 &laquo; Previous: [1980s movies](movies-1980s.md) · [Back to the main index](README.md) · Next: [Early 2000s movies](movies-2000s.md) &raquo;

@@ -36,7 +36,7 @@ This guide is split into one file per era so it's easier to skim:
 - **[The Movies of the Early 2000s](movies-2000s.md)** — 16 entries. Anchorman, Old School, Mean Girls, Napoleon Dynamite, Step Brothers — the late-Gen-X / early-millennial overlap years.
 - **[The TV Shows](tv-shows.md)** — 31 entries. From Cheers and The Cosby Show through Seinfeld, Friends, Sopranos, and The Office.
 
-**Total: 159 entries across the whole guide.**
+**Total: 161 entries across the whole guide.**
 
 ---
 

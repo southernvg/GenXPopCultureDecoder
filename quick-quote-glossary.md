@@ -341,6 +341,13 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "This one time, at band camp…" | American Pie (1999) |
 | "MILF." | American Pie |
 | "I see dead people." | The Sixth Sense (1999) |
+| "Multipass!" | The Fifth Element (1997) |
+| "Leeloo Dallas multipass." | The Fifth Element |
+| "SUPER GREEN!" | The Fifth Element — Ruby Rhod |
+| "Aziz, light!" | The Fifth Element |
+| "Never give up, never surrender!" | Galaxy Quest (1999) — Commander Taggart |
+| "By Grabthar's hammer… what a savings." | Galaxy Quest — Alexander Dane |
+| "It's the episodes — they're historical documents!" | Galaxy Quest |
 
 ## The Early 2000s
 
