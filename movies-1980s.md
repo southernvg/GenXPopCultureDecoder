@@ -4,7 +4,7 @@
 
 # The Movies of the 1980s
 
-## 33. Caddyshack (1980)
+## 33. [Caddyshack (1980)](https://www.imdb.com/title/tt0080487/)
 
 **Plot in plain language.** A young caddy at a snooty country club tries to win a college scholarship while a vulgar new-money real-estate developer (Rodney Dangerfield) torments the old-money members, the assistant groundskeeper (Bill Murray) wages a one-man war against a gopher, and Chevy Chase plays a zen golf savant. It is barely a movie. It is more like four comedians improvising in the same parking lot.
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 34. Airplane! (1980)
+## 34. [Airplane! (1980)](https://www.imdb.com/title/tt0080339/)
 
 **Plot in plain language.** A traumatized ex-fighter pilot has to land a passenger jet after the crew gets food poisoning. That's the straight version. The actual movie is a non-stop parody of 1970s disaster films with a joke about every two seconds, including visual jokes happening in the background while the dialogue jokes are happening in the foreground.
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 35. The Empire Strikes Back (1980)
+## 35. [The Empire Strikes Back (1980)](https://www.imdb.com/title/tt0080684/)
 
 **Plot in plain language.** The middle Star Wars movie. The good guys lose, Luke gets his hand cut off, and Darth Vader reveals he is Luke's father. If you somehow do not know this, please forgive the spoiler — the statute of limitations expired around 1985.
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 36. Raiders of the Lost Ark (1981)
+## 36. [Raiders of the Lost Ark (1981)](https://www.imdb.com/title/tt0082971/)
 
 **Plot in plain language.** Archaeologist Indiana Jones races Nazis to find the Ark of the Covenant. Snakes are involved. Faces melt.
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 37. Stripes (1981)
+## 37. [Stripes (1981)](https://www.imdb.com/title/tt0083316/)
 
 **Plot in plain language.** Two unemployable goofballs (Bill Murray and Harold Ramis) join the Army on a whim. Hijinks ensue.
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 38. Fast Times at Ridgemont High (1982)
+## 38. [Fast Times at Ridgemont High (1982)](https://www.imdb.com/title/tt0083929/)
 
 **Plot in plain language.** Cameron Crowe's loosely-connected slice-of-life about California high schoolers in 1981 — Spicoli the stoner surfer, the smart girl who has a complicated year, the older brother with a job at the burger place, and a parade of side characters. Based on Crowe going undercover at a real high school.
 
@@ -95,7 +95,7 @@
 
 ---
 
-## 39. E.T. the Extra-Terrestrial (1982)
+## 39. [E.T. the Extra-Terrestrial (1982)](https://www.imdb.com/title/tt0083866/)
 
 **Plot in plain language.** A suburban kid named Elliott befriends a stranded alien and helps him "phone home" before the government can intervene. The most successful movie of the 1980s and a cornerstone Spielberg tearjerker.
 
@@ -109,7 +109,7 @@
 
 ---
 
-## 40. Risky Business (1983)
+## 40. [Risky Business (1983)](https://www.imdb.com/title/tt0086200/)
 
 **Plot in plain language.** A Chicago high school senior's parents go on vacation and he turns the house into a one-weekend brothel as a get-rich scheme. Tom Cruise's launch pad.
 
@@ -123,7 +123,7 @@
 
 ---
 
-## 41. A Christmas Story (1983)
+## 41. [A Christmas Story (1983)](https://www.imdb.com/title/tt0085334/)
 
 **Plot in plain language.** Nine-year-old Ralphie in 1940s Indiana wants a Red Ryder BB gun for Christmas and is told repeatedly he'll shoot his eye out. Narrated by adult Ralphie looking back. TBS airs it on a 24-hour loop every Christmas Eve into Christmas Day, which is how every Gen X person has seen it 47 times whether they wanted to or not.
 
@@ -138,7 +138,7 @@
 
 ---
 
-## 42. Strange Brew (1983)
+## 42. [Strange Brew (1983)](https://www.imdb.com/title/tt0086373/)
 
 **Plot in plain language.** Bob and Doug McKenzie — two spectacularly dim Canadian brothers obsessed with beer and back bacon — get jobs at the Elsinore Brewery (yes, that Elsinore) and stumble onto an evil scheme by the brewery owner to use mind-controlled beer to take over the world. It is a loose Hamlet adaptation. Rick Moranis and Dave Thomas wrote and directed it, extending their SCTV "Great White North" sketch into a feature film.
 
@@ -154,7 +154,7 @@
 
 ---
 
-## 43. Ghostbusters (1984)
+## 43. [Ghostbusters (1984)](https://www.imdb.com/title/tt0087332/)
 
 **Plot in plain language.** Three parapsychologists get fired from their university and start a small business catching ghosts in New York City. Then a marshmallow god threatens to destroy the city. Bill Murray smirks his way through the whole thing.
 
@@ -171,7 +171,7 @@
 
 ---
 
-## 44. Sixteen Candles (1984)
+## 44. [Sixteen Candles (1984)](https://www.imdb.com/title/tt0088128/)
 
 **Plot in plain language.** A girl turns 16 and her whole family forgets because her sister is getting married the next day. John Hughes' first teen movie.
 
@@ -185,7 +185,7 @@
 
 ---
 
-## 45. This Is Spinal Tap (1984)
+## 45. [This Is Spinal Tap (1984)](https://www.imdb.com/title/tt0088258/)
 
 **Plot in plain language.** Fake documentary ("mockumentary") about a touring heavy-metal band that is past its prime. Rob Reiner directs and plays the filmmaker. Christopher Guest, Michael McKean, and Harry Shearer play the band. Almost entirely improvised. So many viewers thought it was a real documentary that they didn't laugh.
 
@@ -200,7 +200,7 @@
 
 ---
 
-## 46. The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
+## 46. [The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)](https://www.imdb.com/title/tt0086856/)
 
 **Plot in plain language.** A brain surgeon / particle physicist / rock star / samurai (Peter Weller) named Buckaroo Banzai leads a team of similarly multi-talented adventurers called the Hong Kong Cavaliers. He uses an "oscillation overthruster" to drive a rocket car *through* solid matter into the Eighth Dimension, accidentally letting through a race of evil aliens (all named "John" — John Bigboote, John Smallberries, John Yaya) led by John Lithgow as Dr. Emilio Lizardo. He has to save the world before lunch. Co-stars Jeff Goldblum in a cowboy outfit named "New Jersey," Christopher Lloyd, and Ellen Barkin. None of this is exaggeration.
 
@@ -217,7 +217,7 @@
 
 ---
 
-## 47. The Karate Kid (1984)
+## 47. [The Karate Kid (1984)](https://www.imdb.com/title/tt0087538/)
 
 **Plot in plain language.** Bullied new kid in California learns karate from his apartment building's handyman, an Okinawan immigrant named Mr. Miyagi, and enters a tournament. Sweep the leg, wax on, wax off.
 
@@ -232,7 +232,7 @@
 
 ---
 
-## 48. The Breakfast Club (1985)
+## 48. [The Breakfast Club (1985)](https://www.imdb.com/title/tt0088847/)
 
 **Plot in plain language.** Five high school students from five different cliques (jock, brain, princess, basket case, criminal) spend a Saturday in detention together and have feelings. John Hughes again.
 
@@ -247,7 +247,7 @@
 
 ---
 
-## 49. Back to the Future (1985)
+## 49. [Back to the Future (1985)](https://www.imdb.com/title/tt0088763/)
 
 **Plot in plain language.** Marty McFly accidentally travels from 1985 back to 1955 in a DeLorean built by his eccentric scientist friend Doc Brown, has to get his parents to fall in love so he can exist, and then get home.
 
@@ -264,7 +264,7 @@
 
 ---
 
-## 50. The Goonies (1985)
+## 50. [The Goonies (1985)](https://www.imdb.com/title/tt0089218/)
 
 **Plot in plain language.** A group of kids in a Pacific Northwest town that's about to be foreclosed on find a pirate treasure map and go on an adventure through underground caves to find One-Eyed Willy's treasure.
 
@@ -278,7 +278,7 @@
 
 ---
 
-## 51. Fletch (1985)
+## 51. [Fletch (1985)](https://www.imdb.com/title/tt0089155/)
 
 **Plot in plain language.** Investigative reporter Irwin M. "Fletch" Fletcher (Chevy Chase) goes undercover on a California beach to write about the drug trade, and a wealthy man approaches him with a bizarre offer: kill me for money, I'm dying anyway. Fletch thinks this doesn't add up and spends the rest of the movie impersonating doctors, lawyers, and a Utah Jazz player while digging into the real story.
 
@@ -295,7 +295,7 @@
 
 ---
 
-## 52. Top Gun (1986)
+## 52. [Top Gun (1986)](https://www.imdb.com/title/tt0092099/)
 
 **Plot in plain language.** Hotshot Navy fighter pilot Maverick (Tom Cruise) goes to fighter weapons school. Aviator sunglasses, volleyball, romance with a flight instructor, tragic best friend death. The 2022 sequel turned out to be enormous.
 
@@ -312,7 +312,7 @@
 
 ---
 
-## 53. Ferris Bueller's Day Off (1986)
+## 53. [Ferris Bueller's Day Off (1986)](https://www.imdb.com/title/tt0091042/)
 
 **Plot in plain language.** A clever Chicago high schooler fakes being sick, takes his uptight best friend and his girlfriend on the best skip day ever — parade, museum, baseball game, fancy dinner — and outsmarts his principal and his sister. John Hughes again, again.
 
@@ -328,7 +328,7 @@
 
 ---
 
-## 54. Aliens (1986)
+## 54. [Aliens (1986)](https://www.imdb.com/title/tt0090605/)
 
 **Plot in plain language.** James Cameron's sequel to Alien, set 57 years later. Sigourney Weaver's Ripley joins a squad of space marines to investigate a colony overrun by aliens. Becomes a foster mom in the process.
 
@@ -343,7 +343,7 @@
 
 ---
 
-## 55. The Princess Bride (1987)
+## 55. [The Princess Bride (1987)](https://www.imdb.com/title/tt0093779/)
 
 **Plot in plain language.** A grandfather reads a fairy tale to his sick grandson — pirates, princesses, sword fights, a six-fingered villain, true love, miracles. Directed by Rob Reiner. Endlessly clever and endlessly sincere.
 
@@ -361,7 +361,7 @@
 
 ---
 
-## 56. Full Metal Jacket (1987)
+## 56. [Full Metal Jacket (1987)](https://www.imdb.com/title/tt0093058/)
 
 **Plot in plain language.** Stanley Kubrick's Vietnam War movie. First half is Marine boot camp on Parris Island; second half is the war itself.
 
@@ -375,7 +375,7 @@
 
 ---
 
-## 57. Predator (1987)
+## 57. [Predator (1987)](https://www.imdb.com/title/tt0093773/)
 
 **Plot in plain language.** An elite military squad in a Central American jungle gets hunted by an invisible alien with a heat-vision mask. Arnold Schwarzenegger leads. Carl Weathers, Jesse Ventura, and a Minigun are involved.
 
@@ -390,7 +390,7 @@
 
 ---
 
-## 58. Spaceballs (1987)
+## 58. [Spaceballs (1987)](https://www.imdb.com/title/tt0094012/)
 
 **Plot in plain language.** Mel Brooks' Star Wars parody. Lord Dark Helmet, Pizza the Hutt, Yogurt instead of Yoda.
 
@@ -405,7 +405,7 @@
 
 ---
 
-## 59. The Lost Boys (1987)
+## 59. [The Lost Boys (1987)](https://www.imdb.com/title/tt0093437/)
 
 **Plot in plain language.** Two brothers move to a California beach town and the older one falls in with a gang of vampire teenagers. The Coreys (Corey Feldman and Corey Haim) play the vampire hunters.
 
@@ -416,7 +416,7 @@
 
 ---
 
-## 60. Die Hard (1988)
+## 60. [Die Hard (1988)](https://www.imdb.com/title/tt0095016/)
 
 **Plot in plain language.** Off-duty NYPD cop John McClane is visiting his estranged wife at her L.A. office Christmas party when European thieves take the building hostage. He spends the next two hours barefoot in an air duct.
 
@@ -432,7 +432,7 @@
 
 ---
 
-## 61. Beetlejuice (1988)
+## 61. [Beetlejuice (1988)](https://www.imdb.com/title/tt0094721/)
 
 **Plot in plain language.** A young couple dies and haunts their old house, then hires a chaotic ghost named Beetlejuice (Michael Keaton) to scare the new owners away. Tim Burton directs. Winona Ryder plays the gloomy teen.
 
@@ -446,7 +446,7 @@
 
 ---
 
-## 62. Coming to America (1988)
+## 62. [Coming to America (1988)](https://www.imdb.com/title/tt0094898/)
 
 **Plot in plain language.** An African prince (Eddie Murphy) comes to Queens, NY, to find a wife who loves him for himself rather than his royal status. Murphy and Arsenio Hall play multiple side characters each.
 
@@ -460,7 +460,7 @@
 
 ---
 
-## 63. Heathers (1989)
+## 63. [Heathers (1989)](https://www.imdb.com/title/tt0097322/)
 
 **Plot in plain language.** A dark satire of high school cliques where a teen girl (Winona Ryder) and her sociopathic new boyfriend (Christian Slater) start murdering the popular kids and staging it as suicides.
 
@@ -475,7 +475,7 @@
 
 ---
 
-## 64. Bill & Ted's Excellent Adventure (1989)
+## 64. [Bill & Ted's Excellent Adventure (1989)](https://www.imdb.com/title/tt0096928/)
 
 **Plot in plain language.** Two amiable San Dimas teen metalheads (Keanu Reeves and Alex Winter) travel through time in a phone booth, gathering historical figures for a history report, so that they can pass history class, so that they can stay together, so that their future band can save the world.
 
@@ -490,7 +490,7 @@
 
 ---
 
-## 65. Say Anything... (1989)
+## 65. [Say Anything... (1989)](https://www.imdb.com/title/tt0098258/)
 
 **Plot in plain language.** A goofy, sincere high school senior (John Cusack) falls for the smartest, prettiest girl in school (Ione Skye). Cameron Crowe again.
 
@@ -504,7 +504,7 @@
 
 ---
 
-## 66. Indiana Jones and the Last Crusade (1989)
+## 66. [Indiana Jones and the Last Crusade (1989)](https://www.imdb.com/title/tt0097576/)
 
 **Plot in plain language.** Archaeology professor and part-time treasure hunter Indiana Jones (Harrison Ford) teams up with his stuffy, bickering father Henry Jones Sr. (Sean Connery) to find the Holy Grail before the Nazis do. Road trips through Venice, Hatay, and the Canyon of the Crescent Moon ensue.
 
@@ -522,7 +522,7 @@
 
 ---
 
-## 67. Fletch Lives (1989)
+## 67. [Fletch Lives (1989)](https://www.imdb.com/title/tt0097162/)
 
 **Plot in plain language.** Irwin M. Fletcher inherits a Louisiana plantation from a great-aunt and heads south to claim it, immediately getting tangled in murder, an evangelical televangelist empire, and a toxic waste cover-up. The cultural setting shifts from L.A. beach culture to the Deep South, and Fletch spends the movie impersonating a Southern lawyer, a KKK member (briefly, and with contempt), and various other people he has no business being.
 

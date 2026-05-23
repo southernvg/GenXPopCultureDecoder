@@ -6,7 +6,7 @@
 
 Note: Gen X was in our late 20s and early 30s for most of this stretch — out of college, into our first jobs, watching these movies in groups in dorm rooms and apartments. They got memorized differently than the high school movies did, but no less thoroughly.
 
-## 111. Best in Show (2000)
+## 111. [Best in Show (2000)](https://www.imdb.com/title/tt0218839/)
 
 **Plot in plain language.** Christopher Guest mockumentary about the lives of dog owners competing in a national dog show. The Spinal Tap formula applied to suburbia.
 
@@ -19,7 +19,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 112. Almost Famous (2000)
+## 112. [Almost Famous (2000)](https://www.imdb.com/title/tt0181875/)
 
 **Plot in plain language.** Cameron Crowe's semi-autobiographical movie about a 15-year-old in 1973 who lands a Rolling Stone assignment to follow a band on tour. Kate Hudson as Penny Lane.
 
@@ -34,7 +34,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 113. Zoolander (2001)
+## 113. [Zoolander (2001)](https://www.imdb.com/title/tt0196229/)
 
 **Plot in plain language.** Ben Stiller as a mind-numbingly dumb male model brainwashed to assassinate the prime minister of Malaysia. Owen Wilson as his rival, Will Ferrell as the villain Mugatu.
 
@@ -50,7 +50,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 114. Super Troopers (2001)
+## 114. [Super Troopers (2001)](https://www.imdb.com/title/tt0247745/)
 
 **Plot in plain language.** A troupe of bored Vermont state troopers (Broken Lizard) play increasingly absurd pranks on motorists while competing with local town cops. Cult classic with a 2018 fan-funded sequel.
 
@@ -66,7 +66,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 115. The Royal Tenenbaums (2001)
+## 115. [The Royal Tenenbaums (2001)](https://www.imdb.com/title/tt0265666/)
 
 **Plot in plain language.** Wes Anderson's symmetrical family drama-comedy. Three former child prodigies (Gwyneth Paltrow, Ben Stiller, Luke Wilson) reunite with their estranged con-man father (Gene Hackman). Owen Wilson, Bill Murray.
 
@@ -77,7 +77,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 116. Old School (2003)
+## 116. [Old School (2003)](https://www.imdb.com/title/tt0302886/)
 
 **Plot in plain language.** Three thirtysomething men (Will Ferrell, Vince Vaughn, Luke Wilson) start an unofficial fraternity at the college near where they live, as a way to recapture their college years. Todd Phillips directs.
 
@@ -93,7 +93,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 117. Anchorman: The Legend of Ron Burgundy (2004)
+## 117. [Anchorman: The Legend of Ron Burgundy (2004)](https://www.imdb.com/title/tt0357413/)
 
 **Plot in plain language.** Will Ferrell as the vain, idiotic top news anchor in 1970s San Diego who has his world upended when a woman (Christina Applegate) joins the newsroom. The Channel 4 news team includes Paul Rudd, Steve Carell, and David Koechner. Adam McKay directs.
 
@@ -114,7 +114,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 118. Mean Girls (2004)
+## 118. [Mean Girls (2004)](https://www.imdb.com/title/tt0377092/)
 
 **Plot in plain language.** Tina Fey (writer/co-star) adapts a self-help book into a comedy about a homeschooled girl (Lindsay Lohan) who infiltrates the popular clique at a Chicago high school.
 
@@ -131,7 +131,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 119. Napoleon Dynamite (2004)
+## 119. [Napoleon Dynamite (2004)](https://www.imdb.com/title/tt0374900/)
 
 **Plot in plain language.** Quirky low-budget Sundance hit about an awkward Idaho high schooler (Jon Heder) whose entire life is absurd. He has a llama named Tina, a pen-pal-bride-mailing brother, and a friend named Pedro running for class president.
 
@@ -148,7 +148,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 120. Dodgeball: A True Underdog Story (2004)
+## 120. [Dodgeball: A True Underdog Story (2004)](https://www.imdb.com/title/tt0364725/)
 
 **Plot in plain language.** A scrappy gym (Vince Vaughn) takes on a global fitness chain (Ben Stiller's White Goodman) in a Las Vegas dodgeball tournament to save the gym.
 
@@ -163,7 +163,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 121. Wedding Crashers (2005)
+## 121. [Wedding Crashers (2005)](https://www.imdb.com/title/tt0396269/)
 
 **Plot in plain language.** Two divorce mediators (Vince Vaughn and Owen Wilson) crash weddings to meet women. Then they crash a Kennedy-like family wedding and everything spirals. Christopher Walken, Will Ferrell, Rachel McAdams, Isla Fisher.
 
@@ -178,7 +178,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 122. The 40-Year-Old Virgin (2005)
+## 122. [The 40-Year-Old Virgin (2005)](https://www.imdb.com/title/tt0405422/)
 
 **Plot in plain language.** Steve Carell as a sweet, awkward, virginal stockroom employee whose coworkers (Paul Rudd, Seth Rogen, Romany Malco) make it their mission to get him laid. Judd Apatow's directorial debut.
 
@@ -192,7 +192,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 123. Talladega Nights: The Ballad of Ricky Bobby (2006)
+## 123. [Talladega Nights: The Ballad of Ricky Bobby (2006)](https://www.imdb.com/title/tt0415306/)
 
 **Plot in plain language.** Will Ferrell as a top NASCAR driver who loses his nerve, his career, and his wife after a crash, and has to rebuild against a French Formula One driver played by Sacha Baron Cohen. Adam McKay directs again.
 
@@ -209,7 +209,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 124. Step Brothers (2008)
+## 124. [Step Brothers (2008)](https://www.imdb.com/title/tt0838283/)
 
 **Plot in plain language.** Two 40-year-old man-children (Will Ferrell and John C. Reilly) become stepbrothers when their respective single parents marry, and have to share a bedroom. The most childish movie ever made and somehow brilliant.
 
@@ -226,7 +226,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 125. Tropic Thunder (2008)
+## 125. [Tropic Thunder (2008)](https://www.imdb.com/title/tt0942385/)
 
 **Plot in plain language.** A group of self-obsessed Hollywood actors making a Vietnam war movie end up in a real combat situation. Ben Stiller, Jack Black, Robert Downey Jr. (in a controversial blackface performance playing a method actor who would do that), Tom Cruise (unrecognizable as a foul-mouthed studio executive).
 
@@ -240,7 +240,7 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
-## 126. The Hangover (2009)
+## 126. [The Hangover (2009)](https://www.imdb.com/title/tt1119646/)
 
 **Plot in plain language.** Three friends (Bradley Cooper, Ed Helms, Zach Galifianakis) lose the groom during a Vegas bachelor party and have to retrace their drug-addled steps to find him. Mike Tyson cameo.
 
