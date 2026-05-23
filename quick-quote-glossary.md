@@ -170,6 +170,7 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "Life moves pretty fast. If you don't stop and look around…" | Ferris Bueller's Day Off |
 | "Anyone? Anyone?" | Ferris Bueller's Day Off (Ben Stein) |
 | "I weep for the future." | Ferris Bueller's Day Off |
+| "Voodoo economics." | Ferris Bueller's Day Off (Ben Stein) |
 | "Game over, man! Game over!" | Aliens (1986) |
 | "Get away from her, you b****!" | Aliens (Ripley) |
 | "Nuke the site from orbit. It's the only way to be sure." | Aliens |
