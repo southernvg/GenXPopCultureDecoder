@@ -352,6 +352,7 @@
 - "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." — Ferris, to the camera. The single most-quoted line in Gen X graduation speeches.
 - "Bueller… Bueller… Bueller…" — Ben Stein, the deadpan economics teacher, taking attendance. Used to indicate dead silence.
 - "Anyone? Anyone?" — Same teacher trying to get a class to answer. Used when nobody on a Zoom call is responding.
+- "Voodoo economics." — The same droning teacher, summarizing supply-side economics with the phrase George H.W. Bush used against Reagan in 1980. Gen X drops it any time someone floats a dubious economic policy or budget math that clearly doesn't add up.
 - "I weep for the future." — Grace, the secretary.
 
 **Where it pops up now.** The "Bueller… Bueller…" attendance bit is referenced constantly in workplace memes about silent meetings.
