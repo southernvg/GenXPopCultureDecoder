@@ -4,7 +4,7 @@
 
 # The Movies of the 1990s
 
-## 68. [Goodfellas (1990)](https://www.imdb.com/title/tt0099685/)
+## 70. [Goodfellas (1990)](https://www.imdb.com/title/tt0099685/)
 
 **Plot in plain language.** Martin Scorsese's adaptation of the true story of Henry Hill, a Brooklyn kid who grew up in the mob, narrated by Hill himself. Joe Pesci, Robert De Niro, Ray Liotta.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 69. [Home Alone (1990)](https://www.imdb.com/title/tt0099785/)
+## 71. [Home Alone (1990)](https://www.imdb.com/title/tt0099785/)
 
 **Plot in plain language.** A Chicago family forgets their 8-year-old son Kevin at home when they leave for Christmas in Paris, and Kevin booby-traps the house to stop two burglars. The McCallisters are confirmed wealthy because that house. John Hughes (writer) and Chris Columbus (director).
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 70. [Wayne's World (1992)](https://www.imdb.com/title/tt0105793/)
+## 72. [Wayne's World (1992)](https://www.imdb.com/title/tt0105793/)
 
 **Plot in plain language.** An expansion of the Saturday Night Live sketch — two metalhead public-access TV hosts (Mike Myers and Dana Carvey) from Aurora, Illinois, accidentally sell their show to a slick TV producer and have to take it back.
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 71. [Sneakers (1992)](https://www.imdb.com/title/tt0105435/)
+## 73. [Sneakers (1992)](https://www.imdb.com/title/tt0105435/)
 
 **Plot in plain language.** A team of professional security testers — they break into banks and offices for a living to find weaknesses — gets blackmailed by what looks like the NSA into stealing a mysterious black box. The box turns out to be a universal codebreaker that can crack any encrypted system on Earth. The crew (Robert Redford, Sidney Poitier, Dan Aykroyd, River Phoenix, David Strathairn as a blind sound expert, Mary McDonnell) has to get it back from a villain played by Ben Kingsley, who happens to be Redford's college friend from a 1960s hacking scheme gone wrong. Smart, funny, low-key — a heist movie disguised as a tech thriller.
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 72. [A Few Good Men (1992)](https://www.imdb.com/title/tt0104257/)
+## 74. [A Few Good Men (1992)](https://www.imdb.com/title/tt0104257/)
 
 **Plot in plain language.** Aaron Sorkin courtroom drama. A Navy lawyer (Tom Cruise) defends two Marines accused of killing a fellow Marine in a hazing ritual. Jack Nicholson plays the base commander who ordered it.
 
@@ -83,7 +83,7 @@
 
 ---
 
-## 73. [Reservoir Dogs (1992)](https://www.imdb.com/title/tt0105236/)
+## 75. [Reservoir Dogs (1992)](https://www.imdb.com/title/tt0105236/)
 
 **Plot in plain language.** Quentin Tarantino's debut. A diamond heist goes wrong; the surviving crooks meet in a warehouse and try to figure out who the rat is. Color-coded code names (Mr. Pink, Mr. White, Mr. Orange, etc.).
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 74. [Aladdin (1992)](https://www.imdb.com/title/tt0103639/)
+## 76. [Aladdin (1992)](https://www.imdb.com/title/tt0103639/)
 
 **Plot in plain language.** Disney animated take on the Arabian Nights tale. The genie, voiced by Robin Williams, steals the entire movie. Williams improvised so much that the Academy disqualified it from the writing categories.
 
@@ -111,7 +111,7 @@
 
 ---
 
-## 75. [Wind (1992)](https://www.imdb.com/title/tt0105984/)
+## 77. [Wind (1992)](https://www.imdb.com/title/tt0105984/)
 
 **Plot in plain language.** A young sailor (Matthew Modine) blows his shot at winning the America's Cup for the United States, and the boat goes to Australia. Disgraced, he goes off to the desert with his ex-girlfriend (Jennifer Grey) and a brilliant aerospace engineer (Stellan Skarsgård) to design a radical new boat, recruit a ragtag crew, and challenge the Australians to take the Cup back. Directed by Carroll Ballard (*The Black Stallion*, *Never Cry Wolf*), who knew how to shoot wind and water like no one else. The on-water cinematography is still some of the best ever filmed.
 
@@ -126,7 +126,7 @@
 
 ---
 
-## 76. [So I Married an Axe Murderer (1993)](https://www.imdb.com/title/tt0108174/)
+## 78. [So I Married an Axe Murderer (1993)](https://www.imdb.com/title/tt0108174/)
 
 **Plot in plain language.** A San Francisco poet (Mike Myers) suspects his new wife (Nancy Travis) is a serial killer. Mike Myers also plays his own dad in a brilliant Scottish bit.
 
@@ -140,7 +140,7 @@
 
 ---
 
-## 77. [Groundhog Day (1993)](https://www.imdb.com/title/tt0107048/)
+## 79. [Groundhog Day (1993)](https://www.imdb.com/title/tt0107048/)
 
 **Plot in plain language.** Cynical TV weatherman Phil Connors (Bill Murray) gets stuck living the same February 2nd in Punxsutawney, PA, over and over until he becomes a better person. Directed by Harold Ramis.
 
@@ -156,7 +156,7 @@
 
 ---
 
-## 78. [Jurassic Park (1993)](https://www.imdb.com/title/tt0107290/)
+## 80. [Jurassic Park (1993)](https://www.imdb.com/title/tt0107290/)
 
 **Plot in plain language.** Spielberg adapts Michael Crichton. A rich guy clones dinosaurs for a theme park, things go wrong, Jeff Goldblum gets to deliver several great speeches about chaos theory.
 
@@ -172,7 +172,7 @@
 
 ---
 
-## 79. [The Sandlot (1993)](https://www.imdb.com/title/tt0108037/)
+## 81. [The Sandlot (1993)](https://www.imdb.com/title/tt0108037/)
 
 **Plot in plain language.** A bookish new kid in a 1960s suburban neighborhood gets adopted by a group of baseball-playing kids and they spend a summer trying to retrieve a Babe Ruth-signed ball from the giant dog ("The Beast") behind the field's fence.
 
@@ -188,7 +188,7 @@
 
 ---
 
-## 80. [Dazed and Confused (1993)](https://www.imdb.com/title/tt0106677/)
+## 82. [Dazed and Confused (1993)](https://www.imdb.com/title/tt0106677/)
 
 **Plot in plain language.** Richard Linklater's hangout movie set on the last day of high school in 1976 in Texas. Matthew McConaughey's launch pad.
 
@@ -202,7 +202,7 @@
 
 ---
 
-## 81. [Forrest Gump (1994)](https://www.imdb.com/title/tt0109830/)
+## 83. [Forrest Gump (1994)](https://www.imdb.com/title/tt0109830/)
 
 **Plot in plain language.** A slow-witted but extraordinarily kind man from Alabama (Tom Hanks) accidentally Zelig-style witnesses every major event in late-20th-century American history. Bubba Gump shrimp company. Lt. Dan. Jenny.
 
@@ -218,7 +218,7 @@
 
 ---
 
-## 82. [Pulp Fiction (1994)](https://www.imdb.com/title/tt0110912/)
+## 84. [Pulp Fiction (1994)](https://www.imdb.com/title/tt0110912/)
 
 **Plot in plain language.** Tarantino's interwoven crime stories in 1990s Los Angeles. Two hitmen (Samuel L. Jackson and John Travolta), a boxer (Bruce Willis), a gangster's wife (Uma Thurman), a diner robbery, and a briefcase full of mystery.
 
@@ -235,7 +235,7 @@
 
 ---
 
-## 83. [Dumb and Dumber (1994)](https://www.imdb.com/title/tt0109686/)
+## 85. [Dumb and Dumber (1994)](https://www.imdb.com/title/tt0109686/)
 
 **Plot in plain language.** Two extremely dumb best friends (Jim Carrey and Jeff Daniels) drive across the country to return a briefcase to a woman one of them has fallen for. They do not realize it's a ransom payment.
 
@@ -251,7 +251,7 @@
 
 ---
 
-## 84. [Clerks (1994)](https://www.imdb.com/title/tt0109445/)
+## 86. [Clerks (1994)](https://www.imdb.com/title/tt0109445/)
 
 **Plot in plain language.** Kevin Smith's black-and-white debut, shot in the convenience store he was working at. Two slacker clerks (Dante and Randal) spend a day arguing, dealing with terrible customers, and rambling about Star Wars.
 
@@ -266,7 +266,7 @@
 
 ---
 
-## 85. [The Lion King (1994)](https://www.imdb.com/title/tt0110357/)
+## 87. [The Lion King (1994)](https://www.imdb.com/title/tt0110357/)
 
 **Plot in plain language.** Disney animated Hamlet with lions. Simba's dad gets killed by his uncle, Simba runs away, meets a warthog and a meerkat, has to come back and reclaim the throne.
 
@@ -280,7 +280,7 @@
 
 ---
 
-## 86. [Friday (1995)](https://www.imdb.com/title/tt0113118/)
+## 88. [Friday (1995)](https://www.imdb.com/title/tt0113118/)
 
 **Plot in plain language.** Ice Cube and Chris Tucker hang out on a porch in South Central L.A. on a Friday and a lot of things happen — drug dealers, sketchy neighbors, a bully named Deebo.
 
@@ -295,7 +295,7 @@
 
 ---
 
-## 87. [Tommy Boy (1995)](https://www.imdb.com/title/tt0114694/)
+## 89. [Tommy Boy (1995)](https://www.imdb.com/title/tt0114694/)
 
 **Plot in plain language.** Chris Farley plays the dim-witted heir to his late father's auto-parts company; he hits the road with a sarcastic accountant (David Spade) to save the family business from being bought out. Farley falls down a lot.
 
@@ -312,7 +312,7 @@
 
 ---
 
-## 88. [Billy Madison (1995)](https://www.imdb.com/title/tt0112508/)
+## 90. [Billy Madison (1995)](https://www.imdb.com/title/tt0112508/)
 
 **Plot in plain language.** Adam Sandler plays a grown man who has to repeat grades 1-12 in a single year to inherit his father's hotel chain. Idiotic. Wonderful.
 
@@ -328,7 +328,7 @@
 
 ---
 
-## 89. [Apollo 13 (1995)](https://www.imdb.com/title/tt0112384/)
+## 91. [Apollo 13 (1995)](https://www.imdb.com/title/tt0112384/)
 
 **Plot in plain language.** Ron Howard recreates the real 1970 mission where an oxygen tank exploded on the way to the moon and NASA had to figure out how to get the astronauts home. Tom Hanks, Kevin Bacon, Bill Paxton, Ed Harris.
 
@@ -342,7 +342,7 @@
 
 ---
 
-## 90. [Hackers (1995)](https://www.imdb.com/title/tt0113243/)
+## 92. [Hackers (1995)](https://www.imdb.com/title/tt0113243/)
 
 **Plot in plain language.** A group of New York City teenage hackers — Jonny Lee Miller as "Zero Cool" / Crash Override, Angelina Jolie as Acid Burn, Matthew Lillard as Cereal Killer, and friends — get framed by a corporate security villain ("The Plague") who is running a real crime through the same systems they've been goofing around in. They have to clear their names by out-hacking him, mostly by rollerblading around Manhattan and typing very fast at brightly colored screens. The actual computer stuff in the movie is, generously, *aspirational*. The aesthetic is a 1995 club kid's idea of what cyberspace will look like.
 
@@ -358,7 +358,7 @@
 
 ---
 
-## 91. [Toy Story (1995)](https://www.imdb.com/title/tt0114709/)
+## 93. [Toy Story (1995)](https://www.imdb.com/title/tt0114709/)
 
 **Plot in plain language.** Pixar's first feature. Toys come alive when their owner isn't watching. Woody the cowboy and Buzz Lightyear the spaceman fight, then become friends.
 
@@ -372,7 +372,7 @@
 
 ---
 
-## 92. [Happy Gilmore (1996)](https://www.imdb.com/title/tt0116483/)
+## 94. [Happy Gilmore (1996)](https://www.imdb.com/title/tt0116483/)
 
 **Plot in plain language.** A failed hockey player (Adam Sandler) discovers he can hit a golf ball 400 yards with a hockey-style slap shot and joins the PGA tour to win money to save his grandma's house.
 
@@ -389,7 +389,7 @@
 
 ---
 
-## 93. [Trainspotting (1996)](https://www.imdb.com/title/tt0117951/)
+## 95. [Trainspotting (1996)](https://www.imdb.com/title/tt0117951/)
 
 **Plot in plain language.** Danny Boyle's grimy, kinetic adaptation of the Irvine Welsh novel about Edinburgh heroin addicts trying (or not) to get clean. Ewan McGregor's launch pad.
 
@@ -402,7 +402,7 @@
 
 ---
 
-## 94. [Jerry Maguire (1996)](https://www.imdb.com/title/tt0116695/)
+## 96. [Jerry Maguire (1996)](https://www.imdb.com/title/tt0116695/)
 
 **Plot in plain language.** Tom Cruise as a sports agent who has a moral crisis, writes a mission statement, gets fired, and tries to build a new agency with one client (Cuba Gooding Jr.) and one secretary (Renée Zellweger). Cameron Crowe, third appearance.
 
@@ -417,7 +417,7 @@
 
 ---
 
-## 95. [Fargo (1996)](https://www.imdb.com/title/tt0116282/)
+## 97. [Fargo (1996)](https://www.imdb.com/title/tt0116282/)
 
 **Plot in plain language.** Coen brothers' Minnesota crime story. A car salesman (William H. Macy) hires two thugs to kidnap his wife so his rich father-in-law will pay ransom; things go very wrong. Frances McDormand as the very pregnant, very polite police chief.
 
@@ -432,7 +432,7 @@
 
 ---
 
-## 96. [Swingers (1996)](https://www.imdb.com/title/tt0117802/)
+## 98. [Swingers (1996)](https://www.imdb.com/title/tt0117802/)
 
 **Plot in plain language.** A heartbroken aspiring actor (Jon Favreau) in mid-90s LA tries to get over his ex with the help of his motormouth friend Trent (Vince Vaughn). They drive to Vegas. They go to swing clubs.
 
@@ -446,7 +446,7 @@
 
 ---
 
-## 97. [Austin Powers: International Man of Mystery (1997)](https://www.imdb.com/title/tt0118655/)
+## 99. [Austin Powers: International Man of Mystery (1997)](https://www.imdb.com/title/tt0118655/)
 
 **Plot in plain language.** Mike Myers as a swinging-60s British secret agent thawed out in 1997 to fight Dr. Evil, also played by Myers. Spoof of every Bond convention.
 
@@ -463,7 +463,7 @@
 
 ---
 
-## 98. [Boogie Nights (1997)](https://www.imdb.com/title/tt0118749/)
+## 100. [Boogie Nights (1997)](https://www.imdb.com/title/tt0118749/)
 
 **Plot in plain language.** Paul Thomas Anderson's epic about the late-70s/early-80s San Fernando Valley adult-film industry, centered on a young man named Eddie Adams who becomes "Dirk Diggler." Mark Wahlberg, Burt Reynolds, Julianne Moore, John C. Reilly.
 
@@ -474,7 +474,7 @@
 
 ---
 
-## 99. [Titanic (1997)](https://www.imdb.com/title/tt0120338/)
+## 101. [Titanic (1997)](https://www.imdb.com/title/tt0120338/)
 
 **Plot in plain language.** James Cameron's three-hour blockbuster. A poor artist and a rich passenger fall in love aboard a doomed cruise liner.
 
@@ -489,7 +489,7 @@
 
 ---
 
-## 100. [Good Will Hunting (1997)](https://www.imdb.com/title/tt0119217/)
+## 102. [Good Will Hunting (1997)](https://www.imdb.com/title/tt0119217/)
 
 **Plot in plain language.** A genius MIT janitor (Matt Damon) gets recruited by a math professor and put in therapy with a townie therapist (Robin Williams) after a fight gets him in legal trouble. Damon and Ben Affleck wrote it; Williams won the Oscar.
 
@@ -504,7 +504,7 @@
 
 ---
 
-## 101. [The Big Lebowski (1998)](https://www.imdb.com/title/tt0118715/)
+## 103. [The Big Lebowski (1998)](https://www.imdb.com/title/tt0118715/)
 
 **Plot in plain language.** Coen brothers' shaggy Los Angeles noir. A bowling alley regular known as "The Dude" (Jeff Bridges) gets mistaken for a millionaire of the same name, his rug gets ruined, and a kidnapping plot pulls him deeper. John Goodman as Walter, an unhinged Vietnam vet. Steve Buscemi as Donny.
 
@@ -522,7 +522,7 @@
 
 ---
 
-## 102. [There's Something About Mary (1998)](https://www.imdb.com/title/tt0129387/)
+## 104. [There's Something About Mary (1998)](https://www.imdb.com/title/tt0129387/)
 
 **Plot in plain language.** A nerdy guy (Ben Stiller) hires a private investigator (Matt Dillon) to track down his high-school crush (Cameron Diaz); the investigator falls for her too. The Farrelly Brothers' gross-out classic.
 
@@ -536,7 +536,7 @@
 
 ---
 
-## 103. [Half Baked (1998)](https://www.imdb.com/title/tt0120693/)
+## 105. [Half Baked (1998)](https://www.imdb.com/title/tt0120693/)
 
 **Plot in plain language.** Dave Chappelle's first vehicle. A trio of stoner roommates have to sell weed to bail out their friend who accidentally killed a police horse by feeding it diabetic candy.
 
@@ -552,7 +552,7 @@
 
 ---
 
-## 104. [The Waterboy (1998)](https://www.imdb.com/title/tt0120484/)
+## 106. [The Waterboy (1998)](https://www.imdb.com/title/tt0120484/)
 
 **Plot in plain language.** Sandler as a sheltered, mama's-boy, water-delivery kid for a college football team who turns out to have an amazing tackling rage and becomes a linebacker.
 
@@ -567,7 +567,7 @@
 
 ---
 
-## 105. [Rushmore (1998)](https://www.imdb.com/title/tt0128445/)
+## 107. [Rushmore (1998)](https://www.imdb.com/title/tt0128445/)
 
 **Plot in plain language.** Wes Anderson's breakout. A pretentious 15-year-old prep-school student (Jason Schwartzman) befriends a depressed industrialist (Bill Murray) and they fall for the same teacher.
 
@@ -579,7 +579,7 @@
 
 ---
 
-## 106. [Office Space (1999)](https://www.imdb.com/title/tt0151804/)
+## 108. [Office Space (1999)](https://www.imdb.com/title/tt0151804/)
 
 **Plot in plain language.** A demoralized programmer at a tech company (Ron Livingston) gets hypnotized into a state of total disengagement, stops trying at work, becomes more successful as a result, and plots a small-scale embezzlement scheme with two coworkers. Mike Judge (Beavis and Butt-Head, King of the Hill) directs.
 
@@ -596,7 +596,7 @@
 
 ---
 
-## 107. [The Matrix (1999)](https://www.imdb.com/title/tt0133093/)
+## 109. [The Matrix (1999)](https://www.imdb.com/title/tt0133093/)
 
 **Plot in plain language.** A hacker named Neo (Keanu Reeves) discovers reality is a computer simulation and that humanity is enslaved by machines using us as batteries. Bullet-time fights. Sunglasses. Trench coats. The Wachowskis directing.
 
@@ -612,7 +612,7 @@
 
 ---
 
-## 108. [Fight Club (1999)](https://www.imdb.com/title/tt0137523/)
+## 110. [Fight Club (1999)](https://www.imdb.com/title/tt0137523/)
 
 **Plot in plain language.** A nameless insomniac office worker (Edward Norton) meets a soap salesman (Brad Pitt) and they start an underground fighting club that becomes a movement. Twist ending.
 
@@ -626,7 +626,7 @@
 
 ---
 
-## 109. [American Pie (1999)](https://www.imdb.com/title/tt0163651/)
+## 111. [American Pie (1999)](https://www.imdb.com/title/tt0163651/)
 
 **Plot in plain language.** Four high school senior boys make a pact to lose their virginity by prom night. Eugene Levy plays the dad who keeps giving inappropriately frank advice. Jason Biggs plays a character with a now-infamous pie-related scene.
 
@@ -640,7 +640,7 @@
 
 ---
 
-## 110. [The Sixth Sense (1999)](https://www.imdb.com/title/tt0167404/)
+## 112. [The Sixth Sense (1999)](https://www.imdb.com/title/tt0167404/)
 
 **Plot in plain language.** A child psychologist (Bruce Willis) treats a boy (Haley Joel Osment) who claims he can see dead people. M. Night Shyamalan's debut.
 

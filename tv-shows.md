@@ -6,7 +6,7 @@
 
 Television in the era before streaming worked differently. New episodes aired once a week, at a specific time, on a network you got over the air or via basic cable. If you missed it, you missed it. So everyone watched the same thing at the same time, and at school or work the next morning everyone talked about it. That shared experience is part of why these quotes burrowed in so deep.
 
-## 127. [Cheers (1982–1993)](https://www.imdb.com/title/tt0083399/)
+## 129. [Cheers (1982–1993)](https://www.imdb.com/title/tt0083399/)
 
 **Plot in plain language.** Set entirely in a Boston bar where "everybody knows your name." A revolving cast of regulars and bartenders drink and bicker for 11 seasons. Ted Danson, Shelley Long, Kelsey Grammer, Woody Harrelson, John Ratzenberger, George Wendt.
 
@@ -20,7 +20,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 128. [The A-Team (1983–1987)](https://www.imdb.com/title/tt0084967/)
+## 130. [The A-Team (1983–1987)](https://www.imdb.com/title/tt0084967/)
 
 **Plot in plain language.** Four ex-Special Forces commandos (Hannibal, Face, B.A. Baracus, Howling Mad Murdock) framed for a crime they didn't commit travel the U.S. as soldiers of fortune, helping people while evading the military. Mr. T as B.A.
 
@@ -34,7 +34,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 129. [Knight Rider (1982–1986)](https://www.imdb.com/title/tt0083437/)
+## 131. [Knight Rider (1982–1986)](https://www.imdb.com/title/tt0083437/)
 
 **Plot in plain language.** David Hasselhoff drives a talking, self-driving black Pontiac Trans Am named KITT that fights crime.
 
@@ -47,7 +47,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 130. [Family Ties (1982–1989)](https://www.imdb.com/title/tt0083413/)
+## 132. [Family Ties (1982–1989)](https://www.imdb.com/title/tt0083413/)
 
 **Plot in plain language.** A pair of ex-hippie parents raise their kids in suburban Ohio. Michael J. Fox as Alex P. Keaton, the conservative-suit-wearing teenage stockbroker, is the breakout.
 
@@ -58,7 +58,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 131. [The Cosby Show (1984–1992)](https://www.imdb.com/title/tt0086687/)
+## 133. [The Cosby Show (1984–1992)](https://www.imdb.com/title/tt0086687/)
 
 **Plot in plain language.** A wealthy Black New York family — doctor dad, lawyer mom, five kids. Cosby. Defined the entire 80s sitcom landscape.
 
@@ -66,7 +66,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 132. [The Twilight Zone (Rod Serling's anthologies)](https://www.imdb.com/title/tt0052520/)
+## 134. [The Twilight Zone (Rod Serling's anthologies)](https://www.imdb.com/title/tt0052520/)
 
 **Plot in plain language.** Each episode is a standalone twist-ending story narrated by Rod Serling. The original ran 1959–1964 but reruns and the 1985 revival hit Gen X hard.
 
@@ -80,7 +80,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 133. [MacGyver (1985–1992)](https://www.imdb.com/title/tt0088559/)
+## 135. [MacGyver (1985–1992)](https://www.imdb.com/title/tt0088559/)
 
 **Plot in plain language.** A secret agent (Richard Dean Anderson) refuses to use guns and solves every problem with a Swiss army knife, duct tape, and whatever junk is in the room.
 
@@ -93,7 +93,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 134. [Married… With Children (1987–1997)](https://www.imdb.com/title/tt0092397/)
+## 136. [Married… With Children (1987–1997)](https://www.imdb.com/title/tt0092397/)
 
 **Plot in plain language.** Suburban shoe salesman Al Bundy (Ed O'Neill) has a terrible job, a terrible family, and absolutely zero affection for any of them. Fox network's first big hit, and built on being the anti-Cosby show.
 
@@ -107,7 +107,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 135. [The Wonder Years (1988–1993)](https://www.imdb.com/title/tt0094582/)
+## 137. [The Wonder Years (1988–1993)](https://www.imdb.com/title/tt0094582/)
 
 **Plot in plain language.** Fred Savage as a 12-year-old growing up in the late 60s/early 70s suburbia, narrated by his adult self (Daniel Stern) looking back.
 
@@ -118,7 +118,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 136. [Saved by the Bell (1989–1993)](https://www.imdb.com/title/tt0098700/)
+## 138. [Saved by the Bell (1989–1993)](https://www.imdb.com/title/tt0098700/)
 
 **Plot in plain language.** Six wildly different teenagers at Bayside High in Southern California navigate cliché after cliché. Zack Morris (the blonde scheming hero), Slater (the jock), Screech (the nerd), Kelly (the cheerleader), Jessie (the brain), Lisa (the fashionista). Saturday morning bubblegum.
 
@@ -132,7 +132,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 137. [Seinfeld (1989–1998)](https://www.imdb.com/title/tt0098904/)
+## 139. [Seinfeld (1989–1998)](https://www.imdb.com/title/tt0098904/)
 
 **Plot in plain language.** "A show about nothing." Jerry Seinfeld plays a stand-up comedian in Manhattan whose life is mostly hanging out with three friends: George (Jason Alexander, neurotic and short), Kramer (Michael Richards, hair-and-shins chaos), and Elaine (Julia Louis-Dreyfus, sharp). Episodes are about returning a sweater, waiting for a table, or losing a car in a parking garage. Funniest sitcom of the 90s, period.
 
@@ -151,7 +151,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 138. [The Simpsons (1989–present)](https://www.imdb.com/title/tt0096697/)
+## 140. [The Simpsons (1989–present)](https://www.imdb.com/title/tt0096697/)
 
 **Plot in plain language.** Animated family — incompetent dad Homer, patient mom Marge, troublemaking kid Bart, brainy kid Lisa, baby Maggie — in the town of Springfield. Originally a barbed satire of suburban America; now in its 36+ season run, still going.
 
@@ -174,7 +174,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 139. [Twin Peaks (1990–1991, 2017)](https://www.imdb.com/title/tt0098936/)
+## 141. [Twin Peaks (1990–1991, 2017)](https://www.imdb.com/title/tt0098936/)
 
 **Plot in plain language.** David Lynch's surreal drama about an FBI agent investigating the murder of a teenage girl in a small Pacific Northwest town. Cherry pie, damn fine coffee, a backwards-talking dream-dwarf.
 
@@ -188,7 +188,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 140. [Beverly Hills, 90210 (1990–2000)](https://www.imdb.com/title/tt0098749/)
+## 142. [Beverly Hills, 90210 (1990–2000)](https://www.imdb.com/title/tt0098749/)
 
 **Plot in plain language.** Aaron Spelling teen soap. Twins from Minneapolis move to Beverly Hills and attend West Beverly Hills High. Romance, drama, dramatic looking-out-windows. Defined teen TV in the early-mid 90s.
 
@@ -199,7 +199,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 141. [Beavis and Butt-Head (1993–1997, revived 2011, 2022–present)](https://www.imdb.com/title/tt0106120/)
+## 143. [Beavis and Butt-Head (1993–1997, revived 2011, 2022–present)](https://www.imdb.com/title/tt0106120/)
 
 **Plot in plain language.** MTV cartoon about two unbelievably dumb high school metalheads who watch music videos and laugh at things. Mike Judge created it.
 
@@ -214,7 +214,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 142. [The X-Files (1993–2002, revived 2016)](https://www.imdb.com/title/tt0106179/)
+## 144. [The X-Files (1993–2002, revived 2016)](https://www.imdb.com/title/tt0106179/)
 
 **Plot in plain language.** Two FBI agents — Fox Mulder (David Duchovny), a believer, and Dana Scully (Gillian Anderson), a skeptic — investigate paranormal cases. UFO conspiracies, monsters of the week.
 
@@ -229,7 +229,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 143. [The Fresh Prince of Bel-Air (1990–1996)](https://www.imdb.com/title/tt0098800/)
+## 145. [The Fresh Prince of Bel-Air (1990–1996)](https://www.imdb.com/title/tt0098800/)
 
 **Plot in plain language.** A West Philadelphia teen (Will Smith) is sent to live with his wealthy aunt and uncle in Bel-Air. Hijinks. Career-launching for Will Smith.
 
@@ -244,7 +244,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 144. [Friends (1994–2004)](https://www.imdb.com/title/tt0108778/)
+## 146. [Friends (1994–2004)](https://www.imdb.com/title/tt0108778/)
 
 **Plot in plain language.** Six 20-something friends (Rachel, Monica, Phoebe, Joey, Chandler, Ross) live in suspiciously affordable Manhattan apartments and hang out at a coffee shop called Central Perk.
 
@@ -261,7 +261,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 145. [Saturday Night Live (1975–present, especially 1990s)](https://www.imdb.com/title/tt0072562/)
+## 147. [Saturday Night Live (1975–present, especially 1990s)](https://www.imdb.com/title/tt0072562/)
 
 **Plot in plain language.** Live sketch comedy show. Multiple Gen X-defining casts: the early-90s era of Sandler, Farley, Spade, Schneider, Hartman, Carvey, Myers, Ferrell; the late-90s era with Will Ferrell, Cheri Oteri, Molly Shannon, Tracy Morgan, Jimmy Fallon, Tina Fey; and beyond.
 
@@ -280,7 +280,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 146. [NewsRadio (1995–1999)](https://www.imdb.com/title/tt0112065/)
+## 148. [NewsRadio (1995–1999)](https://www.imdb.com/title/tt0112065/)
 
 **Plot in plain language.** Ensemble sitcom set at an AM news station in NYC. Phil Hartman, Dave Foley, Andy Dick, Joe Rogan (yes, that Joe Rogan, before he was a podcast).
 
@@ -291,7 +291,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 147. [Mystery Science Theater 3000 (1988–1999, revived 2017)](https://www.imdb.com/title/tt0094006/)
+## 149. [Mystery Science Theater 3000 (1988–1999, revived 2017)](https://www.imdb.com/title/tt0094006/)
 
 **Plot in plain language.** A janitor and his two robot puppets watch terrible B-movies and make fun of them in real time. Their silhouettes appear at the bottom of the screen.
 
@@ -302,7 +302,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 148. [South Park (1997–present)](https://www.imdb.com/title/tt0121955/)
+## 150. [South Park (1997–present)](https://www.imdb.com/title/tt0121955/)
 
 **Plot in plain language.** Crudely-animated Colorado fourth-graders comment on every topical event with rapid turnaround episodes. Trey Parker and Matt Stone created it.
 
@@ -317,7 +317,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 149. [The Sopranos (1999–2007)](https://www.imdb.com/title/tt0141842/)
+## 151. [The Sopranos (1999–2007)](https://www.imdb.com/title/tt0141842/)
 
 **Plot in plain language.** Tony Soprano (James Gandolfini), a New Jersey mob boss, sees a therapist (Lorraine Bracco) about panic attacks and his complicated relationship with his mother. Considered the show that started "prestige TV."
 
@@ -331,7 +331,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 150. [The West Wing (1999–2006)](https://www.imdb.com/title/tt0200276/)
+## 152. [The West Wing (1999–2006)](https://www.imdb.com/title/tt0200276/)
 
 **Plot in plain language.** Aaron Sorkin's idealistic White House drama. Walk-and-talks down corridors, rapid-fire intelligent dialogue, an aspirational Democratic administration led by President Bartlet (Martin Sheen).
 
@@ -345,7 +345,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 151. [The Office (US, 2005–2013)](https://www.imdb.com/title/tt0386676/)
+## 153. [The Office (US, 2005–2013)](https://www.imdb.com/title/tt0386676/)
 
 **Plot in plain language.** Mockumentary about the employees of a fictional paper company's Scranton, PA, branch. Adapted from the British series. Michael Scott (Steve Carell), Jim, Pam, Dwight, and a vast supporting cast.
 
@@ -362,7 +362,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 152. [Arrested Development (2003–2006, 2013, 2018)](https://www.imdb.com/title/tt0367279/)
+## 154. [Arrested Development (2003–2006, 2013, 2018)](https://www.imdb.com/title/tt0367279/)
 
 **Plot in plain language.** A wealthy, terrible Orange County family loses everything after the patriarch is arrested for fraud. Narrated by Ron Howard. Jason Bateman as the one decent son. Michael Cera, Will Arnett, David Cross, Tony Hale, Portia de Rossi, Jeffrey Tambor, Jessica Walter, Will Ferrell guests, Liza Minnelli guests.
 
@@ -378,7 +378,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 153. [Chappelle's Show (2003–2006)](https://www.imdb.com/title/tt0342167/)
+## 155. [Chappelle's Show (2003–2006)](https://www.imdb.com/title/tt0342167/)
 
 **Plot in plain language.** Dave Chappelle's Comedy Central sketch show. Famously ended when Chappelle walked away from a $50M contract.
 
@@ -394,7 +394,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 154. [Curb Your Enthusiasm (2000–2024)](https://www.imdb.com/title/tt0264235/)
+## 156. [Curb Your Enthusiasm (2000–2024)](https://www.imdb.com/title/tt0264235/)
 
 **Plot in plain language.** Larry David plays a fictionalized version of himself in LA, getting into petty social disputes for 12 seasons. Largely improvised.
 
@@ -409,7 +409,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 155. [It's Always Sunny in Philadelphia (2005–present)](https://www.imdb.com/title/tt0472954/)
+## 157. [It's Always Sunny in Philadelphia (2005–present)](https://www.imdb.com/title/tt0472954/)
 
 **Plot in plain language.** The Gang (Dennis, Mac, Charlie, Dee, Frank) run a terrible bar in Philly and concoct increasingly stupid schemes. Late Gen-X/early Millennial workplace nihilism.
 
@@ -424,7 +424,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 156. [Lost (2004–2010)](https://www.imdb.com/title/tt0411008/)
+## 158. [Lost (2004–2010)](https://www.imdb.com/title/tt0411008/)
 
 **Plot in plain language.** A plane crashes on a mysterious island. Survivors discover the island is full of strange stuff — a hatch, a smoke monster, polar bears, time travel. Six seasons of fan theories.
 
@@ -437,7 +437,7 @@ Television in the era before streaming worked differently. New episodes aired on
 
 ---
 
-## 157. [24 (2001–2010, plus reunions)](https://www.imdb.com/title/tt0285331/)
+## 159. [24 (2001–2010, plus reunions)](https://www.imdb.com/title/tt0285331/)
 
 **Plot in plain language.** Counter-terrorism agent Jack Bauer (Kiefer Sutherland) has 24 hours to stop a national disaster. Each episode is one hour of real time.
 
