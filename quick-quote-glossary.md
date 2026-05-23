@@ -120,6 +120,8 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "All I need are some tasty waves, a cool buzz, and I'm fine." | Fast Times at Ridgemont High |
 | "Hey bud, let's party!" | Fast Times at Ridgemont High (Spicoli) |
 | "E.T. phone home." / "Be good." | E.T. the Extra-Terrestrial (1982) |
+| "220, 221. Whatever it takes." | Mr. Mom (1983) |
+| "Woobie." | Mr. Mom |
 | "Take off, you hoser!" / "Take off, eh?" | Strange Brew (1983) |
 | "Beauty." / "Beauty, eh?" | Strange Brew (Bob & Doug McKenzie) |
 | "Sometimes you gotta say, 'What the f***.'" | Risky Business (1983) |
@@ -158,6 +160,8 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "Moon River..." (humming confidently in the wrong context) | Fletch |
 | "Goonies never say die." | The Goonies (1985) |
 | "Hey you guuuuuys!" | The Goonies |
+| "Gung ho." (said with mild sarcasm about an overenthusiastic colleague) | Gung Ho (1986) |
+| "I'm gonna be straight with you." (before being not straight with you) | Gung Ho |
 | "I feel the need… the need for speed!" | Top Gun (1986) |
 | "Talk to me, Goose." | Top Gun |
 | "You can be my wingman anytime." / "I'll be your wingman anytime." | Top Gun |
