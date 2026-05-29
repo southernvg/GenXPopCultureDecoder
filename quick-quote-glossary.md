@@ -495,3 +495,5 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "I'm the trash man." | It's Always Sunny |
 | "We have to go back!" | Lost (2004) — Jack |
 | "DAMMIT!" (intensely) | 24 (2001) — Jack Bauer |
+| "I love it when a plan comes together." (movie version) | The A-Team (2010) — Hannibal |
+| "Overkill is underrated." | The A-Team (2010) — Hannibal |

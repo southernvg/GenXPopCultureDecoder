@@ -254,6 +254,18 @@ Note: Gen X was in our late 20s and early 30s for most of this stretch — out o
 
 ---
 
+## 161. [The A-Team (2010)](https://www.imdb.com/title/tt0429493/)
+
+**Plot in plain language.** Big-screen reboot of the beloved TV show: four elite ex-Army Rangers — Hannibal (Liam Neeson), Face (Bradley Cooper), B.A. Baracus (Quinton "Rampage" Jackson), and Howling Mad Murdock (Sharlto Copley) — are framed for a crime they didn't commit and bust out to clear their names with maximum firepower and improvised plans.
+
+**Why it stuck.** Gen X finally got the movie version of their childhood show. Liam Neeson as Hannibal gave it unexpected gravitas and Bradley Cooper as Face felt exactly right. It doesn't try to be more than it is: loud, kinetic, and gleefully over-the-top — exactly like the show. The original catchphrase survived intact.
+
+**Quotes you'll actually hear.**
+- "I love it when a plan comes together." — Hannibal (Liam Neeson), lighting a cigar. Same line, new face. Used any time something clicks perfectly, especially after a scheme goes exactly as intended.
+- "Overkill is underrated." — Hannibal, justifying the team's characteristically excessive approach to problem-solving. Deployed whenever someone questions why you went way too far.
+
+**Where it pops up now.** Never got a sequel but landed in heavy streaming rotation where Gen X parents use it to introduce kids to the franchise. "I love it when a plan comes together" crosses both generations — the line doesn't care which version you grew up on.
+
 ---
 
 &laquo; Previous: [1990s movies](movies-1990s.md) · [Back to the main index](README.md) · Next: [TV shows](tv-shows.md) &raquo;
