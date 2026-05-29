@@ -124,6 +124,11 @@ If you only have time for a phrasebook, this section is the cheat sheet. Scan th
 | "Woobie." | Mr. Mom |
 | "Take off, you hoser!" / "Take off, eh?" | Strange Brew (1983) |
 | "Beauty." / "Beauty, eh?" | Strange Brew (Bob & Doug McKenzie) |
+| "Shall we play a game?" | WarGames (1983) |
+| "How about a nice game of chess?" | WarGames |
+| "A strange game. The only winning move is not to play." | WarGames |
+| "Is it a game, or is it real?" | WarGames |
+| "Greetings, Professor Falken." | WarGames |
 | "Sometimes you gotta say, 'What the f***.'" | Risky Business (1983) |
 | "Porsche. There is no substitute." | Risky Business |
 | "You'll shoot your eye out." | A Christmas Story (1983) |
